@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="UrogenitaleAandoening22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.30" shortName="UrogenitaleAandoening22" displayName="Urogenitale aandoening (2.2)" status="draft">
+  <item code="45816000" codeSystem="2.16.840.1.113883.6.96" displayName="Pyelonephritis (disorder)" type="L">
+    <property name="name" language="nl-NL">Pyelonefritis</property>
+  </item>
+  <item code="61373006" codeSystem="2.16.840.1.113883.6.96" displayName="Bacteriuria (finding)" type="L">
+    <property name="name" language="nl-NL">Bacteriurie</property>
+  </item>
+  <item code="236425005" codeSystem="2.16.840.1.113883.6.96" displayName="Chronic renal impairment (disorder)" type="L">
+    <property name="name" language="nl-NL">Chronische nierziekte</property>
+  </item>
+</codelist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="AutoImmuunAandoening22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.28" shortName="AutoImmuunAandoening22" displayName="Auto-immuun aandoening (2.2)" status="draft">
+  <item code="55464009" codeSystem="2.16.840.1.113883.6.96" displayName="Systemic lupus erythematosus (disorder)" type="L">
+    <property name="name" language="nl-NL">Systemische Lupus Erythematodes (SLE)</property>
+  </item>
+  <item code="396332003" codeSystem="2.16.840.1.113883.6.96" displayName="Rheumatism (disorder)" type="L">
+    <property name="name" language="nl-NL">Reuma</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

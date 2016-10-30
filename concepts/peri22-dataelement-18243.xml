@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-18243" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.18243" shortName="adrestype" type="item" status="deprecated" dataType="code">
+  <property name="name" language="nl-NL">Adrestype</property>
+  <property name="description" language="nl-NL">Adrestype</property>
+</concept>

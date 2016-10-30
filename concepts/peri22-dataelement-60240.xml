@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-60240" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.60240" shortName="waarschijnlijkheid_sonomarker" type="item" status="deprecated" dataType="code" codelist="UncertaintyCode">
+  <property name="name" language="nl-NL">Waarschijnlijkheid sonomarker</property>
+  <property name="description" language="nl-NL">Waarschijnlijkheid van de tijdens het echoscopisch onderzoek geconstateerde sonomarker</property>
+</concept>

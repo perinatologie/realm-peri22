@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="MaagDarmLeveraandoening22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.29" shortName="MaagDarmLeveraandoening22" displayName="Maag Darm Lever aandoening (2.2)" status="draft">
+  <item code="328383001" codeSystem="2.16.840.1.113883.6.96" displayName="Chronic liver disease (disorder)" type="L">
+    <property name="name" language="nl-NL">Chronische leveraandoeningen</property>
+  </item>
+  <item code="64766004" codeSystem="2.16.840.1.113883.6.96" displayName="Ulcerative colitis (disorder)" type="L">
+    <property name="name" language="nl-NL">Colitis ulcerosa</property>
+  </item>
+  <item code="34000006" codeSystem="2.16.840.1.113883.6.96" displayName="Crohn's disease (disorder)" type="L">
+    <property name="name" language="nl-NL">M. Crohn</property>
+  </item>
+</codelist>

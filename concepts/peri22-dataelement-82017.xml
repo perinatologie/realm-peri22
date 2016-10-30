@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82017" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82017" shortName="verwijzing_naar_zorginstelling_specialisme" type="item" status="draft" dataType="code" codelist="Specialisme">
+  <property name="name" language="nl-NL">Verwijzing naar zorginstelling (specialisme)</property>
+  <property name="description" language="nl-NL">Specialisme waarnaar wordt verwezen.</property>
+</concept>

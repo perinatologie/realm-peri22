@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-10012" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10012" shortName="telefoon_waar_zorgverlener_is_te_bereiken" type="item" status="draft" dataType="string">
+  <property name="name" language="nl-NL">Telefoon waar zorgverlener is te bereiken</property>
+  <property name="description" language="nl-NL">Het gaat hier uitdrukkelijk niet om het normale praktijknummer, maar het (mobiele) nummer waar de verloskundige bereikbaar is voor vragen in verband met de acute overdracht.Dit is een essentieel gegeven om in de urgente situatie de verwijzer te kunnen bellen voor vragen.Verplicht invullen bij acute overdracht.</property>
+</concept>

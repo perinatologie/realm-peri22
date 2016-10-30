@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-24015" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.24015" shortName="hl7_organizer_immunisatie_kind" type="group" status="cancelled">
+  <property name="name" language="nl-NL">(HL7 Organizer Immunisatie kind)</property>
+  <property name="description" language="nl-NL">(HL7 Organizer Immunisatie kind)</property>
+</concept>

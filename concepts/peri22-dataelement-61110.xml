@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-61110" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.61110" shortName="combinatietest_kans_op_trisomie_13" type="item" status="draft" dataType="count">
+  <property name="name" language="nl-NL">Combinatietest kans op trisomie 13</property>
+  <property name="description" language="nl-NL">Kans op trisomie 13 van 1:XBij een bekende kans is de teller (value.numerator) altijd 1. Het aantal cijfers van de noemer (value.denominator) is aangegeven in de kolom 'Lengte'.</property>
+</concept>

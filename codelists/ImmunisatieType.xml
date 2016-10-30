@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ImmunisatieType" oid="2.16.840.1.113883.2.4.11.83" shortName="ImmunisatieType" displayName="ImmunisatieType" status="final">
+  <item code="6466004" codeSystem="2.16.840.1.113883.6.96" displayName="RhD immunisatie" type="L">
+    <property name="name" language="nl-NL">Rhesus-D immunisatie</property>
+  </item>
+  <item code="16584000" codeSystem="2.16.840.1.113883.6.96" displayName="hepatitis-B vaccinatie" type="L">
+    <property name="name" language="nl-NL">actieve Hepatitis-B immunisatie</property>
+  </item>
+</codelist>

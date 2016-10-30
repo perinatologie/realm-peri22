@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82368" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82368" shortName="hepatitis_b_immunisatieq" type="item" status="draft" dataType="boolean">
+  <property name="name" language="nl-NL">Hepatitis B immunisatie?</property>
+  <property name="description" language="nl-NL">Heeft het kind Hepatitis B immunisatie gekregen?</property>
+</concept>

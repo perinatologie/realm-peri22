@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="TypePartus22" oid="2.16.840.1.113883.2.4.11.182" shortName="TypePartus22" displayName="TypePartus22" status="draft">
+  <item code="48782003" codeSystem="2.16.840.1.113883.6.96" displayName="Delivery normal (finding)" type="L">
+    <property name="name" language="nl-NL">Spontaan</property>
+  </item>
+  <item code="8561000146109" codeSystem="2.16.840.1.113883.6.96" displayName="Assisted delivery of fetus (finding)" type="L">
+    <property name="name" language="nl-NL">Vaginale kunstverlossing</property>
+  </item>
+  <item code="200146002" codeSystem="2.16.840.1.113883.6.96" displayName="Cesarean delivery - delivered (finding)" type="S">
+    <property name="name" language="nl-NL">Sectio Caesarea</property>
+  </item>
+  <item code="200148001" codeSystem="2.16.840.1.113883.6.96" displayName="Delivery by elective cesarean section (finding)" level="1" type="L">
+    <property name="name" language="nl-NL">Primair</property>
+  </item>
+  <item code="200149009" codeSystem="2.16.840.1.113883.6.96" displayName="Delivery by emergency cesarean section (finding)" level="1" type="L">
+    <property name="name" language="nl-NL">Secundair</property>
+  </item>
+  <item code="39406005" codeSystem="2.16.840.1.113883.6.96" displayName="Legally induced abortion (disorder)" type="L">
+    <property name="name" language="nl-NL">Termination Of Pregnancy (TOP)</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="geen informatie" type="L">
+    <property name="name" language="nl-NL">geen informatie</property>
+  </item>
+</codelist>

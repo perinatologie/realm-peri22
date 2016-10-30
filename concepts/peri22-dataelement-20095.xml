@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20095" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20095" shortName="geassisteerde_conceptie" type="item" status="pending" dataType="code" codelist="GeassConceptie22">
+  <property name="name" language="nl-NL">Geassisteerde conceptie</property>
+  <property name="description" language="nl-NL">Benaming van de geassisteerde voortplantingstechniek die geleid heeft tot deze zwangerschap.</property>
+</concept>

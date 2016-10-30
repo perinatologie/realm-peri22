@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-61000" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.61000" shortName="identificatie_kansbepaling" type="item" status="deprecated" dataType="identifier">
+  <property name="name" language="nl-NL">Identificatie kansbepaling</property>
+  <property name="description" language="nl-NL">Elke kansbepaling wordt per foetus 'in z'n geheel' aangeleverd. N.B. Ook per foetus kunnen meerdere kansbepalingen (op verschillende momenten) worden gedaan.</property>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-10813" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10813" shortName="welke_irregulaire_antistoffen_vrouw_aanwezig" type="item" status="pending" dataType="code" codelist="BloodGroupAntibodies">
+  <property name="name" language="nl-NL">Welke irregulaire antistoffen vrouw aanwezig.</property>
+  <property name="description" language="nl-NL">Indien irregulaire antistoffen is ja: Welke irregulaire antistoffen zijn bij de vrouw aanwezig? Meerdere antwoorden mogelijk</property>
+</concept>

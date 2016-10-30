@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Ligging" oid="2.16.840.1.113883.2.4.11.188" shortName="Ligging" displayName="Ligging" status="draft">
+  <item code="70028003" codeSystem="2.16.840.1.113883.6.96" displayName="Vertex presentation (finding)" type="L">
+    <property name="name" language="nl-NL">hoofd</property>
+  </item>
+  <item code="6096002" codeSystem="2.16.840.1.113883.6.96" displayName="Breech presentation (finding)" type="L">
+    <property name="name" language="nl-NL">stuit</property>
+  </item>
+  <item code="288203005" codeSystem="2.16.840.1.113883.6.96" displayName="Transverse/oblique lie (finding)" type="L">
+    <property name="name" language="nl-NL">dwars</property>
+  </item>
+  <item code="7721000146107" codeSystem="2.16.840.1.113883.6.96" displayName="Unstable lie (finding)" type="L">
+    <property name="name" language="nl-NL">instabiel</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-40028" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40028" shortName="foetus_volgletter_zoals_ante_partum_gehanteerd" type="item" status="draft" dataType="code" codelist="FoetusVolgletter">
+  <property name="name" language="nl-NL">Foetus volgletter (zoals ante partum gehanteerd)</property>
+  <property name="description" language="nl-NL">Volgletter van de foetus zoals die tijdens de zwangerschap is gehanteerd. Deze is dus in principe niet zorgaanbieder-afhankelijk, maar zou door alle zorgaanbieders in de gehele keten gelijkluidend moeten zijn. Hoewel identificatie meestal niet verder gaat dan 'C' wordt toch een volledige lijst gehanteerd.</property>
+</concept>

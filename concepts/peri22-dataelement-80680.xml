@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-80680" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80680" shortName="huiselijk_geweldq" type="item" status="draft" dataType="boolean">
+  <property name="name" language="nl-NL">Huiselijk geweld?</property>
+  <property name="description" language="nl-NL">Is er sprake (geweest) van huiselijk geweld?Bij huiselijk geweld dat in het verleden heeft plaatsgevonden, maar nu niet meer actueel is, is er voor deze vrouw toch een verhoogd risico aanwezig.Indien gewenst kan nadere toelichting op deze vraag opgenomen worden in 'Toelichting psychosociale anamnese'.</property>
+</concept>

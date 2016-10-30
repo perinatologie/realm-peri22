@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-80623" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80623" shortName="wijze_einde_zwangerschap" type="item" status="pending" dataType="code" codelist="WijzeEindeZwangerschap">
+  <property name="name" language="nl-NL">Wijze einde zwangerschap</property>
+  <property name="description" language="nl-NL">De wijze waarop de zwangerschap geëindigd is.TOP (Termination of Pregnancy) is zwangerschapsafbreking na 16 weken. Bij TOP wordt hier 'Partus' geregistreerd, zodat dit meegenomen wordt als pariteit. Dit in tegenstelling tot APLA, waarmee een zwangerschapsafbreking (abortus) van minder dan 16 weken wordt bedoeld.</property>
+</concept>

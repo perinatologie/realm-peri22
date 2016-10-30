@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-10040" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10040" shortName="geboortedatum" type="item" status="pending" dataType="date">
+  <property name="name" language="nl-NL">Geboortedatum</property>
+  <property name="description" language="nl-NL">Geboortedatum.Indien de dag en/of maand van de geboortedatum niet bekend zijn, vult u dit in als 01-01-xxxx. Wanneer het geboortejaar ook onbekend is, is schatten van het geboortejaar toegestaan.</property>
+</concept>

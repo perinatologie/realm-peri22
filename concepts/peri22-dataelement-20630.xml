@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20630" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20630" shortName="geboorte_placenta" type="item" status="pending" dataType="code" codelist="GeboortePlacenta">
+  <property name="name" language="nl-NL">Geboorte placenta</property>
+  <property name="description" language="nl-NL">De wijze waarop de placenta geboren is</property>
+</concept>

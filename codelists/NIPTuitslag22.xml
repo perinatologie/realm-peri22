@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="NIPTuitslag22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.24" shortName="NIPTuitslag22" displayName="NIPT-uitslag (2.2)" status="draft">
+  <item code="441742003:363714003=7751000146103,363713009=17621005" codeSystem="2.16.840.1.113883.6.96" displayName="Normal non-invasive prenatal test finding (finding)" type="L">
+    <property name="name" language="nl-NL">Normal non-invasive prenatal test finding (finding)</property>
+  </item>
+  <item code="442754001" codeSystem="2.16.840.1.113883.6.96" displayName="Inconclusive evaluation finding (finding)" type="L">
+    <property name="name" language="nl-NL">inconclusief</property>
+  </item>
+  <item code="289448000" codeSystem="2.16.840.1.113883.6.96" displayName="Fetus normal (finding)" type="L">
+    <property name="name" language="nl-NL">normaal</property>
+  </item>
+  <item code="267253006" codeSystem="2.16.840.1.113883.6.96" displayName="Fetus with chromosomal abnormality (disorder)" type="S">
+    <property name="name" language="nl-NL">afwijkend</property>
+  </item>
+  <item code="125521000119101" codeSystem="2.16.840.1.113883.6.96" displayName="Fetus with complete trisomy 13 syndrome (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">trisomie 13</property>
+  </item>
+  <item code="125511000119108" codeSystem="2.16.840.1.113883.6.96" displayName="Fetus with complete trisomy 18 syndrome (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">trisomie 18</property>
+  </item>
+  <item code="125501000119105" codeSystem="2.16.840.1.113883.6.96" displayName="Fetus with complete trisomy 21 syndrome (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">trisomie 21</property>
+  </item>
+  <item code="AbnOth" codeSystem="2.16.840.1.113883.2.4.4.13.62" displayName="Overig afwijkend" level="1" type="L">
+    <property name="name" language="nl-NL">overig</property>
+  </item>
+  <item code="442754001:363714003=7751000146103" codeSystem="2.16.840.1.113883.6.96" displayName="Inconclusive non-invasive prenatal test finding (finding)" type="L">
+    <property name="name" language="nl-NL">Inconclusive non-invasive prenatal test finding (finding)</property>
+  </item>
+</codelist>

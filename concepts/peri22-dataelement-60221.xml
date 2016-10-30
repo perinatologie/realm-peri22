@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-60221" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.60221" shortName="toelichting_guo" type="item" status="deprecated" dataType="text">
+  <property name="name" language="nl-NL">toelichting GUO</property>
+  <property name="description" language="nl-NL">aanvullend op item 60220 toelichting op uitslag of nadere toelichting overige afwijking</property>
+</concept>

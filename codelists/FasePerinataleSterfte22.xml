@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="FasePerinataleSterfte22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.10" shortName="FasePerinataleSterfte22" displayName="Fase Perinatale Sterfte (2.2)" status="draft">
+  <item code="237361005" codeSystem="2.16.840.1.113883.6.96" displayName="Antepartum fetal death (event)" type="L">
+    <property name="name" language="nl-NL">antepartum</property>
+  </item>
+  <item code="237362003" codeSystem="2.16.840.1.113883.6.96" displayName="Intrapartum fetal death (event)" type="L">
+    <property name="name" language="nl-NL">durante partu</property>
+  </item>
+  <item code="276506001" codeSystem="2.16.840.1.113883.6.96" displayName="Newborn death (event)" type="L">
+    <property name="name" language="nl-NL">postpartum</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

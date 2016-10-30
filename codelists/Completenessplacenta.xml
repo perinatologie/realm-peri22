@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Completenessplacenta" oid="2.16.840.1.113883.2.4.11.160" shortName="Completenessplacenta" displayName="Completeness placenta" status="final">
+  <item code="249170006" codeSystem="2.16.840.1.113883.6.96" displayName="compleet" type="L">
+    <property name="name" language="nl-NL">compleet</property>
+  </item>
+  <item code="268479002" codeSystem="2.16.840.1.113883.6.96" displayName="niet compleet" type="L">
+    <property name="name" language="nl-NL">niet compleet</property>
+  </item>
+  <item code="pdubc" codeSystem="2.16.840.1.113883.2.4.4.13.44" displayName="dubieus compleet" type="L">
+    <property name="name" language="nl-NL">dubieus compleet</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+</codelist>

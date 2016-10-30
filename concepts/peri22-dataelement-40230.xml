@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-40230" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40230" shortName="indicatie_sectio_caesarea" type="item" status="pending" dataType="code" codelist="SCIndicatie">
+  <property name="name" language="nl-NL">Indicatie sectio caesarea</property>
+  <property name="description" language="nl-NL">Indicatie sectio caesareaHieronder vallen de indicaties van alle sectio’s zowel primair als secundair.</property>
+</concept>

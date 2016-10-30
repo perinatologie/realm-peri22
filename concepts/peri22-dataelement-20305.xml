@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20305" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20305" shortName="conclusie_risicostatus_na_intake" type="item" status="pending" dataType="code" codelist="ConclusieRisicostatus">
+  <property name="name" language="nl-NL">Conclusie risicostatus na intake</property>
+  <property name="description" language="nl-NL">Conclusie risicostatus na intake</property>
+</concept>

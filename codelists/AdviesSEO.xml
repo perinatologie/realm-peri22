@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="AdviesSEO" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.33" shortName="AdviesSEO" displayName="Advies SEO" status="draft">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.57" displayName="Geen verder onderzoek" type="L">
+    <property name="name" language="nl-NL">Geen verder onderzoek</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.57" displayName="Herhalingsonderzoek" type="L">
+    <property name="name" language="nl-NL">Herhalingsonderzoek</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.57" displayName="Vervolgonderzoek voor pyelectasie" type="L">
+    <property name="name" language="nl-NL">Vervolgonderzoek voor pyelectasie</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.4.13.57" displayName="Verwijzing GUO" type="L">
+    <property name="name" language="nl-NL">Verwijzing GUO</property>
+  </item>
+</codelist>

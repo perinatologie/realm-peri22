@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="AchternaamSoort" oid="2.16.840.1.113883.2.4.3.11.60.101.11.9" shortName="AchternaamSoort" displayName="Achternaam soort" status="final">
+  <item code="BR" codeSystem="2.16.840.1.113883.5.43" displayName="Geslachtsnaam" type="L">
+    <property name="name" language="nl-NL">Geslachtsnaam</property>
+    <property name="desc" language="nl-NL">Geslachtsnaam</property>
+  </item>
+  <item code="SP" codeSystem="2.16.840.1.113883.5.43" displayName="Geslachtsnaam partner" type="L">
+    <property name="name" language="nl-NL">Geslachtsnaam partner</property>
+    <property name="desc" language="nl-NL">Geslachtsnaam partner</property>
+  </item>
+</codelist>

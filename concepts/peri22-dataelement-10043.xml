@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-10043" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10043" shortName="achternaam" type="item" status="pending" dataType="string">
+  <property name="name" language="nl-NL">Achternaam</property>
+  <property name="description" language="nl-NL">De achternaam van een persoon die bij de geboorte is vastgelegd. Afhankeljk van de soort naam is dit de geboortenaam van de persoon of van de partner</property>
+</concept>

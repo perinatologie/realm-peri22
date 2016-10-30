@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-10808" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10808" shortName="actuele_bloeddruk_systolisch" type="item" status="draft" dataType="quantity">
+  <property name="name" language="nl-NL">Actuele bloeddruk systolisch</property>
+  <property name="description" language="nl-NL">Actuele systolische bloeddruk ten tijde van de acute overdracht</property>
+</concept>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ChromosomaleAfwijkingen22" oid="2.16.840.1.113883.2.4.11.198" shortName="ChromosomaleAfwijkingen22" displayName="ChromosomaleAfwijkingen (2.2)" status="draft">
+  <item code="41040004" codeSystem="2.16.840.1.113883.6.96" displayName="Complete trisomy 21 syndrome (disorder)" type="L">
+    <property name="name" language="nl-NL">trisomie 21</property>
+  </item>
+  <item code="51500006" codeSystem="2.16.840.1.113883.6.96" displayName="Complete trisomy 18 syndrome (disorder)" type="L">
+    <property name="name" language="nl-NL">trisomie 18</property>
+  </item>
+  <item code="21111006" codeSystem="2.16.840.1.113883.6.96" displayName="Complete trisomy 13 syndrome (disorder)" type="L">
+    <property name="name" language="nl-NL">trisomie 13</property>
+  </item>
+  <item code="7" codeSystem="2.16.840.1.113883.2.4.4.13.22" displayName="Andere numerieke chromosomale afwijkingen" type="L">
+    <property name="name" language="nl-NL">andere numerieke chromosomale afwijkingen</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overige chromosomale afwijkingen" type="L">
+    <property name="name" language="nl-NL">overige chromosomale afwijkingen</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

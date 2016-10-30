@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-80775" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80775" shortName="mond" type="item" status="draft" dataType="code">
+  <property name="name" language="nl-NL">Mond</property>
+  <property name="description" language="nl-NL">Mond</property>
+</concept>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="GlobalFindings" oid="2.16.840.1.113883.2.4.11.75" shortName="GlobalFindings" displayName="GlobalFindings" status="rejected">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.36" displayName="normaal/geen bijzonderheden" type="L">
+    <property name="name" language="nl-NL">normaal</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.36" displayName="afwijkend" type="L">
+    <property name="name" language="nl-NL">afwijkend</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.36" displayName="niet conclusief" type="L">
+    <property name="name" language="nl-NL">niet conclusief</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.4.13.36" displayName="niet beoordeeld/beoordeelbaar" type="L">
+    <property name="name" language="nl-NL">niet beoordeeld</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.4.13.36" displayName="verdenking afwijking" type="L">
+    <property name="name" language="nl-NL">verdenking afwijking</property>
+  </item>
+  <item code="6" codeSystem="2.16.840.1.113883.2.4.4.13.36" displayName="sonomarker geconstateerd" type="L">
+    <property name="name" language="nl-NL">sonomarker geconstateerd</property>
+  </item>
+</codelist>

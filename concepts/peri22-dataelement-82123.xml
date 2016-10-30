@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82123" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82123" shortName="reden_betrokkenheid" type="item" status="pending" dataType="code" codelist="PediatrischeVerwijsindicatie">
+  <property name="name" language="nl-NL">Reden betrokkenheid</property>
+  <property name="description" language="nl-NL">Reden betrokkenheid van de kinderarts: pediatrische verwijsindicaties.</property>
+</concept>

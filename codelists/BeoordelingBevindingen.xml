@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="BeoordelingBevindingen" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.23" shortName="BeoordelingBevindingen" displayName="Beoordeling Bevindingen" status="draft">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.55" displayName="Geen bijzonderheden" type="L">
+    <property name="name" language="nl-NL">Geen bijzonderheden</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.55" displayName="Verdenking afwijking" type="L">
+    <property name="name" language="nl-NL">Verdenking afwijking</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.55" displayName="Niet beoordeeld/beoordeelbaar" type="L">
+    <property name="name" language="nl-NL">Niet beoordeeld/beoordeelbaar</property>
+  </item>
+</codelist>

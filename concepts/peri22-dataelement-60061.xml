@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-60061" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.60061" shortName="hc_percentiel" type="item" status="draft" dataType="quantity">
+  <property name="name" language="nl-NL">HC percentiel</property>
+  <property name="description" language="nl-NL">Percentiel van head circumference (schedelaomtrek) van de foetus o.b.v. echoscopie.</property>
+</concept>

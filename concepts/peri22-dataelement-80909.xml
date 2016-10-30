@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-80909" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80909" shortName="schildklier_aandoening" type="item" status="pending" dataType="code" codelist="Schildklieraandoening">
+  <property name="name" language="nl-NL">Schildklier aandoening</property>
+  <property name="description" language="nl-NL">Schildklier aandoening</property>
+</concept>

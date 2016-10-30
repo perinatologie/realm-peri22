@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="MedicatieNageboorte" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.9" shortName="MedicatieNageboorte" displayName="Medicatie nageboortetijdperk" status="draft">
+  <item code="H01BB02" codeSystem="2.16.840.1.113883.6.73" displayName="Oxytocin" type="L">
+    <property name="name" language="nl-NL">oxytocine</property>
+  </item>
+  <item code="G02AD" codeSystem="2.16.840.1.113883.6.73" displayName="Prostaglandins" type="L">
+    <property name="name" language="nl-NL">prostaglandine</property>
+  </item>
+  <item code="G02AB" codeSystem="2.16.840.1.113883.6.73" displayName="Ergot alkaloids" type="L">
+    <property name="name" language="nl-NL">moederkoorn alkaloïde</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">overig</property>
+  </item>
+</codelist>

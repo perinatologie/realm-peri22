@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="SCIndicatie" oid="2.16.840.1.113883.2.4.11.39" shortName="SCIndicatie" displayName="SCIndicatie" status="draft">
+  <item code="312850006:246090004=10217006" codeSystem="2.16.840.1.113883.6.96" displayName="History of third degree perineal laceration (situation)" type="L">
+    <property name="name" language="nl-NL">3e graads ruptuur in anamnese</property>
+  </item>
+  <item code="312850006:24609004=399031001" codeSystem="2.16.840.1.113883.6.96" displayName="History of fourth degree perineal laceration (situation)" type="L">
+    <property name="name" language="nl-NL">4e graads ruptuur in anamnese</property>
+  </item>
+  <item code="15028002" codeSystem="2.16.840.1.113883.6.96" displayName="Abnormal fetal presentation (finding)" type="L">
+    <property name="name" language="nl-NL">stuit of liggingsafwijking</property>
+  </item>
+  <item code="237320005" codeSystem="2.16.840.1.113883.6.96" displayName="Failure to progress in first stage of labor (finding)" type="L">
+    <property name="name" language="nl-NL">niet vorderende ontsluiting</property>
+  </item>
+  <item code="249166003" codeSystem="2.16.840.1.113883.6.96" displayName="Failure to progress in second stage of labor (finding)" type="L">
+    <property name="name" language="nl-NL">niet vorderende uitdrijving</property>
+  </item>
+  <item code="444433005:246090004=130955003" codeSystem="2.16.840.1.113883.6.96" displayName="Suspected fetal distress (situation) " type="L">
+    <property name="name" language="nl-NL">verdenking foetale nood</property>
+  </item>
+  <item code="418138009" codeSystem="2.16.840.1.113883.6.96" displayName="Patient condition finding (finding)" type="L">
+    <property name="name" language="nl-NL">maternale conditie</property>
+  </item>
+  <item code="408854000" codeSystem="2.16.840.1.113883.6.96" displayName="Maternal request for treatment (finding)" type="L">
+    <property name="name" language="nl-NL">verzoek moeder</property>
+  </item>
+  <item code="E" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.55" displayName="overig, medische reden" type="L">
+    <property name="name" language="nl-NL">overig, medische reden</property>
+  </item>
+  <item code="F" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.55" displayName="overig, niet-medische reden" type="L">
+    <property name="name" language="nl-NL">overig, niet-medische reden</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="geen informatie" type="L">
+    <property name="name" language="nl-NL">geen informatie</property>
+  </item>
+</codelist>

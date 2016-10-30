@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="VILLijst" oid="2.16.840.1.113883.2.4.11.127" shortName="VILLijst" displayName="Lijst verwijsredenen" status="draft">
+  <item code="1000" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Indicaties vrouw wegens preëxistente aandoeningen – niet gynaecologisch" type="A">
+    <property name="name" language="nl-NL">Indicaties vrouw wegens preëxistente aandoeningen – niet gynaecologisch</property>
+  </item>
+  <item code="1010" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Epilepsie zonder medicatie" level="1" type="L">
+    <property name="name" language="nl-NL">Epilepsie zonder medicatie</property>
+  </item>
+  <item code="1020" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Epilepsie met medicatie" level="1" type="L">
+    <property name="name" language="nl-NL">Epilepsie met medicatie</property>
+  </item>
+  <item code="1030" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Neurologische bloedingen: o.a. subarachnoidale bloedingen/aneurysma pre-existent" level="1" type="L">
+    <property name="name" language="nl-NL">Neurologische bloedingen: o.a. subarachnoidale bloedingen/aneurysma pre-existent</property>
+  </item>
+  <item code="1040" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Sclerose multiple preëxistente" level="1" type="L">
+    <property name="name" language="nl-NL">Sclerose multiple preëxistente</property>
+  </item>
+  <item code="1050" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hernia nuclei pulposi preëxistente" level="1" type="L">
+    <property name="name" language="nl-NL">Hernia nuclei pulposi preëxistente</property>
+  </item>
+  <item code="1060" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Longfunctiestoornis/COPD preëxistente" level="1" type="L">
+    <property name="name" language="nl-NL">Longfunctiestoornis/COPD preëxistente</property>
+  </item>
+  <item code="1070" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Astma preëxistente" level="1" type="L">
+    <property name="name" language="nl-NL">Astma preëxistente</property>
+  </item>
+  <item code="1080" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Tuberculose" level="1" type="A">
+    <property name="name" language="nl-NL">Tuberculose</property>
+  </item>
+  <item code="1081" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Tuberculose met behandeling preëxistente" level="2" type="L">
+    <property name="name" language="nl-NL">Tuberculose met behandeling preëxistente</property>
+  </item>
+  <item code="1082" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Tuberculose in de anamnese" level="2" type="L">
+    <property name="name" language="nl-NL">Tuberculose in de anamnese</property>
+  </item>
+  <item code="1090" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="HIV-infectie preëxistente" level="1" type="L">
+    <property name="name" language="nl-NL">HIV-infectie preëxistente</property>
+  </item>
+  <item code="1100" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="HBsAg-dragerschap preëxistente" level="1" type="L">
+    <property name="name" language="nl-NL">HBsAg-dragerschap preëxistente</property>
+  </item>
+  <item code="1110" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hepatitis C preëxistente" level="1" type="L">
+    <property name="name" language="nl-NL">Hepatitis C preëxistente</property>
+  </item>
+  <item code="1120" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hartafwijking met hemodynamische consequenties moeder" level="1" type="L">
+    <property name="name" language="nl-NL">Hartafwijking met hemodynamische consequenties moeder</property>
+  </item>
+  <item code="1130" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Trombose diep veneuse /longembolie preëxistente" level="1" type="L">
+    <property name="name" language="nl-NL">Trombose diep veneuse /longembolie preëxistente</property>
+  </item>
+  <item code="1140" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Stollingsstoornissen preëxistente" level="1" type="L">
+    <property name="name" language="nl-NL">Stollingsstoornissen preëxistente</property>
+  </item>
+  <item code="1150" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Nierfunctiestoornissen preëxistente" level="1" type="L">
+    <property name="name" language="nl-NL">Nierfunctiestoornissen preëxistente</property>
+  </item>
+  <item code="1160" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hypertensie, preëxistente" level="1" type="L">
+    <property name="name" language="nl-NL">Hypertensie, preëxistente</property>
+  </item>
+  <item code="1170" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Diabetes mellitus" level="1" type="A">
+    <property name="name" language="nl-NL">Diabetes mellitus</property>
+  </item>
+  <item code="1171" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Diabetes mellitus Type I preëxistente" level="2" type="L">
+    <property name="name" language="nl-NL">Diabetes mellitus Type I preëxistente</property>
+  </item>
+  <item code="1172" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Diabetes mellitus Type II preëxistente" level="2" type="L">
+    <property name="name" language="nl-NL">Diabetes mellitus Type II preëxistente</property>
+  </item>
+  <item code="1180" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Schildklieraandoeningen" level="1" type="A">
+    <property name="name" language="nl-NL">Schildklieraandoeningen</property>
+  </item>
+  <item code="1181" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hyperthyreoidie, geen medicatie, afwezig TSH-receptor antistoffen" level="2" type="L">
+    <property name="name" language="nl-NL">Hyperthyreoidie, geen medicatie, afwezig TSH-receptor antistoffen</property>
+  </item>
+  <item code="1182" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hyperthyreoidie, geen medicatie, aanwezig TSH-receptor antistoffen" level="2" type="L">
+    <property name="name" language="nl-NL">Hyperthyreoidie, geen medicatie, aanwezig TSH-receptor antistoffen</property>
+  </item>
+  <item code="1183" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hyperthyreoidie, met medicatie preëxistente" level="2" type="L">
+    <property name="name" language="nl-NL">Hyperthyreoidie, met medicatie preëxistente</property>
+  </item>
+  <item code="1184" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hypothyreoidie na chirurgische C67 of I-131 goed ingesteld, afwezig TSH-receptor antistoffen" level="2" type="L">
+    <property name="name" language="nl-NL">Hypothyreoidie na chirurgische C67 of I-131 goed ingesteld, afwezig TSH-receptor antistoffen</property>
+  </item>
+  <item code="1185" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hypothyreoidie na chirurgische of I-131 goed ingesteld, aanwezig TSH-receptor antistoffen" level="2" type="L">
+    <property name="name" language="nl-NL">Hypothyreoidie na chirurgische of I-131 goed ingesteld, aanwezig TSH-receptor antistoffen</property>
+  </item>
+  <item code="1186" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hypothyreoidie, Ziekte Hashimoto, goed ingesteld" level="2" type="L">
+    <property name="name" language="nl-NL">Hypothyreoidie, Ziekte Hashimoto, goed ingesteld</property>
+  </item>
+  <item code="1190" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hemoglobinopathie preëxistente" level="1" type="L">
+    <property name="name" language="nl-NL">Hemoglobinopathie preëxistente</property>
+  </item>
+  <item code="1200" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Inflammatory Bowel Disease (Colitis ulcerosa, M. Crohn)" level="1" type="L">
+    <property name="name" language="nl-NL">Inflammatory Bowel Disease (Colitis ulcerosa, M. Crohn)</property>
+  </item>
+  <item code="1210" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Systeemziekten en zeldzame aandoeningen" level="1" type="L">
+    <property name="name" language="nl-NL">Systeemziekten en zeldzame aandoeningen</property>
+  </item>
+  <item code="1220" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Harddrugs gebruik (heroïne, methadon, cocaïne, XTC en dergelijke)" level="1" type="L">
+    <property name="name" language="nl-NL">Harddrugs gebruik (heroïne, methadon, cocaïne, XTC en dergelijke)</property>
+  </item>
+  <item code="1230" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Alcoholmisbruik preëxistente" level="1" type="L">
+    <property name="name" language="nl-NL">Alcoholmisbruik preëxistente</property>
+  </item>
+  <item code="1240" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Psychiatrische stoornissen preëxistente" level="1" type="L">
+    <property name="name" language="nl-NL">Psychiatrische stoornissen preëxistente</property>
+  </item>
+  <item code="1250" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="GBS-dragerschap preëxistente" level="1" type="L">
+    <property name="name" language="nl-NL">GBS-dragerschap preëxistente</property>
+  </item>
+  <item code="1260" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Adipositas (morbide = BMI &gt; 35)" level="1" type="L">
+    <property name="name" language="nl-NL">Adipositas (morbide = BMI &gt; 35)</property>
+  </item>
+  <item code="1270" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Reumatoïde artritis" level="1" type="L">
+    <property name="name" language="nl-NL">Reumatoïde artritis</property>
+  </item>
+  <item code="1280" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Maligniteit in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Maligniteit in anamnese</property>
+  </item>
+  <item code="1999" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Overige preëxistente aandoeningen vrouw, niet gynaecologisch" level="1" type="L">
+    <property name="name" language="nl-NL">Overige preëxistente aandoeningen vrouw, niet gynaecologisch</property>
+  </item>
+  <item code="2000" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Indicaties vrouw wegens preëxistente aandoeningen, gynaecologisch" type="A">
+    <property name="name" language="nl-NL">Indicaties vrouw wegens preëxistente aandoeningen, gynaecologisch</property>
+  </item>
+  <item code="2010" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Bekkenbodem reconstructie" level="1" type="L">
+    <property name="name" language="nl-NL">Bekkenbodem reconstructie</property>
+  </item>
+  <item code="2020" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Portio amputatie, Exconisatie, Cryo- en lisbehandeling" level="1" type="A">
+    <property name="name" language="nl-NL">Portio amputatie, Exconisatie, Cryo- en lisbehandeling</property>
+  </item>
+  <item code="2021" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Portio amputatie" level="2" type="L">
+    <property name="name" language="nl-NL">Portio amputatie</property>
+  </item>
+  <item code="2022" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Exconisatie" level="2" type="L">
+    <property name="name" language="nl-NL">Exconisatie</property>
+  </item>
+  <item code="2023" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Cryo- en lisbehandeling" level="2" type="L">
+    <property name="name" language="nl-NL">Cryo- en lisbehandeling</property>
+  </item>
+  <item code="2030" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Myoom enucleatie" level="1" type="L">
+    <property name="name" language="nl-NL">Myoom enucleatie</property>
+  </item>
+  <item code="2040" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Cervixcytologie afwijkend (diagnostiek, follow-up)" level="1" type="L">
+    <property name="name" language="nl-NL">Cervixcytologie afwijkend (diagnostiek, follow-up)</property>
+  </item>
+  <item code="2050" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="DES-dochter (onbehandeld en onder controle)" level="1" type="L">
+    <property name="name" language="nl-NL">DES-dochter (onbehandeld en onder controle)</property>
+  </item>
+  <item code="2060" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="IUD" level="1" type="A">
+    <property name="name" language="nl-NL">IUD</property>
+  </item>
+  <item code="2061" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="IUD Niet te verwijderen" level="2" type="L">
+    <property name="name" language="nl-NL">IUD Niet te verwijderen</property>
+  </item>
+  <item code="2062" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="IUD Status nadat het IUD verwijderd is" level="2" type="L">
+    <property name="name" language="nl-NL">IUD Status nadat het IUD verwijderd is</property>
+  </item>
+  <item code="2070" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Fertiliteit (sub) behandeling in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Fertiliteit (sub) behandeling in anamnese</property>
+  </item>
+  <item code="2080" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Bekkenafwijking (trauma, symfyseruptuur, rachitis)" level="1" type="L">
+    <property name="name" language="nl-NL">Bekkenafwijking (trauma, symfyseruptuur, rachitis)</property>
+  </item>
+  <item code="2090" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Besnijdenis/ernstige anatomische afwijking" level="1" type="L">
+    <property name="name" language="nl-NL">Besnijdenis/ernstige anatomische afwijking</property>
+  </item>
+  <item code="2999" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Overige indicaties vrouw wegens preëxistente aandoeningen, gynaecologisch" level="1" type="L">
+    <property name="name" language="nl-NL">Overige indicaties vrouw wegens preëxistente aandoeningen, gynaecologisch</property>
+  </item>
+  <item code="3000" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Indicaties vrouw wegens obstetrische anamnese" type="A">
+    <property name="name" language="nl-NL">Indicaties vrouw wegens obstetrische anamnese</property>
+  </item>
+  <item code="3010" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Bloedgroepantagonisme" level="1" type="A">
+    <property name="name" language="nl-NL">Bloedgroepantagonisme</property>
+  </item>
+  <item code="3011" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Rhesus, Kell, Duffy, Kidd" level="2" type="L">
+    <property name="name" language="nl-NL">Rhesus, Kell, Duffy, Kidd</property>
+  </item>
+  <item code="3012" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="ABO-antagonisme" level="2" type="L">
+    <property name="name" language="nl-NL">ABO-antagonisme</property>
+  </item>
+  <item code="3020" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Zwangerschapshypertensieve syndromen vorige zwangerschap" level="1" type="A">
+    <property name="name" language="nl-NL">Zwangerschapshypertensieve syndromen vorige zwangerschap</property>
+  </item>
+  <item code="3021" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Zwangerschapshypertensie in de vorige zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">Zwangerschapshypertensie in de vorige zwangerschap</property>
+  </item>
+  <item code="3022" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="(Pre-)eclampsie/HELLP–syndroom in de vorige zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">(Pre-)eclampsie/HELLP–syndroom in de vorige zwangerschap</property>
+  </item>
+  <item code="3030" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Miskraam herhaald" level="1" type="L">
+    <property name="name" language="nl-NL">Miskraam herhaald</property>
+  </item>
+  <item code="3031" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="MOLA in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">MOLA in anamnese</property>
+  </item>
+  <item code="3032" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="abortus provocatus in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">abortus provocatus in anamnese</property>
+  </item>
+  <item code="3040" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Vroeggeboorte, vorige zwangerschap" level="1" type="A">
+    <property name="name" language="nl-NL">Vroeggeboorte, vorige zwangerschap</property>
+  </item>
+  <item code="3041" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Vroeggeboorte (&lt;33 weken), vorige zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">Vroeggeboorte (&lt;33 weken), vorige zwangerschap</property>
+  </item>
+  <item code="3042" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Vroeggeboorte (&gt;=33 weken), vorige zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">Vroeggeboorte (&gt;=33 weken), vorige zwangerschap</property>
+  </item>
+  <item code="3050" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Cervixinsufficiëntie en/of cerclage" level="1" type="L">
+    <property name="name" language="nl-NL">Cervixinsufficiëntie en/of cerclage</property>
+  </item>
+  <item code="3060" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Abruptio placentae (Solutio) in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Abruptio placentae (Solutio) in anamnese</property>
+  </item>
+  <item code="3070" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Kunstverlossing vaginaal (forcipale extractie/vacuumextractie) in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Kunstverlossing vaginaal (forcipale extractie/vacuumextractie) in anamnese</property>
+  </item>
+  <item code="3080" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Sectio caesarea in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Sectio caesarea in anamnese</property>
+  </item>
+  <item code="3081" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Sectio Caesarea i.a, litteken OUS in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Sectio Caesarea i.a, litteken OUS in anamnese</property>
+  </item>
+  <item code="3082" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Sectio Caesarea i.a., litteken corporeel in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Sectio Caesarea i.a., litteken corporeel in anamnese</property>
+  </item>
+  <item code="3090" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Dysmaturiteit (geboortegewicht &lt;p5)" level="1" type="A">
+    <property name="name" language="nl-NL">Dysmaturiteit (geboortegewicht &lt;p5)</property>
+  </item>
+  <item code="3091" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Geboortegewicht &lt;p5 in anamnese" level="2" type="L">
+    <property name="name" language="nl-NL">Geboortegewicht &lt;p5 in anamnese</property>
+  </item>
+  <item code="3092" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Geboortegewicht &lt;p2.3 in anamnese" level="2" type="L">
+    <property name="name" language="nl-NL">Geboortegewicht &lt;p2.3 in anamnese</property>
+  </item>
+  <item code="3100" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Asfyxie (Apgar score 5min &lt;7) in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Asfyxie (Apgar score 5min &lt;7) in anamnese</property>
+  </item>
+  <item code="3110" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Perinatale sterfte in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Perinatale sterfte in anamnese</property>
+  </item>
+  <item code="3120" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Aangeboren afwijkingen en/of erfelijke afwijking eerder kind" level="1" type="L">
+    <property name="name" language="nl-NL">Aangeboren afwijkingen en/of erfelijke afwijking eerder kind</property>
+  </item>
+  <item code="3130" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Haemorrhagia / bloedverlies post partum ten gevolge van episiotomie in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Haemorrhagia / bloedverlies post partum ten gevolge van episiotomie in anamnese</property>
+  </item>
+  <item code="3140" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Haemorrhagia/ bloedverlies post partum ten gevolge van cervixruptuur in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Haemorrhagia/ bloedverlies post partum ten gevolge van cervixruptuur in anamnese</property>
+  </item>
+  <item code="3150" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Haemorrhagia / bloedverlies post partum, andere oorzaken (&gt;1000 cc) in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Haemorrhagia / bloedverlies post partum, andere oorzaken (&gt;1000 cc) in anamnese</property>
+  </item>
+  <item code="3160" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Manuele placentaverwijdering in de anamnese" level="1" type="A">
+    <property name="name" language="nl-NL">Manuele placentaverwijdering in de anamnese</property>
+  </item>
+  <item code="3161" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Placentaverwijdering manuele in de anamnese" level="2" type="L">
+    <property name="name" language="nl-NL">Placentaverwijdering manuele in de anamnese</property>
+  </item>
+  <item code="3162" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Placenta accreta in anamnese" level="2" type="L">
+    <property name="name" language="nl-NL">Placenta accreta in anamnese</property>
+  </item>
+  <item code="3170" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Ruptuur totaal in anamnese (wel/geen functioneel herstel)" level="1" type="L">
+    <property name="name" language="nl-NL">Ruptuur totaal in anamnese (wel/geen functioneel herstel)</property>
+  </item>
+  <item code="3180" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Symfysiolyse in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Symfysiolyse in anamnese</property>
+  </item>
+  <item code="3190" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Depressie post-partum in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Depressie post-partum in anamnese</property>
+  </item>
+  <item code="3200" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Psychose post-partum in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Psychose post-partum in anamnese</property>
+  </item>
+  <item code="3210" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Multipara Grande in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Multipara Grande in anamnese</property>
+  </item>
+  <item code="3220" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Serotiniteit in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Serotiniteit in anamnese</property>
+  </item>
+  <item code="3230" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="GBS-ziekte eerder kind in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">GBS-ziekte eerder kind in anamnese</property>
+  </item>
+  <item code="3250" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Traumatische partus in de anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Traumatische partus in de anamnese</property>
+  </item>
+  <item code="3251" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="schouderdystocie in anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">schouderdystocie in anamnese</property>
+  </item>
+  <item code="3999" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Overige indicaties vrouw wegens obstetrische anamnese" level="1" type="L">
+    <property name="name" language="nl-NL">Overige indicaties vrouw wegens obstetrische anamnese</property>
+  </item>
+  <item code="4000" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Indicaties vrouw ontstaan/vastgesteld tijdens zwangerschap" type="A">
+    <property name="name" language="nl-NL">Indicaties vrouw ontstaan/vastgesteld tijdens zwangerschap</property>
+  </item>
+  <item code="4010" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Termijndiscussie" level="1" type="L">
+    <property name="name" language="nl-NL">Termijndiscussie</property>
+  </item>
+  <item code="4020" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Anemie (Hb &lt; 5,6 mmol/l) tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Anemie (Hb &lt; 5,6 mmol/l) tijdens zwangerschap</property>
+  </item>
+  <item code="4030" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Urineweginfecties tijdens zwangerschap" level="1" type="A">
+    <property name="name" language="nl-NL">Urineweginfecties tijdens zwangerschap</property>
+  </item>
+  <item code="4032" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Recidiverende urineweginfecties (2x) in de zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">Recidiverende urineweginfecties (2x) in de zwangerschap</property>
+  </item>
+  <item code="4040" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Pyelitis tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Pyelitis tijdens zwangerschap</property>
+  </item>
+  <item code="4050" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Toxoplasmose, diagnostiek en therapie tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Toxoplasmose, diagnostiek en therapie tijdens zwangerschap</property>
+  </item>
+  <item code="4060" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Rubella tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Rubella tijdens zwangerschap</property>
+  </item>
+  <item code="4070" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Cytomegalie tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Cytomegalie tijdens zwangerschap</property>
+  </item>
+  <item code="4080" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Herpes genitalis" level="1" type="A">
+    <property name="name" language="nl-NL">Herpes genitalis</property>
+  </item>
+  <item code="4081" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Herpes genitalis (primo-infect) tijdens zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">Herpes genitalis (primo-infect) tijdens zwangerschap</property>
+  </item>
+  <item code="4082" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Herpes genitalis (recidief) tijdens zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">Herpes genitalis (recidief) tijdens zwangerschap</property>
+  </item>
+  <item code="4083" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Herpes labialis tijdens zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">Herpes labialis tijdens zwangerschap</property>
+  </item>
+  <item code="4090" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Parvovirusinfectie tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Parvovirusinfectie tijdens zwangerschap</property>
+  </item>
+  <item code="4100" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Varicella/Zostervirusinfectie tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Varicella/Zostervirusinfectie tijdens zwangerschap</property>
+  </item>
+  <item code="4110" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="HBsAg-dragerschap tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">HBsAg-dragerschap tijdens zwangerschap</property>
+  </item>
+  <item code="4120" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hepatitis virale A, B, C, D of E tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Hepatitis virale A, B, C, D of E tijdens zwangerschap</property>
+  </item>
+  <item code="4130" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Tuberculose tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Tuberculose tijdens zwangerschap</property>
+  </item>
+  <item code="4140" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="HIV-infectie / Aids tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">HIV-infectie / Aids tijdens zwangerschap</property>
+  </item>
+  <item code="4149" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Infectieverdenking overig" level="1" type="L">
+    <property name="name" language="nl-NL">Infectieverdenking overig</property>
+  </item>
+  <item code="4150" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Lues tijdens zwangerschap" level="1" type="A">
+    <property name="name" language="nl-NL">Lues tijdens zwangerschap</property>
+  </item>
+  <item code="4151" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Lues positieve serologie en behandeld tijdens zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">Lues positieve serologie en behandeld tijdens zwangerschap</property>
+  </item>
+  <item code="4152" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Lues positieve serologie en onbehandeld tijdens zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">Lues positieve serologie en onbehandeld tijdens zwangerschap</property>
+  </item>
+  <item code="4153" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Lues primo infectie tijdens zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">Lues primo infectie tijdens zwangerschap</property>
+  </item>
+  <item code="4160" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="HNP ontstaan tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">HNP ontstaan tijdens zwangerschap</property>
+  </item>
+  <item code="4170" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Laparotomie tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Laparotomie tijdens zwangerschap</property>
+  </item>
+  <item code="4180" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Cervixcytologie PAP III A of hoger tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Cervixcytologie PAP III A of hoger tijdens zwangerschap</property>
+  </item>
+  <item code="4190" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Geneesmiddelengebruik mogelijke effect op zwangere en ongeboren vrucht" level="1" type="L">
+    <property name="name" language="nl-NL">Geneesmiddelengebruik mogelijke effect op zwangere en ongeboren vrucht</property>
+  </item>
+  <item code="4200" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Harddrugs gebruik (heroïne, methadon, cocaïne, XTC en dergelijke)" level="1" type="L">
+    <property name="name" language="nl-NL">Harddrugs gebruik (heroïne, methadon, cocaïne, XTC en dergelijke)</property>
+  </item>
+  <item code="4210" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Alcoholmisbruik tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Alcoholmisbruik tijdens zwangerschap</property>
+  </item>
+  <item code="4220" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Psychiatrische aandoeningen (neurosen/psychosen) tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Psychiatrische aandoeningen (neurosen/psychosen) tijdens zwangerschap</property>
+  </item>
+  <item code="4230" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hyperemesis gravidarum" level="1" type="L">
+    <property name="name" language="nl-NL">Hyperemesis gravidarum</property>
+  </item>
+  <item code="4240" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Extra-uteriene graviditeit (EUG)" level="1" type="L">
+    <property name="name" language="nl-NL">Extra-uteriene graviditeit (EUG)</property>
+  </item>
+  <item code="4250" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Prenatale diagnostiek met riscio op aangeboren afwijkingen" level="1" type="L">
+    <property name="name" language="nl-NL">Prenatale diagnostiek met riscio op aangeboren afwijkingen</property>
+  </item>
+  <item code="4260" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Vruchtwaterverlies (&lt;37 weken amenorroe) tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Vruchtwaterverlies (&lt;37 weken amenorroe) tijdens zwangerschap</property>
+  </item>
+  <item code="4270" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Diabetes mellitus tijdens zwangerschap" level="1" type="A">
+    <property name="name" language="nl-NL">Diabetes mellitus tijdens zwangerschap</property>
+  </item>
+  <item code="4271" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Diabetes Mellitus Type I tijdens zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">Diabetes Mellitus Type I tijdens zwangerschap</property>
+  </item>
+  <item code="4272" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Diabetes Mellitus type II tijdens zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">Diabetes Mellitus type II tijdens zwangerschap</property>
+  </item>
+  <item code="4273" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Diabetes gravidarum, zonder medicatie" level="2" type="L">
+    <property name="name" language="nl-NL">Diabetes gravidarum, zonder medicatie</property>
+  </item>
+  <item code="4274" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Diabetes gravidarum + dieet" level="2" type="L">
+    <property name="name" language="nl-NL">Diabetes gravidarum + dieet</property>
+  </item>
+  <item code="4275" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Diabetes gravidarum met insuline" level="2" type="L">
+    <property name="name" language="nl-NL">Diabetes gravidarum met insuline</property>
+  </item>
+  <item code="4280" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Zwangerschapshypertensie definitie volgens de ISSHP" level="1" type="A">
+    <property name="name" language="nl-NL">Zwangerschapshypertensie definitie volgens de ISSHP</property>
+  </item>
+  <item code="4281" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Zwangerschapshypertensie, diastolische RR &gt;= 90 en &lt; 95 mm Hg" level="2" type="L">
+    <property name="name" language="nl-NL">Zwangerschapshypertensie, diastolische RR &gt;= 90 en &lt; 95 mm Hg</property>
+  </item>
+  <item code="4282" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Zwangerschapshypertensie, diastolische RR &gt;= 95 en &lt; 100 mm Hg" level="2" type="L">
+    <property name="name" language="nl-NL">Zwangerschapshypertensie, diastolische RR &gt;= 95 en &lt; 100 mm Hg</property>
+  </item>
+  <item code="4283" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Zwangerschapshypertensie, diastolische RR &gt;= 100 mm Hg" level="2" type="L">
+    <property name="name" language="nl-NL">Zwangerschapshypertensie, diastolische RR &gt;= 100 mm Hg</property>
+  </item>
+  <item code="4284" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Zwangerschapshypertensie, systolische RR &gt;140 mm Hg" level="2" type="L">
+    <property name="name" language="nl-NL">Zwangerschapshypertensie, systolische RR &gt;140 mm Hg</property>
+  </item>
+  <item code="4290" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Pre-eclampsie, gesuperponeerde pre-eclampsie, HELLP-syndroom" level="1" type="A">
+    <property name="name" language="nl-NL">Pre-eclampsie, gesuperponeerde pre-eclampsie, HELLP-syndroom</property>
+  </item>
+  <item code="4291" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Pre-eclampsie tijdens zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">Pre-eclampsie tijdens zwangerschap</property>
+  </item>
+  <item code="4292" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Pre-eclampsie gesuperponeerde tijdens zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">Pre-eclampsie gesuperponeerde tijdens zwangerschap</property>
+  </item>
+  <item code="4293" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="HELLP-syndroom tijdens zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">HELLP-syndroom tijdens zwangerschap</property>
+  </item>
+  <item code="4294" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Eclampsie" level="2" type="L">
+    <property name="name" language="nl-NL">Eclampsie</property>
+  </item>
+  <item code="4300" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Bloedgroepantagonisme" level="1" type="A">
+    <property name="name" language="nl-NL">Bloedgroepantagonisme</property>
+  </item>
+  <item code="4310" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Trombose, diepveneus tijdens de zwangerschap" level="2" type="L">
+    <property name="name" language="nl-NL">Trombose, diepveneus tijdens de zwangerschap</property>
+  </item>
+  <item code="4311" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Rhesus, Kell, Duffy, Kidd" level="2" type="L">
+    <property name="name" language="nl-NL">Rhesus, Kell, Duffy, Kidd</property>
+  </item>
+  <item code="4312" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="ABO-antagonisme" level="2" type="L">
+    <property name="name" language="nl-NL">ABO-antagonisme</property>
+  </item>
+  <item code="4320" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Stollingsstoornissen tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Stollingsstoornissen tijdens zwangerschap</property>
+  </item>
+  <item code="4330" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Bloedverlies persisterend voor 16 weken tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Bloedverlies persisterend voor 16 weken tijdens zwangerschap</property>
+  </item>
+  <item code="4340" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Bloedverlies na 16 weken deze zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Bloedverlies na 16 weken deze zwangerschap</property>
+  </item>
+  <item code="4350" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Abruptio placentae deze zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Abruptio placentae deze zwangerschap</property>
+  </item>
+  <item code="4351" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Placenta praevia tijdens de zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Placenta praevia tijdens de zwangerschap</property>
+  </item>
+  <item code="4360" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Groeivertraging foetus tijdens zwangerschap (verdenking op)" level="1" type="L">
+    <property name="name" language="nl-NL">Groeivertraging foetus tijdens zwangerschap (verdenking op)</property>
+  </item>
+  <item code="4370" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Positieve dyscongruentie (evaluatie van)" level="1" type="L">
+    <property name="name" language="nl-NL">Positieve dyscongruentie (evaluatie van)</property>
+  </item>
+  <item code="4380" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Serotiniteit ( &gt; 294 dagen amenorroe)" level="1" type="L">
+    <property name="name" language="nl-NL">Serotiniteit ( &gt; 294 dagen amenorroe)</property>
+  </item>
+  <item code="4390" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Vroeggeboorte (dreigende) deze zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Vroeggeboorte (dreigende) deze zwangerschap</property>
+  </item>
+  <item code="4400" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Cervixinsufficiëntie tijdens deze zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Cervixinsufficiëntie tijdens deze zwangerschap</property>
+  </item>
+  <item code="4410" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Bekkenklachten in deze zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Bekkenklachten in deze zwangerschap</property>
+  </item>
+  <item code="4420" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Meerlingzwangerschap deze zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Meerlingzwangerschap deze zwangerschap</property>
+  </item>
+  <item code="4430" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Liggingsafwijking à terme (waaronder stuitligging)" level="1" type="L">
+    <property name="name" language="nl-NL">Liggingsafwijking à terme (waaronder stuitligging)</property>
+  </item>
+  <item code="4440" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Niet ingedaalde schedel à terme" level="1" type="L">
+    <property name="name" language="nl-NL">Niet ingedaalde schedel à terme</property>
+  </item>
+  <item code="4441" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Niet ingedaalde schedel na het breken van de vliezen (a terme)" level="1" type="L">
+    <property name="name" language="nl-NL">Niet ingedaalde schedel na het breken van de vliezen (a terme)</property>
+  </item>
+  <item code="4450" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Zorg geen voorgaande prenatale zorg (± à terme)" level="1" type="L">
+    <property name="name" language="nl-NL">Zorg geen voorgaande prenatale zorg (± à terme)</property>
+  </item>
+  <item code="4460" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Afstandskind" level="1" type="L">
+    <property name="name" language="nl-NL">Afstandskind</property>
+  </item>
+  <item code="4470" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Intrauteriene vruchtdood" level="1" type="L">
+    <property name="name" language="nl-NL">Intrauteriene vruchtdood</property>
+  </item>
+  <item code="4480" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Obstetrisch relevante uterus myomatosus" level="1" type="L">
+    <property name="name" language="nl-NL">Obstetrisch relevante uterus myomatosus</property>
+  </item>
+  <item code="4490" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Mola deze zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Mola deze zwangerschap</property>
+  </item>
+  <item code="4500" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Minder leven" level="1" type="L">
+    <property name="name" language="nl-NL">Minder leven</property>
+  </item>
+  <item code="4600" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Foetale hartritmestoornis tijdens zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Foetale hartritmestoornis tijdens zwangerschap</property>
+  </item>
+  <item code="4999" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Overige indicaties vrouw ontstaan/vastgesteld tijdens de zwangerschap" level="1" type="L">
+    <property name="name" language="nl-NL">Overige indicaties vrouw ontstaan/vastgesteld tijdens de zwangerschap</property>
+  </item>
+  <item code="5000" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Indicaties vrouw ontstaan tijdens bevalling" type="A">
+    <property name="name" language="nl-NL">Indicaties vrouw ontstaan tijdens bevalling</property>
+  </item>
+  <item code="5010" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Ligging afwijkend van het kind" level="1" type="L">
+    <property name="name" language="nl-NL">Ligging afwijkend van het kind</property>
+  </item>
+  <item code="5020" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Foetale nood tekenen van" level="1" type="L">
+    <property name="name" language="nl-NL">Foetale nood tekenen van</property>
+  </item>
+  <item code="5030" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Foetale sterfte durante partu" level="1" type="L">
+    <property name="name" language="nl-NL">Foetale sterfte durante partu</property>
+  </item>
+  <item code="5040" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Gebroken vliezen zonder weeën" level="1" type="L">
+    <property name="name" language="nl-NL">Gebroken vliezen zonder weeën</property>
+  </item>
+  <item code="5050" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Niet-vorderende ontsluiting" level="1" type="L">
+    <property name="name" language="nl-NL">Niet-vorderende ontsluiting</property>
+  </item>
+  <item code="5060" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Niet-vorderende uitdrijving" level="1" type="L">
+    <property name="name" language="nl-NL">Niet-vorderende uitdrijving</property>
+  </item>
+  <item code="5070" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Bloedverlies overmatig tijdens de baring volgens inschatting zorgverlener" level="1" type="L">
+    <property name="name" language="nl-NL">Bloedverlies overmatig tijdens de baring volgens inschatting zorgverlener</property>
+  </item>
+  <item code="5071" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Haemorragia/bloedverlies postpartum deze baring" level="1" type="L">
+    <property name="name" language="nl-NL">Haemorragia/bloedverlies postpartum deze baring</property>
+  </item>
+  <item code="5080" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Abruptio placentae tijdens de baring" level="1" type="L">
+    <property name="name" language="nl-NL">Abruptio placentae tijdens de baring</property>
+  </item>
+  <item code="5090" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Vasa praevia tijdens de baring" level="1" type="L">
+    <property name="name" language="nl-NL">Vasa praevia tijdens de baring</property>
+  </item>
+  <item code="5100" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Retentio placentae, vastzittende placenta" level="1" type="L">
+    <property name="name" language="nl-NL">Retentio placentae, vastzittende placenta</property>
+  </item>
+  <item code="5110" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Ruptuur totaal deze baring" level="1" type="L">
+    <property name="name" language="nl-NL">Ruptuur totaal deze baring</property>
+  </item>
+  <item code="5120" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Meconiumhoudend vruchtwater" level="1" type="L">
+    <property name="name" language="nl-NL">Meconiumhoudend vruchtwater</property>
+  </item>
+  <item code="5130" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Koorts tijdens de baring" level="1" type="L">
+    <property name="name" language="nl-NL">Koorts tijdens de baring</property>
+  </item>
+  <item code="5140" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Pijnbestrijding/sedatie tijdens de baring" level="1" type="L">
+    <property name="name" language="nl-NL">Pijnbestrijding/sedatie tijdens de baring</property>
+  </item>
+  <item code="5150" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Vulvahematoom" level="1" type="L">
+    <property name="name" language="nl-NL">Vulvahematoom</property>
+  </item>
+  <item code="5160" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Symfysiolyse" level="1" type="L">
+    <property name="name" language="nl-NL">Symfysiolyse</property>
+  </item>
+  <item code="5170" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Prenatale zorg geen voorafgaande aan tijdens de baring" level="1" type="L">
+    <property name="name" language="nl-NL">Prenatale zorg geen voorafgaande aan tijdens de baring</property>
+  </item>
+  <item code="5180" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Placenta Previa tijdens de baring" level="1" type="L">
+    <property name="name" language="nl-NL">Placenta Previa tijdens de baring</property>
+  </item>
+  <item code="5190" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Uterusdehiscentie littekendehiscentie" level="1" type="L">
+    <property name="name" language="nl-NL">Uterusdehiscentie littekendehiscentie</property>
+  </item>
+  <item code="5200" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Uterusruptuur (met spill in buikholte)" level="1" type="L">
+    <property name="name" language="nl-NL">Uterusruptuur (met spill in buikholte)</property>
+  </item>
+  <item code="5210" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Vaginawandruptuur deze baring" level="1" type="L">
+    <property name="name" language="nl-NL">Vaginawandruptuur deze baring</property>
+  </item>
+  <item code="5999" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Overige indicaties vrouw ontstaan tijdens de bevalling" level="1" type="L">
+    <property name="name" language="nl-NL">Overige indicaties vrouw ontstaan tijdens de bevalling</property>
+  </item>
+  <item code="6000" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Indicaties vrouw ontstaan tijdens de kraamperiode" type="A">
+    <property name="name" language="nl-NL">Indicaties vrouw ontstaan tijdens de kraamperiode</property>
+  </item>
+  <item code="6010" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="(Dreigende) eclampsie, (verdenking op) HELLP-syndroom" level="1" type="A">
+    <property name="name" language="nl-NL">(Dreigende) eclampsie, (verdenking op) HELLP-syndroom</property>
+  </item>
+  <item code="6011" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Pre-eclampsie tijdens kraamperiode" level="2" type="L">
+    <property name="name" language="nl-NL">Pre-eclampsie tijdens kraamperiode</property>
+  </item>
+  <item code="6012" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Pre-eclampsie gesuperponeerde tijdens kraamperiode" level="2" type="L">
+    <property name="name" language="nl-NL">Pre-eclampsie gesuperponeerde tijdens kraamperiode</property>
+  </item>
+  <item code="6013" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="HELLP-syndroom tijdens kraamperiode" level="2" type="L">
+    <property name="name" language="nl-NL">HELLP-syndroom tijdens kraamperiode</property>
+  </item>
+  <item code="6020" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Trombose diep veneuze tijdens kraamperiode" level="1" type="L">
+    <property name="name" language="nl-NL">Trombose diep veneuze tijdens kraamperiode</property>
+  </item>
+  <item code="6030" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Psychose tijdens kraamperiode" level="1" type="L">
+    <property name="name" language="nl-NL">Psychose tijdens kraamperiode</property>
+  </item>
+  <item code="6040" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Bloedverlies abnormaal vaginaal tijdens kraamperiode" level="1" type="L">
+    <property name="name" language="nl-NL">Bloedverlies abnormaal vaginaal tijdens kraamperiode</property>
+  </item>
+  <item code="6050" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Opname-indicatie voor het kind" level="1" type="L">
+    <property name="name" language="nl-NL">Opname-indicatie voor het kind</property>
+  </item>
+  <item code="6060" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Embolie tijdens kraamperiode" level="1" type="L">
+    <property name="name" language="nl-NL">Embolie tijdens kraamperiode</property>
+  </item>
+  <item code="6070" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hematoom postpartum" level="1" type="L">
+    <property name="name" language="nl-NL">Hematoom postpartum</property>
+  </item>
+  <item code="6080" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Bloedtransfusie postpartum" level="1" type="L">
+    <property name="name" language="nl-NL">Bloedtransfusie postpartum</property>
+  </item>
+  <item code="6090" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Mastitis tijdens kraamperiode" level="1" type="L">
+    <property name="name" language="nl-NL">Mastitis tijdens kraamperiode</property>
+  </item>
+  <item code="6100" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Endometritis tijdens kraamperiode" level="1" type="L">
+    <property name="name" language="nl-NL">Endometritis tijdens kraamperiode</property>
+  </item>
+  <item code="6110" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Cystitis en/of urineweg infectie tijdens kraamperiode" level="1" type="L">
+    <property name="name" language="nl-NL">Cystitis en/of urineweg infectie tijdens kraamperiode</property>
+  </item>
+  <item code="6499" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Overige indicaties vrouw tijdens de kraamperiode" level="1" type="L">
+    <property name="name" language="nl-NL">Overige indicaties vrouw tijdens de kraamperiode</property>
+  </item>
+  <item code="6500" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Indicaties kind voor opname" type="A">
+    <property name="name" language="nl-NL">Indicaties kind voor opname</property>
+  </item>
+  <item code="6510" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Zwangerschaps duur als opname indicatie kind" level="1" type="L">
+    <property name="name" language="nl-NL">Zwangerschaps duur als opname indicatie kind</property>
+  </item>
+  <item code="6520" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Geboortegewicht als opname indicatie kind" level="1" type="L">
+    <property name="name" language="nl-NL">Geboortegewicht als opname indicatie kind</property>
+  </item>
+  <item code="6530" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Problemen partus" level="1" type="A">
+    <property name="name" language="nl-NL">Problemen partus</property>
+  </item>
+  <item code="6531" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Kunstverlossing (problemen partus) als opname indicatie kind" level="2" type="L">
+    <property name="name" language="nl-NL">Kunstverlossing (problemen partus) als opname indicatie kind</property>
+  </item>
+  <item code="6532" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Liggingsafwijkingen (problemen partus) als opname indicatie kind" level="2" type="L">
+    <property name="name" language="nl-NL">Liggingsafwijkingen (problemen partus) als opname indicatie kind</property>
+  </item>
+  <item code="6533" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Langdurig gebroken vliezen (problemen partus) als opname indicatie kind" level="2" type="L">
+    <property name="name" language="nl-NL">Langdurig gebroken vliezen (problemen partus) als opname indicatie kind</property>
+  </item>
+  <item code="6534" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Problemen partus overig als opname indicatie kind" level="2" type="L">
+    <property name="name" language="nl-NL">Problemen partus overig als opname indicatie kind</property>
+  </item>
+  <item code="6540" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Klinische conditie kind" level="1" type="A">
+    <property name="name" language="nl-NL">Klinische conditie kind</property>
+  </item>
+  <item code="6542" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Icterus neonatorum" level="2" type="L">
+    <property name="name" language="nl-NL">Icterus neonatorum</property>
+  </item>
+  <item code="6543" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Voedingsproblemen/ diarrhee kind" level="2" type="L">
+    <property name="name" language="nl-NL">Voedingsproblemen/ diarrhee kind</property>
+  </item>
+  <item code="6544" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Infectieverdenking kind" level="2" type="L">
+    <property name="name" language="nl-NL">Infectieverdenking kind</property>
+  </item>
+  <item code="6545" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hartafwijking kind verdenking op" level="2" type="L">
+    <property name="name" language="nl-NL">Hartafwijking kind verdenking op</property>
+  </item>
+  <item code="6546" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Ademhalingsproblemen kind" level="2" type="L">
+    <property name="name" language="nl-NL">Ademhalingsproblemen kind</property>
+  </item>
+  <item code="6547" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hypoglycemie" level="2" type="L">
+    <property name="name" language="nl-NL">Hypoglycemie</property>
+  </item>
+  <item code="6548" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Slechte start (verdenking Asfyxie)" level="2" type="L">
+    <property name="name" language="nl-NL">Slechte start (verdenking Asfyxie)</property>
+  </item>
+  <item code="6549" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Aangeboren afwijkingen kind" level="2" type="L">
+    <property name="name" language="nl-NL">Aangeboren afwijkingen kind</property>
+  </item>
+  <item code="6550" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Convulsies kind" level="2" type="L">
+    <property name="name" language="nl-NL">Convulsies kind</property>
+  </item>
+  <item code="6551" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Huilen Excessief" level="2" type="L">
+    <property name="name" language="nl-NL">Huilen Excessief</property>
+  </item>
+  <item code="6552" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Thrive failure to" level="2" type="L">
+    <property name="name" language="nl-NL">Thrive failure to</property>
+  </item>
+  <item code="6553" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Klinische condities kind overig" level="2" type="L">
+    <property name="name" language="nl-NL">Klinische condities kind overig</property>
+  </item>
+  <item code="6599" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Overige indicaties kind voor opname" level="1" type="L">
+    <property name="name" language="nl-NL">Overige indicaties kind voor opname</property>
+  </item>
+  <item code="7000" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Medisch, Obstetrische High Care indicatie vrouw en kind wegens" type="A">
+    <property name="name" language="nl-NL">Medisch, Obstetrische High Care indicatie vrouw en kind wegens</property>
+  </item>
+  <item code="7100" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Indicatie intensieve maternale bewaking:" level="1" type="A">
+    <property name="name" language="nl-NL">Indicatie intensieve maternale bewaking:</property>
+  </item>
+  <item code="7110" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="HELLP syndroom" level="2" type="L">
+    <property name="name" language="nl-NL">HELLP syndroom</property>
+  </item>
+  <item code="7120" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Preeclampsie ernstig" level="2" type="L">
+    <property name="name" language="nl-NL">Preeclampsie ernstig</property>
+  </item>
+  <item code="7130" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Obstetrische complicatie ernstig" level="2" type="L">
+    <property name="name" language="nl-NL">Obstetrische complicatie ernstig</property>
+  </item>
+  <item code="7140" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Maternale OHC indicaties overig" level="2" type="L">
+    <property name="name" language="nl-NL">Maternale OHC indicaties overig</property>
+  </item>
+  <item code="7200" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Indicatie intensieve foetale bewaking:" level="1" type="A">
+    <property name="name" language="nl-NL">Indicatie intensieve foetale bewaking:</property>
+  </item>
+  <item code="7210" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Foetale groeivertraging met geschat gewicht &lt; 1200 g en/of &lt;32wk" level="2" type="L">
+    <property name="name" language="nl-NL">Foetale groeivertraging met geschat gewicht &lt; 1200 g en/of &lt;32wk</property>
+  </item>
+  <item code="7220" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Dreigende vroeggeboorte &lt; 32 weken" level="2" type="L">
+    <property name="name" language="nl-NL">Dreigende vroeggeboorte &lt; 32 weken</property>
+  </item>
+  <item code="7230" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Alle zwangerschappen met hoog-complexe zorg voor foetus" level="2" type="L">
+    <property name="name" language="nl-NL">Alle zwangerschappen met hoog-complexe zorg voor foetus</property>
+  </item>
+  <item code="7240" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Congenitaal afwijkend kind" level="2" type="L">
+    <property name="name" language="nl-NL">Congenitaal afwijkend kind</property>
+  </item>
+  <item code="7250" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Foetale hartritmestoornis met specifieke bewakingsbehoefte" level="2" type="L">
+    <property name="name" language="nl-NL">Foetale hartritmestoornis met specifieke bewakingsbehoefte</property>
+  </item>
+  <item code="7260" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Grote meerling (&gt;= 3)" level="2" type="L">
+    <property name="name" language="nl-NL">Grote meerling (&gt;= 3)</property>
+  </item>
+  <item code="7270" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Transfuseur-transfusée syndroom" level="2" type="L">
+    <property name="name" language="nl-NL">Transfuseur-transfusée syndroom</property>
+  </item>
+  <item code="7280" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Uitstelprocedure bij meerling (getemporiseerde partus)" level="2" type="L">
+    <property name="name" language="nl-NL">Uitstelprocedure bij meerling (getemporiseerde partus)</property>
+  </item>
+  <item code="7290" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Overige foetale OHC indicaties" level="2" type="L">
+    <property name="name" language="nl-NL">Overige foetale OHC indicaties</property>
+  </item>
+  <item code="7300" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Indicatie kraambed bij intensieve neonatale bewaking:" level="1" type="A">
+    <property name="name" language="nl-NL">Indicatie kraambed bij intensieve neonatale bewaking:</property>
+  </item>
+  <item code="7310" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="kraambed wegens neonaat op NICU" level="2" type="L">
+    <property name="name" language="nl-NL">kraambed wegens neonaat op NICU</property>
+  </item>
+  <item code="7320" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="kraambed wegens neonaat op intensieve zorg anders dan NICU (bv chirurgie)" level="2" type="L">
+    <property name="name" language="nl-NL">kraambed wegens neonaat op intensieve zorg anders dan NICU (bv chirurgie)</property>
+  </item>
+  <item code="7499" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Overige indicaties vrouw/kind voor Obstetrische High Care" level="1" type="L">
+    <property name="name" language="nl-NL">Overige indicaties vrouw/kind voor Obstetrische High Care</property>
+  </item>
+  <item code="8000" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Niet medische indicatie vrouw en kind, wegens" type="A">
+    <property name="name" language="nl-NL">Niet medische indicatie vrouw en kind, wegens</property>
+  </item>
+  <item code="8010" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Begin zorgverlening" level="1" type="L">
+    <property name="name" language="nl-NL">Begin zorgverlening</property>
+  </item>
+  <item code="8020" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Zorgverlening afgesloten" level="1" type="L">
+    <property name="name" language="nl-NL">Zorgverlening afgesloten</property>
+  </item>
+  <item code="8030" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Adviesconsult" level="1" type="L">
+    <property name="name" language="nl-NL">Adviesconsult</property>
+  </item>
+  <item code="8100" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Redenen patiënt" level="1" type="A">
+    <property name="name" language="nl-NL">Redenen patiënt</property>
+  </item>
+  <item code="8110" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Verhuizing e.a. logistieke redenen patient" level="2" type="L">
+    <property name="name" language="nl-NL">Verhuizing e.a. logistieke redenen patient</property>
+  </item>
+  <item code="8120" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Eigen keuze/verzoek patiënt" level="2" type="L">
+    <property name="name" language="nl-NL">Eigen keuze/verzoek patiënt</property>
+  </item>
+  <item code="8130" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Overige niet medische redenen patiënt" level="2" type="L">
+    <property name="name" language="nl-NL">Overige niet medische redenen patiënt</property>
+  </item>
+  <item code="8200" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Uitbesteding zorg" level="1" type="A">
+    <property name="name" language="nl-NL">Uitbesteding zorg</property>
+  </item>
+  <item code="8210" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Uitbesteding zorg 1e lijn ivm capaciteitstekort" level="2" type="L">
+    <property name="name" language="nl-NL">Uitbesteding zorg 1e lijn ivm capaciteitstekort</property>
+  </item>
+  <item code="8220" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Uitbesteding zorg 1e lijn overige redenen" level="2" type="L">
+    <property name="name" language="nl-NL">Uitbesteding zorg 1e lijn overige redenen</property>
+  </item>
+  <item code="8230" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Uitbesteding zorg 2e lijn ivm capaciteitstekort" level="2" type="L">
+    <property name="name" language="nl-NL">Uitbesteding zorg 2e lijn ivm capaciteitstekort</property>
+  </item>
+  <item code="8240" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Uitbesteding zorg 2e lijn overige redenen" level="2" type="L">
+    <property name="name" language="nl-NL">Uitbesteding zorg 2e lijn overige redenen</property>
+  </item>
+  <item code="8250" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Uitbesteding zorg 3e lijn ivm capaciteitstekort" level="2" type="L">
+    <property name="name" language="nl-NL">Uitbesteding zorg 3e lijn ivm capaciteitstekort</property>
+  </item>
+  <item code="8260" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Uitbesteding zorg 3e lijn overige redenen" level="2" type="L">
+    <property name="name" language="nl-NL">Uitbesteding zorg 3e lijn overige redenen</property>
+  </item>
+  <item code="8270" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Uitbesteding zorg Pediatrie ivm capaciteitstekort" level="2" type="L">
+    <property name="name" language="nl-NL">Uitbesteding zorg Pediatrie ivm capaciteitstekort</property>
+  </item>
+  <item code="8280" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Uitbesteding zorg Pediatrie overige redenen" level="2" type="L">
+    <property name="name" language="nl-NL">Uitbesteding zorg Pediatrie overige redenen</property>
+  </item>
+  <item code="8499" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Overige niet medische indicaties vrouw en kind" level="1" type="L">
+    <property name="name" language="nl-NL">Overige niet medische indicaties vrouw en kind</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="anders" type="L">
+    <property name="name" language="nl-NL">anders</property>
+  </item>
+  <item code="NAV" codeSystem="2.16.840.1.113883.5.1008" displayName="tijdelijk niet beschikbaar" type="L">
+    <property name="name" language="nl-NL">tijdelijk niet beschikbaar</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="geen informatie" type="L">
+    <property name="name" language="nl-NL">geen informatie</property>
+  </item>
+</codelist>

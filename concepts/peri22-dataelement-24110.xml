@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-24110" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.24110" shortName="toediener_identificatie" type="item" status="cancelled" dataType="identifier">
+  <property name="name" language="nl-NL">Toediener identificatie</property>
+  <property name="description" language="nl-NL">Toediener identificatie</property>
+</concept>

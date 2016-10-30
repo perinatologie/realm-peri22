@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-80791" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80791" shortName="datumtijd_geboorte_placenta" type="item" status="draft" dataType="datetime">
+  <property name="name" language="nl-NL">Datum/tijd geboorte placenta</property>
+  <property name="description" language="nl-NL">Datum en tijd geboorte placenta</property>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-70011" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.70011" shortName="voeding_kind_datum" type="item" status="pending" dataType="date">
+  <property name="name" language="nl-NL">Voeding kind (datum)</property>
+  <property name="description" language="nl-NL">Datum waarop de aangegeven voeding betrekking heeft, bijvoorbeeld bij einde zorg, bij ontslag ziekenhuis</property>
+</concept>

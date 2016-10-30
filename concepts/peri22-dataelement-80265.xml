@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-80265" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80265" shortName="uitvoerende_organisatie_ura" type="item" status="draft" dataType="identifier">
+  <property name="name" language="nl-NL">Uitvoerende organisatie (URA)</property>
+  <property name="description" language="nl-NL">Uitvoerende organisatie (URA)</property>
+</concept>

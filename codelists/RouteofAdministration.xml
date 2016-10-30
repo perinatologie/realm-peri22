@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="RouteofAdministration" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.8" shortName="RouteofAdministration" displayName="Administration" status="draft">
+  <item code="434589000" codeSystem="2.16.840.1.113883.6.96" displayName="Administration of substance via oral route (procedure)" type="L">
+    <property name="name" language="nl-NL">Oraal</property>
+  </item>
+  <item code="78746004" codeSystem="2.16.840.1.113883.6.96" displayName="Neurostimulation procedure (procedure)" type="L">
+    <property name="name" language="nl-NL">Elektroden</property>
+  </item>
+  <item code="386356001" codeSystem="2.16.840.1.113883.6.96" displayName="Medication administration: intramuscular (procedure)" type="L">
+    <property name="name" language="nl-NL">Intramusculair</property>
+  </item>
+  <item code="431215000" codeSystem="2.16.840.1.113883.6.96" displayName="Administration of substance via intravenous route (procedure)" type="L">
+    <property name="name" language="nl-NL">Intraveneus</property>
+  </item>
+  <item code="431784008" codeSystem="2.16.840.1.113883.6.96" displayName="Administration of substance via subcutaneous route (procedure)" type="L">
+    <property name="name" language="nl-NL">Intra- of subcutaan</property>
+  </item>
+  <item code="241716000" codeSystem="2.16.840.1.113883.6.96" displayName="Patient controlled analgesia (procedure)" type="L">
+    <property name="name" language="nl-NL">Intraveneus PCA</property>
+  </item>
+  <item code="241717009" codeSystem="2.16.840.1.113883.6.96" displayName="Inhalational analgesia (procedure)" type="L">
+    <property name="name" language="nl-NL">Inhalatie</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

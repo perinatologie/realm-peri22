@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Infectieziekte" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.15" shortName="Infectieziekte" displayName="Infectieziekten" status="draft">
+  <item code="87628006" codeSystem="2.16.840.1.113883.6.96" displayName="Bacterial infectious disease (disorder)" type="A">
+    <property name="name" language="nl-NL">Bacterieel</property>
+  </item>
+  <item code="240589008" codeSystem="2.16.840.1.113883.6.96" displayName="Chlamydia trachomatis infection (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Chlamydia trachomatis</property>
+  </item>
+  <item code="15628003" codeSystem="2.16.840.1.113883.6.96" displayName="Gonorrhea (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Gonorroe</property>
+  </item>
+  <item code="426933007" codeSystem="2.16.840.1.113883.6.96" displayName="Streptococcus agalactiae infection (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">GBS</property>
+  </item>
+  <item code="266096002" codeSystem="2.16.840.1.113883.6.96" displayName="Methicillin resistant Staphylococcus aureus infection (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">MRSA</property>
+  </item>
+  <item code="56717001" codeSystem="2.16.840.1.113883.6.96" displayName="Tuberculosis (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">TBC</property>
+  </item>
+  <item code="34014006" codeSystem="2.16.840.1.113883.6.96" displayName="Viral disease (disorder)" type="A">
+    <property name="name" language="nl-NL">Viraal</property>
+  </item>
+  <item code="28944009" codeSystem="2.16.840.1.113883.6.96" displayName="Cytomegalovirus infection (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Cytomegalie (CMV)</property>
+  </item>
+  <item code="23513009" codeSystem="2.16.840.1.113883.6.96" displayName="Herpesvirus infection (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Herpes</property>
+  </item>
+  <item code="165806002" codeSystem="2.16.840.1.113883.6.96" displayName="Hepatitis B surface antigen positive (finding)" level="1" type="L">
+    <property name="name" language="nl-NL">HBsAg-dragerschap</property>
+  </item>
+  <item code="86406008" codeSystem="2.16.840.1.113883.6.96" displayName="Human immunodeficiency virus infection (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">HIV</property>
+  </item>
+  <item code="66071002" codeSystem="2.16.840.1.113883.6.96" displayName="Type B viral hepatitis (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Hepatitis B</property>
+  </item>
+  <item code="50711007" codeSystem="2.16.840.1.113883.6.96" displayName="Viral hepatitis C (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Hepatitis C</property>
+  </item>
+  <item code="36653000" codeSystem="2.16.840.1.113883.6.96" displayName="Rubella (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Rubella</property>
+  </item>
+  <item code="309465005" codeSystem="2.16.840.1.113883.6.96" displayName="Varicella-zoster virus infection (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Varicella Zoster</property>
+  </item>
+  <item code="186748004" codeSystem="2.16.840.1.113883.6.96" displayName="Parvovirus infection (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Parvo</property>
+  </item>
+  <item code="17322007" codeSystem="2.16.840.1.113883.6.96" displayName="Disease caused by parasite (disorder)" type="A">
+    <property name="name" language="nl-NL">Parasitair</property>
+  </item>
+  <item code="76272004" codeSystem="2.16.840.1.113883.6.96" displayName="Syphilis (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Lues</property>
+  </item>
+  <item code="187192000" codeSystem="2.16.840.1.113883.6.96" displayName="Toxoplasmosis (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Toxoplasmose</property>
+  </item>
+  <item code="23502006" codeSystem="2.16.840.1.113883.6.96" displayName="Lyme disease (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Lyme</property>
+  </item>
+  <item code="61462000" codeSystem="2.16.840.1.113883.6.96" displayName="Malaria (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Malaria</property>
+  </item>
+  <item code="56335008" codeSystem="2.16.840.1.113883.6.96" displayName="Infection by Trichomonas (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Trichomonas</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

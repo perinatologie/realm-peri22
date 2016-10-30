@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82082" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82082" shortName="aantal_g_proteine_24_uurs" type="item" status="draft" dataType="quantity">
+  <property name="name" language="nl-NL">Aantal g proteïne, 24 uurs</property>
+  <property name="description" language="nl-NL">Aantal g proteïne, 24 uurs</property>
+</concept>

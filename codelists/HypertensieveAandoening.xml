@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="HypertensieveAandoening" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.36" shortName="HypertensieveAandoening" displayName="Hypertensieve aandoening" status="draft">
+  <item code="48194001" codeSystem="2.16.840.1.113883.6.96" displayName="Pregnancy-induced hypertension (disorder)" type="L">
+    <property name="name" language="nl-NL">Zwangerschapshypertensie</property>
+  </item>
+  <item code="398254007" codeSystem="2.16.840.1.113883.6.96" displayName="Pre-eclampsia (disorder)" type="L">
+    <property name="name" language="nl-NL">Preeclampsie</property>
+  </item>
+  <item code="95605009" codeSystem="2.16.840.1.113883.6.96" displayName="Hemolysis-elevated liver enzymes-low platelet count syndrome (disorder)" type="L">
+    <property name="name" language="nl-NL">HELPP</property>
+  </item>
+  <item code="15938005" codeSystem="2.16.840.1.113883.6.96" displayName="Eclampsia (disorder)" type="L">
+    <property name="name" language="nl-NL">Eclampsie</property>
+  </item>
+</codelist>

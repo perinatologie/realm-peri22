@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="RedenOverdrachtCategorie" oid="2.16.840.1.113883.2.4.11.153" shortName="RedenOverdrachtCategorie" displayName="Categorie Reden overdracht" status="final">
+  <item code="38341003" codeSystem="2.16.840.1.113883.6.96" displayName="Hypertensive disorder" type="L">
+    <property name="name" language="nl-NL">hypertensieve aandoeningen</property>
+  </item>
+  <item code="106004004" codeSystem="2.16.840.1.113883.6.96" displayName="Haemorrhagic complication of pregnancy" type="L">
+    <property name="name" language="nl-NL">bloeding</property>
+  </item>
+  <item code="45757002" codeSystem="2.16.840.1.113883.6.96" displayName="Labour problem" type="L">
+    <property name="name" language="nl-NL">baringsproblemen</property>
+  </item>
+  <item code="276601004" codeSystem="2.16.840.1.113883.6.96" displayName="Fetus at risk" type="L">
+    <property name="name" language="nl-NL">verdenking foetale nood</property>
+  </item>
+  <item code="44247006" codeSystem="2.16.840.1.113883.6.96" displayName="Prematurity of fetus" type="L">
+    <property name="name" language="nl-NL">immaturiteit/prematuriteit</property>
+  </item>
+  <item code="21522001" codeSystem="2.16.840.1.113883.6.96" displayName="Abdominal pain" type="L">
+    <property name="name" language="nl-NL">buikpijn</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.63" displayName="overige bedreigde maternale vitale functies" type="L">
+    <property name="name" language="nl-NL">overige bedreigde maternale vitale functies</property>
+  </item>
+  <item code="183695003" codeSystem="2.16.840.1.113883.6.96" displayName="Obstetric self-referral" type="L">
+    <property name="name" language="nl-NL">zelfverwijzing</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="overig" type="L">
+    <property name="name" language="nl-NL">overig</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="geen informatie" type="L">
+    <property name="name" language="nl-NL">geen informatie</property>
+  </item>
+</codelist>

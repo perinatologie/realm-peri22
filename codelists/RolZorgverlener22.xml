@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="RolZorgverlener22" oid="2.16.840.1.113883.2.4.11.186" shortName="RolZorgverlener22" displayName="RolZorgverlener22" status="final">
+  <item code="11" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.59" displayName="1e lijns verloskundige" type="L">
+    <property name="name" language="nl-NL">1e lijns verloskundige</property>
+  </item>
+  <item code="25" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.59" displayName="klinisch verloskundige" type="L">
+    <property name="name" language="nl-NL">klinisch verloskundige</property>
+  </item>
+  <item code="12" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.59" displayName="verloskundige in opleiding" type="L">
+    <property name="name" language="nl-NL">verloskundige in opleiding</property>
+  </item>
+  <item code="01.046" codeSystem="2.16.840.1.113883.2.4.15.111" displayName="gynaecoloog" type="L">
+    <property name="name" language="nl-NL">gynaecoloog</property>
+  </item>
+  <item code="22" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.59" displayName="gynaecoloog in opleiding" type="L">
+    <property name="name" language="nl-NL">gynaecoloog in opleiding</property>
+  </item>
+  <item code="24" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.59" displayName="arts-assistent" type="L">
+    <property name="name" language="nl-NL">arts-assistent</property>
+  </item>
+  <item code="13" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.59" displayName="co-assistent" type="L">
+    <property name="name" language="nl-NL">co-assistent</property>
+  </item>
+  <item code="01.015" codeSystem="2.16.840.1.113883.2.4.15.111" displayName="huisarts" type="L">
+    <property name="name" language="nl-NL">huisarts</property>
+  </item>
+  <item code="15" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.59" displayName="huisarts in opleiding" type="L">
+    <property name="name" language="nl-NL">huisarts in opleiding</property>
+  </item>
+  <item code="23" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.59" displayName="arts, niet in opleiding" type="L">
+    <property name="name" language="nl-NL">arts, niet in opleiding</property>
+  </item>
+  <item code="30.000" codeSystem="2.16.840.1.113883.2.4.15.111" displayName="verpleegkundige" type="L">
+    <property name="name" language="nl-NL">verpleegkundige</property>
+  </item>
+  <item code="32" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.59" displayName="kraamverzorgende" type="L">
+    <property name="name" language="nl-NL">kraamverzorgende</property>
+  </item>
+  <item code="33" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.59" displayName="niet medisch geschoolde" type="L">
+    <property name="name" language="nl-NL">niet medisch geschoolde</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="geen informatie" type="L">
+    <property name="name" language="nl-NL">geen informatie</property>
+  </item>
+</codelist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Longaandoening" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.205" shortName="Longaandoening" displayName="Longaandoening" status="draft">
+  <item code="195967001" codeSystem="2.16.840.1.113883.6.96" displayName="Asthma (disorder)" type="L">
+    <property name="name" language="nl-NL">Astma</property>
+  </item>
+  <item code="13645005" codeSystem="2.16.840.1.113883.6.96" displayName="Chronic obstructive lung disease (disorder)" type="L">
+    <property name="name" language="nl-NL">COPD</property>
+  </item>
+  <item code="31541009" codeSystem="2.16.840.1.113883.6.96" displayName="Sarcoidosis (disorder)" type="L">
+    <property name="name" language="nl-NL">Sarcoidosis</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

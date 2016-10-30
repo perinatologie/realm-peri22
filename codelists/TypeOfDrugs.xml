@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="TypeOfDrugs" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.3" shortName="TypeOfDrugs" displayName="TypeOfDrugs" status="draft">
+  <item code="398705004" codeSystem="2.16.840.1.113883.6.96" displayName="Cannabis (substance)" type="L">
+    <property name="name" language="nl-NL">Cannabis / marihuana</property>
+  </item>
+  <item code="387085005" codeSystem="2.16.840.1.113883.6.96" displayName="Cocaine (substance)" type="L">
+    <property name="name" language="nl-NL">Cocaïne</property>
+  </item>
+  <item code="229003004" codeSystem="2.16.840.1.113883.6.96" displayName="Cocaine freebase (substance)" type="L">
+    <property name="name" language="nl-NL">Crack / Base coke</property>
+  </item>
+  <item code="288459003" codeSystem="2.16.840.1.113883.6.96" displayName="Methylenedioxymethamphetamine (substance)" type="L">
+    <property name="name" language="nl-NL">XTC</property>
+  </item>
+  <item code="373338002" codeSystem="2.16.840.1.113883.6.96" displayName="Amphetamine (substance)" type="L">
+    <property name="name" language="nl-NL">Amfetamine / speed</property>
+  </item>
+  <item code="387341002" codeSystem="2.16.840.1.113883.6.96" displayName="Heroin (substance)" type="L">
+    <property name="name" language="nl-NL">Heroïne</property>
+  </item>
+  <item code="387286002" codeSystem="2.16.840.1.113883.6.96" displayName="Methadone (substance)" type="L">
+    <property name="name" language="nl-NL">Methadon</property>
+  </item>
+  <item code="386029006" codeSystem="2.16.840.1.113883.6.96" displayName="Sodium Oxybutyrate (substance)" type="L">
+    <property name="name" language="nl-NL">GHB</property>
+  </item>
+  <item code="288478003" codeSystem="2.16.840.1.113883.6.96" displayName="Amyl nitrate - non-pharmaceutical (substance)" type="L">
+    <property name="name" language="nl-NL">Poppers</property>
+  </item>
+  <item code="15698006" codeSystem="2.16.840.1.113883.6.96" displayName="Lysergic acid diethylamide (substance)" type="L">
+    <property name="name" language="nl-NL">LSD</property>
+  </item>
+  <item code="229006007" codeSystem="2.16.840.1.113883.6.96" displayName="Hallucinogenic mushrooms (substance)" type="L">
+    <property name="name" language="nl-NL">Paddo's / ecodrugs</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

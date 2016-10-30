@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-18275" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.18275" shortName="rangnummer_kind" type="item" status="deprecated" dataType="count">
+  <property name="name" language="nl-NL">Rangnummer kind</property>
+  <property name="description" language="nl-NL">Volgnummer van geboorte binnen de betreffende zwangerschap. Dit element heeft alleen betrekking op elke foetus die vanaf 16w 0d zijn ‘geboren’, dus ook in geval van foetale reductie (selectieve foeticide).</property>
+</concept>

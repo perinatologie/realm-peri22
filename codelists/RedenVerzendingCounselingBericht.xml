@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="RedenVerzendingCounselingBericht" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.1" shortName="RedenVerzendingCounselingBericht" displayName="Reden Verzending Counseling Bericht" status="draft">
+  <item code="aan" codeSystem="2.16.840.1.113883.2.4.4.13.53" displayName="Aanmelding zwangerschap" type="L">
+    <property name="name" language="nl-NL">Aanmelding zwangerschap</property>
+  </item>
+  <item code="def" codeSystem="2.16.840.1.113883.2.4.4.13.53" displayName="Definitieve à terme datum" type="L">
+    <property name="name" language="nl-NL">Definitieve à terme datum</property>
+  </item>
+  <item code="24w" codeSystem="2.16.840.1.113883.2.4.4.13.53" displayName="24 weken zwanger" type="L">
+    <property name="name" language="nl-NL">24 weken zwanger</property>
+  </item>
+  <item code="upd" codeSystem="2.16.840.1.113883.2.4.4.13.53" displayName="Update na 24 weken" type="L">
+    <property name="name" language="nl-NL">Update na 24 weken</property>
+  </item>
+</codelist>

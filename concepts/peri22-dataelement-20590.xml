@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20590" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20590" shortName="tijdstip_begin_actieve_ontsluiting" type="item" status="pending" dataType="datetime">
+  <property name="name" language="nl-NL">Tijdstip begin actieve ontsluiting</property>
+  <property name="description" language="nl-NL">Datum en tijd begin actieve ontsluitingKNOV definitie van actieve ontsluting:</property>
+</concept>

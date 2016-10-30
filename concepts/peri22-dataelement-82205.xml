@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82205" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82205" shortName="percentiel_schedelomtrek" type="item" status="cancelled" dataType="quantity">
+  <property name="name" language="nl-NL">Percentiel schedelomtrek</property>
+  <property name="description" language="nl-NL">Percentiel van de schedelomtrek</property>
+</concept>

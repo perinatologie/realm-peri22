@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20616" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20616" shortName="bijstimulatie_toegediendq" type="item" status="pending" dataType="boolean">
+  <property name="name" language="nl-NL">Bijstimulatie toegediend?</property>
+  <property name="description" language="nl-NL">Is er na begin van de baring bijstimulatie gegeven?Let op, het gaat hier om chemische inleiding. Het gaat hier om bijstimulatie vanwege weeënzwakte en/of stagnerende baring en/of langdurig gebroken vliezen à terme.</property>
+</concept>

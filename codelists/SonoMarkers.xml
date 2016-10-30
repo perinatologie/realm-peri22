@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="SonoMarkers" oid="2.16.840.1.113883.2.4.11.77" shortName="SonoMarkers" displayName="SonoMarkers" status="final">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.35" displayName="Echodense focus in het hart" type="L">
+    <property name="name" language="nl-NL">Echodense focus in het hart</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.35" displayName="Plexus choroideus cysten" type="L">
+    <property name="name" language="nl-NL">Plexus choroideus cysten</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.35" displayName="Verdikte nekplooi / nekhuid" type="L">
+    <property name="name" language="nl-NL">Verdikte nekplooi / nekhuid</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.4.13.35" displayName="Echodense darmen" type="L">
+    <property name="name" language="nl-NL">Echodense darmen</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.4.13.35" displayName="Milde ventriculomegalie" type="L">
+    <property name="name" language="nl-NL">Milde ventriculomegalie</property>
+  </item>
+  <item code="6" codeSystem="2.16.840.1.113883.2.4.4.13.35" displayName="Pyelectasie" type="L">
+    <property name="name" language="nl-NL">Pyelectasie</property>
+  </item>
+  <item code="7" codeSystem="2.16.840.1.113883.2.4.4.13.35" displayName="Kort femur" type="L">
+    <property name="name" language="nl-NL">Kort femur</property>
+  </item>
+  <item code="8" codeSystem="2.16.840.1.113883.2.4.4.13.35" displayName="2 navelstrengvaten" type="L">
+    <property name="name" language="nl-NL">2 navelstrengvaten</property>
+  </item>
+</codelist>

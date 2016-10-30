@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20480" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20480" shortName="direct_ipd_gewenstq" type="item" status="pending" dataType="boolean">
+  <property name="name" language="nl-NL">Direct IPD gewenst?</property>
+  <property name="description" language="nl-NL">Is invasieve prenatale diagnostiek (IPD) door de vrouw gewenst?Dit item is alleen van toepassing wanneer mevrouw een indicatie heeft voor invasieve prenatale diagnostiek (IPD, item 80937) zonder voorafgaande screening.</property>
+</concept>

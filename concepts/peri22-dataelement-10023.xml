@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-10023" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10023" shortName="zorginstelling_lvrid" type="item" status="pending" dataType="identifier" lengthMin="4" lengthMax="4">
+  <property name="name" language="nl-NL">Zorginstelling LVR-ID</property>
+  <property name="description" language="nl-NL">Unieke LVR-identificatie van de zorginstelling.</property>
+</concept>

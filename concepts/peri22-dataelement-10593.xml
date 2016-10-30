@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-10593" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10593" shortName="soort_ziekten_en_bijzonderheden_vrouw_in_de_algemene_anamnese" type="item" status="deprecated" dataType="code" codelist="VILLijst10002000">
+  <property name="name" language="nl-NL">Soort ziekten en bijzonderheden vrouw in de algemene anamnese</property>
+  <property name="description" language="nl-NL">Specificatie van de betreffende ziekte of bijzonderheid in de algemene anamnese.</property>
+</concept>

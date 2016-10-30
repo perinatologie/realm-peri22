@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-80949" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80949" shortName="psie" type="group" status="draft">
+  <property name="name" language="nl-NL">PSIE</property>
+  <property name="description" language="nl-NL">Bloedonderzoek vrouw in het kader van PSIE (Prenatale Screening Infectieziekten en Erytrocytenimmunisatie). Het gaat hier om het onderzoek dat in principe uitgevoerd wordt vóór de 13e week.</property>
+</concept>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="PercentielGeboortegewicht" oid="2.16.840.1.113883.2.4.11.176" shortName="PercentielGeboortegewicht" displayName="PercentielGeboortegewicht" status="final">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.50" displayName="&lt; 2,3" type="L">
+    <property name="name" language="nl-NL">&lt; 2,3</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.50" displayName="2,3 ≤ P &lt; 10" type="L">
+    <property name="name" language="nl-NL">2,3 ≤ P &lt; 10</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.50" displayName="10 ≤ P &lt; 50" type="L">
+    <property name="name" language="nl-NL">10 ≤ P &lt; 50</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.4.13.50" displayName="50 ≤ P &lt; 90" type="L">
+    <property name="name" language="nl-NL">50 ≤ P &lt; 90</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.4.13.50" displayName="90 ≤ P ≤ 97,7" type="L">
+    <property name="name" language="nl-NL">90 ≤ P ≤ 97,7</property>
+  </item>
+  <item code="6" codeSystem="2.16.840.1.113883.2.4.4.13.50" displayName="&gt; 97,7" type="L">
+    <property name="name" language="nl-NL">&gt; 97,7</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

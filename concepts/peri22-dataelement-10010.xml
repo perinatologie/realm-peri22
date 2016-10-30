@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-10010" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10010" shortName="zorgverlenertype" type="item" status="draft" dataType="code" codelist="ZorgverlenerType">
+  <property name="name" language="nl-NL">Zorgverlenertype</property>
+  <property name="description" language="nl-NL">Rol van de zorgverlener waarop deze registratie betrekking heeft.</property>
+</concept>

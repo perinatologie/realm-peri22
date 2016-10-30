@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="PostpartumComplicatie22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.34" shortName="PostpartumComplicatie22" displayName="Postpartum complicatie (2.2)" status="draft">
+  <item code="6010" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="(Dreigende) eclampsie, (verdenking op) HELLP-syndroom" type="A">
+    <property name="name" language="nl-NL">(Dreigende) eclampsie, (verdenking op) HELLP-syndroom</property>
+  </item>
+  <item code="398254007" codeSystem="2.16.840.1.113883.6.96" displayName="Pre-eclampsia (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Pre-eclampsie</property>
+  </item>
+  <item code="67359005" codeSystem="2.16.840.1.113883.6.96" displayName="Pre-eclampsia added to pre-existing hypertension (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Pre-eclampsie gesuperponeerde</property>
+  </item>
+  <item code="303063000" codeSystem="2.16.840.1.113883.6.96" displayName="Eclampsia in puerperium (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Eclampsie</property>
+  </item>
+  <item code="95605009" codeSystem="2.16.840.1.113883.6.96" displayName="Hemolysis-elevated liver enzymes-low platelet count syndrome (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">HELLP-syndroom</property>
+  </item>
+  <item code="56272000" codeSystem="2.16.840.1.113883.6.96" displayName="Postpartum deep phlebothrombosis (disorder)" type="L">
+    <property name="name" language="nl-NL">Trombose diep veneuze</property>
+  </item>
+  <item code="58703003" codeSystem="2.16.840.1.113883.6.96" displayName="Postpartum depression (disorder)" type="L">
+    <property name="name" language="nl-NL">Depressie</property>
+  </item>
+  <item code="18260003" codeSystem="2.16.840.1.113883.6.96" displayName="Postpartum psychosis (disorder)" type="L">
+    <property name="name" language="nl-NL">Psychose</property>
+  </item>
+  <item code="301822002" codeSystem="2.16.840.1.113883.6.96" displayName="Abnormal vaginal bleeding (finding)" type="L">
+    <property name="name" language="nl-NL">Bloedverlies abnormaal vaginaal</property>
+  </item>
+  <item code="414086009" codeSystem="2.16.840.1.113883.6.96" displayName="Embolism (disorder)" type="L">
+    <property name="name" language="nl-NL">Embolie</property>
+  </item>
+  <item code="385494008" codeSystem="2.16.840.1.113883.6.96" displayName="Hematoma (disorder)" type="L">
+    <property name="name" language="nl-NL">Hematoom</property>
+  </item>
+  <item code="116859006" codeSystem="2.16.840.1.113883.6.96" displayName="Transfusion of blood product (procedure)" type="L">
+    <property name="name" language="nl-NL">Bloedtransfusie</property>
+  </item>
+  <item code="178280004" codeSystem="2.16.840.1.113883.6.96" displayName="Postnatal infection (disorder)" type="A">
+    <property name="name" language="nl-NL">Infectie</property>
+  </item>
+  <item code="78623009" codeSystem="2.16.840.1.113883.6.96" displayName="Endometritis (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Endometritis</property>
+  </item>
+  <item code="45198002" codeSystem="2.16.840.1.113883.6.96" displayName="Mastitis (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Mastitis</property>
+  </item>
+  <item code="68566005" codeSystem="2.16.840.1.113883.6.96" displayName="Urinary tract infectious disease (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Urineweginfectie</property>
+  </item>
+  <item code="300927001" codeSystem="2.16.840.1.113883.6.96" displayName="Episiotomy infection (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Ontstoken episiotomie</property>
+  </item>
+  <item code="6150" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Overige infecties" level="1" type="L">
+    <property name="name" language="nl-NL">Overige infecties</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

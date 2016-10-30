@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82166" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82166" shortName="toestemming" type="group" status="cancelled">
+  <property name="name" language="nl-NL">Toestemming</property>
+  <property name="description" language="nl-NL">Toestemmingsgegevens van de vrouw over het utiwisselen van gegevens.</property>
+</concept>

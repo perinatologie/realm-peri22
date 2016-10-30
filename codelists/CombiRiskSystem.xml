@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="CombiRiskSystem" oid="2.16.840.1.113883.2.4.11.79" shortName="CombiRiskSystem" displayName="CombiRiskSystem" status="final">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.40" displayName="LifeCycle" type="L">
+    <property name="name" language="nl-NL">LifeCycle</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.40" displayName="Astraia" type="L">
+    <property name="name" language="nl-NL">Astraia</property>
+  </item>
+</codelist>

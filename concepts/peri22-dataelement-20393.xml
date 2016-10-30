@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20393" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20393" shortName="reden_van_consult_lijst_prn" type="item" status="deprecated" dataType="code" codelist="VILLijst">
+  <property name="name" language="nl-NL">Reden van consult (lijst PRN)</property>
+  <property name="description" language="nl-NL">Wat is / zijn de reden(en) waarom de consult is gedaan? Gebruik hierbij de lijst van PRN.</property>
+</concept>

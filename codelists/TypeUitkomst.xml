@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="TypeUitkomst" oid="2.16.840.1.113883.2.4.11.11" shortName="TypeUitkomst" displayName="TypeUitkomst" status="final">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.9" displayName="partus" type="L">
+    <property name="name" language="nl-NL">partus</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.9" displayName="spontane abortus" type="L">
+    <property name="name" language="nl-NL">spontane abortus</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.9" displayName="APLA" type="L">
+    <property name="name" language="nl-NL">APLA</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.4.13.9" displayName="EUG" type="L">
+    <property name="name" language="nl-NL">EUG</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.4.13.9" displayName="mola" type="L">
+    <property name="name" language="nl-NL">mola</property>
+  </item>
+  <item code="6" codeSystem="2.16.840.1.113883.2.4.4.13.9" displayName="selectieve foeticide" type="L">
+    <property name="name" language="nl-NL">selectieve foeticide</property>
+  </item>
+</codelist>

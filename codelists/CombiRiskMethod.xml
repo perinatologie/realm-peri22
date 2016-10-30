@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="CombiRiskMethod" oid="2.16.840.1.113883.2.4.11.78" shortName="CombiRiskMethod" displayName="CombiRiskMethod" status="final">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.39" displayName="Elipse" type="L">
+    <property name="name" language="nl-NL">Elipse</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.39" displayName="FMF" type="L">
+    <property name="name" language="nl-NL">FMF</property>
+  </item>
+</codelist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="GenderMedisch" oid="2.16.840.1.113883.2.4.11.110" shortName="GenderMedisch" displayName="GenderMedisch" status="draft">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.21" displayName="Mannelijk" type="L">
+    <property name="name" language="nl-NL">mannelijk</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.21" displayName="Vrouwelijk" type="L">
+    <property name="name" language="nl-NL">vrouwelijk</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.21" displayName="Niet conclusief" type="L">
+    <property name="name" language="nl-NL">niet conclusief</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

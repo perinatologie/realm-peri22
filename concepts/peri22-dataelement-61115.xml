@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-61115" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.61115" shortName="gehanteerde_gegevens_groep" type="group" status="deprecated">
+  <property name="name" language="nl-NL">Gehanteerde gegevens (groep)</property>
+  <property name="description" language="nl-NL">De gehanteerde gegevens (groep) die door de kansberekeningssoftware gebruikt zijn als resultaatbeïnvloedende factor bij het verkregen resultaat.</property>
+</concept>

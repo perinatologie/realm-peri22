@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-25840" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.25840" shortName="referentiewaarde_vrij_hcg_in_mom" type="item" status="draft" dataType="complex">
+  <property name="name" language="nl-NL">Referentiewaarde: Vrij β-hCG in MoM</property>
+  <property name="description" language="nl-NL">Referentiewaarde: Vrij β-hCG in MoM</property>
+</concept>

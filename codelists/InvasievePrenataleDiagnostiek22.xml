@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="InvasievePrenataleDiagnostiek22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.25" shortName="InvasievePrenataleDiagnostiek22" displayName="Invasieve prenatale diagnostiek (2.2)" status="draft">
+  <item code="303720006" codeSystem="2.16.840.1.113883.6.96" displayName="Sampling of chorionic villus (procedure)" type="L">
+    <property name="name" language="nl-NL">Vlokkentest</property>
+  </item>
+  <item code="34536000" codeSystem="2.16.840.1.113883.6.96" displayName="Amniocentesis (procedure)" type="L">
+    <property name="name" language="nl-NL">Vruchtwaterpunctie</property>
+  </item>
+  <item code="6708002" codeSystem="2.16.840.1.113883.6.96" displayName="Intrauterine cordocentesis (procedure)" type="L">
+    <property name="name" language="nl-NL">Navelstrengpunctie</property>
+  </item>
+</codelist>

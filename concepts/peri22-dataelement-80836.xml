@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-80836" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80836" shortName="proteine_in_urine_obv_strips" type="item" status="draft" dataType="code" codelist="ProteineTestStripResult">
+  <property name="name" language="nl-NL">Proteïne in urine o.b.v. strips</property>
+  <property name="description" language="nl-NL">Proteïne in urine o.b.v. strips.</property>
+</concept>

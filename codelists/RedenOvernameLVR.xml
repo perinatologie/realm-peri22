@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="RedenOvernameLVR" oid="2.16.840.1.113883.2.4.11.124" shortName="RedenOvernameLVR" displayName="RedenOvernameLVR" status="final">
+  <item code="00" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Geen reden voor opname" type="L">
+    <property name="name" language="nl-NL">Geen reden voor opname</property>
+  </item>
+  <item code="08" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Reden niet volgens verlosk. .ind. lijst" type="L">
+    <property name="name" language="nl-NL">Reden niet volgens verlosk. .ind. lijst</property>
+  </item>
+  <item code="09" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Overige problematiek" type="L">
+    <property name="name" language="nl-NL">Overige problematiek</property>
+  </item>
+  <item code="10" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Trombo-embolitische processen" type="L">
+    <property name="name" language="nl-NL">Trombo-embolitische processen</property>
+  </item>
+  <item code="11" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Pre-existente hypertensie" type="L">
+    <property name="name" language="nl-NL">Pre-existente hypertensie</property>
+  </item>
+  <item code="12" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Recidiverende urineweginfecties" type="L">
+    <property name="name" language="nl-NL">Recidiverende urineweginfecties</property>
+  </item>
+  <item code="13" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Afwijkingen urinewegen" type="L">
+    <property name="name" language="nl-NL">Afwijkingen urinewegen</property>
+  </item>
+  <item code="14" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Psychiatrische aandoeningen" type="L">
+    <property name="name" language="nl-NL">Psychiatrische aandoeningen</property>
+  </item>
+  <item code="15" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Diabetes mellitus" type="L">
+    <property name="name" language="nl-NL">Diabetes mellitus</property>
+  </item>
+  <item code="16" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Overige endocrinologische afwijking" type="L">
+    <property name="name" language="nl-NL">Overige endocrinologische afwijking</property>
+  </item>
+  <item code="17" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Uterus myomatosus" type="L">
+    <property name="name" language="nl-NL">Uterus myomatosus</property>
+  </item>
+  <item code="18" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Mogelijke bekkenafwijkingen" type="L">
+    <property name="name" language="nl-NL">Mogelijke bekkenafwijkingen</property>
+  </item>
+  <item code="19" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Fertiliteitsstoornissen" type="L">
+    <property name="name" language="nl-NL">Fertiliteitsstoornissen</property>
+  </item>
+  <item code="20" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Zwangerschap na K.I." type="L">
+    <property name="name" language="nl-NL">Zwangerschap na K.I.</property>
+  </item>
+  <item code="21" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="In Vitro Fertilisatie" type="L">
+    <property name="name" language="nl-NL">In Vitro Fertilisatie</property>
+  </item>
+  <item code="22" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="DES problematiek" type="L">
+    <property name="name" language="nl-NL">DES problematiek</property>
+  </item>
+  <item code="25" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Anamnestisch abortus provocatus" type="L">
+    <property name="name" language="nl-NL">Anamnestisch abortus provocatus</property>
+  </item>
+  <item code="26" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Anamnestisch partus imm. (&lt;28wk)" type="L">
+    <property name="name" language="nl-NL">Anamnestisch partus imm. (&lt;28wk)</property>
+  </item>
+  <item code="27" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Anam. partus prematurus (1x35,2x&gt;35wk)" type="L">
+    <property name="name" language="nl-NL">Anam. partus prematurus (1x35,2x&gt;35wk)</property>
+  </item>
+  <item code="28" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Anamnestisch intra-uteriene vruchtdood" type="L">
+    <property name="name" language="nl-NL">Anamnestisch intra-uteriene vruchtdood</property>
+  </item>
+  <item code="29" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Anamnestisch dysmaturiteit (&lt;2,3 prctl)" type="L">
+    <property name="name" language="nl-NL">Anamnestisch dysmaturiteit (&lt;2,3 prctl)</property>
+  </item>
+  <item code="30" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Anamnestisch toxicose met opname" type="L">
+    <property name="name" language="nl-NL">Anamnestisch toxicose met opname</property>
+  </item>
+  <item code="31" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Anamnestisch solutio placenta" type="L">
+    <property name="name" language="nl-NL">Anamnestisch solutio placenta</property>
+  </item>
+  <item code="32" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Anamnestisch vaginale kunstverlossing" type="L">
+    <property name="name" language="nl-NL">Anamnestisch vaginale kunstverlossing</property>
+  </item>
+  <item code="33" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Anamnestisch sectio caesarea" type="L">
+    <property name="name" language="nl-NL">Anamnestisch sectio caesarea</property>
+  </item>
+  <item code="34" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Anamnestisch totaalruptuur" type="L">
+    <property name="name" language="nl-NL">Anamnestisch totaalruptuur</property>
+  </item>
+  <item code="35" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="H.P.P.(&gt;1000 ml.) in anamnese" type="L">
+    <property name="name" language="nl-NL">H.P.P.(&gt;1000 ml.) in anamnese</property>
+  </item>
+  <item code="36" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Anam. manuele placentaverwijdering" type="L">
+    <property name="name" language="nl-NL">Anam. manuele placentaverwijdering</property>
+  </item>
+  <item code="49" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Medicijngebruik in deze graviditeit" type="L">
+    <property name="name" language="nl-NL">Medicijngebruik in deze graviditeit</property>
+  </item>
+  <item code="50" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Alcoholmisbruik in deze graviditeit" type="L">
+    <property name="name" language="nl-NL">Alcoholmisbruik in deze graviditeit</property>
+  </item>
+  <item code="51" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Drugsmisbruik in deze graviditeit" type="L">
+    <property name="name" language="nl-NL">Drugsmisbruik in deze graviditeit</property>
+  </item>
+  <item code="52" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Nicotinemisbruik in deze graviditeit" type="L">
+    <property name="name" language="nl-NL">Nicotinemisbruik in deze graviditeit</property>
+  </item>
+  <item code="53" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Röntgenonderzoek in deze graviditeit" type="L">
+    <property name="name" language="nl-NL">Röntgenonderzoek in deze graviditeit</property>
+  </item>
+  <item code="54" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Hyperemesis in deze graviditeit" type="L">
+    <property name="name" language="nl-NL">Hyperemesis in deze graviditeit</property>
+  </item>
+  <item code="55" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Dreigende abortus in deze graviditeit" type="L">
+    <property name="name" language="nl-NL">Dreigende abortus in deze graviditeit</property>
+  </item>
+  <item code="56" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="EUG/Mola in deze graviditeit" type="L">
+    <property name="name" language="nl-NL">EUG/Mola in deze graviditeit</property>
+  </item>
+  <item code="57" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Ernstige varices in deze graviditeit" type="L">
+    <property name="name" language="nl-NL">Ernstige varices in deze graviditeit</property>
+  </item>
+  <item code="58" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Lues problematiek in deze graviditeit" type="L">
+    <property name="name" language="nl-NL">Lues problematiek in deze graviditeit</property>
+  </item>
+  <item code="59" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Actief Rhesus antagonisme in deze grav." type="L">
+    <property name="name" language="nl-NL">Actief Rhesus antagonisme in deze grav.</property>
+  </item>
+  <item code="60" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Pyelitis in deze graviditeit" type="L">
+    <property name="name" language="nl-NL">Pyelitis in deze graviditeit</property>
+  </item>
+  <item code="61" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Diabetes grav. met beh. in deze grav." type="L">
+    <property name="name" language="nl-NL">Diabetes grav. met beh. in deze grav.</property>
+  </item>
+  <item code="62" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Meerling zwangerschap" type="L">
+    <property name="name" language="nl-NL">Meerling zwangerschap</property>
+  </item>
+  <item code="63" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Dreigende vroeggeboorte" type="L">
+    <property name="name" language="nl-NL">Dreigende vroeggeboorte</property>
+  </item>
+  <item code="64" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Stuit en andere liggings afw. in grav." type="L">
+    <property name="name" language="nl-NL">Stuit en andere liggings afw. in grav.</property>
+  </item>
+  <item code="65" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Bloedverlies eerste helft graviditeit" type="L">
+    <property name="name" language="nl-NL">Bloedverlies eerste helft graviditeit</property>
+  </item>
+  <item code="66" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Bloedverlies tweede helft graviditeit" type="L">
+    <property name="name" language="nl-NL">Bloedverlies tweede helft graviditeit</property>
+  </item>
+  <item code="67" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Solutio placentae in deze graviditeit" type="L">
+    <property name="name" language="nl-NL">Solutio placentae in deze graviditeit</property>
+  </item>
+  <item code="68" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Hypertensie/toxicose deze graviditeit" type="L">
+    <property name="name" language="nl-NL">Hypertensie/toxicose deze graviditeit</property>
+  </item>
+  <item code="69" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Negatieve dyscongruentie deze grav." type="L">
+    <property name="name" language="nl-NL">Negatieve dyscongruentie deze grav.</property>
+  </item>
+  <item code="70" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Positieve dyscongruentie deze grav." type="L">
+    <property name="name" language="nl-NL">Positieve dyscongruentie deze grav.</property>
+  </item>
+  <item code="71" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Serotiniteit" type="L">
+    <property name="name" language="nl-NL">Serotiniteit</property>
+  </item>
+  <item code="72" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Intra-uteriene dood ante partum" type="L">
+    <property name="name" language="nl-NL">Intra-uteriene dood ante partum</property>
+  </item>
+  <item code="73" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Hoogstaande schedel a terme" type="L">
+    <property name="name" language="nl-NL">Hoogstaande schedel a terme</property>
+  </item>
+  <item code="74" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Minder leven voelen" type="L">
+    <property name="name" language="nl-NL">Minder leven voelen</property>
+  </item>
+  <item code="75" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Intra-uteriene dood durante partum" type="L">
+    <property name="name" language="nl-NL">Intra-uteriene dood durante partum</property>
+  </item>
+  <item code="76" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Langdurig gebr. vliezen zonder weeën,a-t" type="L">
+    <property name="name" language="nl-NL">Langdurig gebr. vliezen zonder weeën,a-t</property>
+  </item>
+  <item code="77" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Onvoldoende vorderende ontsluiting" type="L">
+    <property name="name" language="nl-NL">Onvoldoende vorderende ontsluiting</property>
+  </item>
+  <item code="78" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Meconiumhoudend vruchtwater" type="L">
+    <property name="name" language="nl-NL">Meconiumhoudend vruchtwater</property>
+  </item>
+  <item code="79" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Onvoldoende vorderende uitdrijving" type="L">
+    <property name="name" language="nl-NL">Onvoldoende vorderende uitdrijving</property>
+  </item>
+  <item code="80" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Foetale nood tijdens baring" type="L">
+    <property name="name" language="nl-NL">Foetale nood tijdens baring</property>
+  </item>
+  <item code="81" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Ruim bloedverlies bij baring" type="L">
+    <property name="name" language="nl-NL">Ruim bloedverlies bij baring</property>
+  </item>
+  <item code="82" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Noodzaak sedatie/pijnbestrijding" type="L">
+    <property name="name" language="nl-NL">Noodzaak sedatie/pijnbestrijding</property>
+  </item>
+  <item code="83" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="H.P.P.(&gt;1000 ml) deze partus" type="L">
+    <property name="name" language="nl-NL">H.P.P.(&gt;1000 ml) deze partus</property>
+  </item>
+  <item code="84" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Retentio placentae deze partus" type="L">
+    <property name="name" language="nl-NL">Retentio placentae deze partus</property>
+  </item>
+  <item code="85" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="(totaal)ruptuur deze partus" type="L">
+    <property name="name" language="nl-NL">(totaal)ruptuur deze partus</property>
+  </item>
+  <item code="86" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Stuit + overige liggings afw. bij baring" type="L">
+    <property name="name" language="nl-NL">Stuit + overige liggings afw. bij baring</property>
+  </item>
+  <item code="90" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Mastitis tijdens kraambed" type="L">
+    <property name="name" language="nl-NL">Mastitis tijdens kraambed</property>
+  </item>
+  <item code="91" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Endometritis tijdens kraambed" type="L">
+    <property name="name" language="nl-NL">Endometritis tijdens kraambed</property>
+  </item>
+  <item code="92" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Cystitis tijdens kraambed" type="L">
+    <property name="name" language="nl-NL">Cystitis tijdens kraambed</property>
+  </item>
+  <item code="93" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Tromboflebitis tijdens kraambed" type="L">
+    <property name="name" language="nl-NL">Tromboflebitis tijdens kraambed</property>
+  </item>
+  <item code="94" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Trombose tijdens kraambed" type="L">
+    <property name="name" language="nl-NL">Trombose tijdens kraambed</property>
+  </item>
+  <item code="95" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Psychose tijdens kraambed" type="L">
+    <property name="name" language="nl-NL">Psychose tijdens kraambed</property>
+  </item>
+  <item code="96" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Kind met pathologie" type="L">
+    <property name="name" language="nl-NL">Kind met pathologie</property>
+  </item>
+  <item code="97" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Lactatieremming dmv medicatie" type="L">
+    <property name="name" language="nl-NL">Lactatieremming dmv medicatie</property>
+  </item>
+  <item code="98" codeSystem="2.16.840.1.113883.2.4.4.13.4" displayName="Bloedtransfusie na bevalling" type="L">
+    <property name="name" language="nl-NL">Bloedtransfusie na bevalling</property>
+  </item>
+</codelist>

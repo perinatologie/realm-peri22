@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="PediatrischeVerwijsindicatie" oid="2.16.840.1.113883.2.4.11.202" shortName="PediatrischeVerwijsindicatie" displayName="Pediatrische verwijsindicatie" status="draft">
+  <item code="276614003" codeSystem="2.16.840.1.113883.6.96" displayName="Gestation abnormality (disorder)" type="L">
+    <property name="name" language="nl-NL">zwangerschapsduur</property>
+  </item>
+  <item code="276609002" codeSystem="2.16.840.1.113883.6.96" displayName="Birth weight abnormality (disorder)" type="L">
+    <property name="name" language="nl-NL">abnormaal geboortegewicht</property>
+  </item>
+  <item code="289261003" codeSystem="2.16.840.1.113883.6.96" displayName="Delivery problem (finding)" type="L">
+    <property name="name" language="nl-NL">problemen partus</property>
+  </item>
+  <item code="8571000146103" codeSystem="2.16.840.1.113883.6.96" displayName="Fetal or neonatal effect of assisted delivery (disorder)" type="L">
+    <property name="name" language="nl-NL">kunstverlossing</property>
+  </item>
+  <item code="289365005" codeSystem="2.16.840.1.113883.6.96" displayName="Finding of malposition of foetus (finding)" type="L">
+    <property name="name" language="nl-NL">liggingsafwijking</property>
+  </item>
+  <item code="12729009" codeSystem="2.16.840.1.113883.6.96" displayName="Prolonged rupture of membranes (disorder)" type="L">
+    <property name="name" language="nl-NL">langdurig gebroken vliezen</property>
+  </item>
+  <item code="364737004" codeSystem="2.16.840.1.113883.6.96" displayName="Finding of neonatal condition (finding)" type="L">
+    <property name="name" language="nl-NL">klinische conditie kind</property>
+  </item>
+  <item code="168092006" codeSystem="2.16.840.1.113883.6.96" displayName="Amniotic fluid -meconium stain (finding)" type="L">
+    <property name="name" language="nl-NL">meconiumhoudend vruchtwater</property>
+  </item>
+  <item code="387712008" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal jaundice (disorder)" type="L">
+    <property name="name" language="nl-NL">icterus neonatorum</property>
+  </item>
+  <item code="161838002" codeSystem="2.16.840.1.113883.6.96" displayName="Infant feeding problem (finding)" type="L">
+    <property name="name" language="nl-NL">voedingsproblemen</property>
+  </item>
+  <item code="473130003" codeSystem="2.16.840.1.113883.6.96" displayName="Suspected infectious disease (situation)" type="L">
+    <property name="name" language="nl-NL">infectieverdenking</property>
+  </item>
+  <item code="394886001" codeSystem="2.16.840.1.113883.6.96" displayName="Suspected heart disease (situation)" type="L">
+    <property name="name" language="nl-NL">verdenking op hartafwijking</property>
+  </item>
+  <item code="281667005" codeSystem="2.16.840.1.113883.6.96" displayName="Maternal history of disorder (situation)" type="L">
+    <property name="name" language="nl-NL">maternale anamnese</property>
+  </item>
+  <item code="95607001" codeSystem="2.16.840.1.113883.6.96" displayName="Maternal drug use (disorder)" type="L">
+    <property name="name" language="nl-NL">maternale medicatie </property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">overig</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="geen informatie" type="L">
+    <property name="name" language="nl-NL">geen informatie</property>
+  </item>
+</codelist>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ProblematiekKind" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.12" shortName="ProblematiekKind" displayName="Problematiek kind" status="draft">
+  <item code="56110009" codeSystem="2.16.840.1.113883.6.96" displayName="Birth trauma of fetus (disorder)" type="L">
+    <property name="name" language="nl-NL">Geboortetrauma</property>
+  </item>
+  <item code="126941005" codeSystem="2.16.840.1.113883.6.96" displayName="Subdural intracranial hemorrhage due to birth trauma (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Subdurale bloeding</property>
+  </item>
+  <item code="206399009" codeSystem="2.16.840.1.113883.6.96" displayName="Intracranial subarachnoid hemorrhage due to birth injury (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Subarachnoïdale bloeding</property>
+  </item>
+  <item code="206192007" codeSystem="2.16.840.1.113883.6.96" displayName="Tentorial tear due to birth trauma (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Tentoriumscheur</property>
+  </item>
+  <item code="219" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.64" displayName="Overige bloedingen (geboortetrauma)" level="1" type="L">
+    <property name="name" language="nl-NL">Overige bloedingen</property>
+  </item>
+  <item code="371129000" codeSystem="2.16.840.1.113883.6.96" displayName="Paralysis from birth trauma (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Verlammingen (alleen plexuslaesie)</property>
+  </item>
+  <item code="290" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.64" displayName="Overige geboortetraumata" level="1" type="L">
+    <property name="name" language="nl-NL">Overige geboortetraumata</property>
+  </item>
+  <item code="82353009" codeSystem="2.16.840.1.113883.6.96" displayName="Congenital infectious disease (disorder)" type="L">
+    <property name="name" language="nl-NL">Infectie</property>
+  </item>
+  <item code="35742006" codeSystem="2.16.840.1.113883.6.96" displayName="Congenital syphilis (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Lues</property>
+  </item>
+  <item code="73893000" codeSystem="2.16.840.1.113883.6.96" displayName="Congenital toxoplasmosis (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Toxoplasmose</property>
+  </item>
+  <item code="59527008" codeSystem="2.16.840.1.113883.6.96" displayName="Congenital cytomegalovirus infection (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">CMV</property>
+  </item>
+  <item code="1857005" codeSystem="2.16.840.1.113883.6.96" displayName="Congenital rubella syndrome (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Rubella</property>
+  </item>
+  <item code="206376005" codeSystem="2.16.840.1.113883.6.96" displayName="Sepsis of the newborn (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Sepsis</property>
+  </item>
+  <item code="39367000" codeSystem="2.16.840.1.113883.6.96" displayName="Inflammatory disease of the central nervous system (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Neurologische infectie (bijv. meningitis, encefalitis)</property>
+  </item>
+  <item code="1450" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.64" displayName="Overige infecties" level="1" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+  <item code="406" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.64" displayName="Immunologische en haematologische stoornissen" type="L">
+    <property name="name" language="nl-NL">Immunologische en haematologische stoornissen</property>
+  </item>
+  <item code="414030009" codeSystem="2.16.840.1.113883.6.96" displayName="Disorder of immune structure (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Immunologisch</property>
+  </item>
+  <item code="414028007" codeSystem="2.16.840.1.113883.6.96" displayName="Disorder of hematopoietic system in newborn (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Haematologisch</property>
+  </item>
+  <item code="13404009" codeSystem="2.16.840.1.113883.6.96" displayName="Twin-to-twin blood transfer (disorder)" level="2" type="L">
+    <property name="name" language="nl-NL">Anemie t.g.v. twin to twin transfusie</property>
+  </item>
+  <item code="3580" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.64" displayName="Overig haematologisch" level="2" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+  <item code="267574006" codeSystem="2.16.840.1.113883.6.96" displayName="Nervous system and sense organ diseases (disorder)" type="L">
+    <property name="name" language="nl-NL">Stoornissen van zenuwstelsel en zintuigen</property>
+  </item>
+  <item code="276647007" codeSystem="2.16.840.1.113883.6.96" displayName="Perinatal intracranial hemorrhage (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Bloedingen</property>
+  </item>
+  <item code="206576006" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal cerebral ischemia (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Ischaemie (echografische afwijking)</property>
+  </item>
+  <item code="87476004" codeSystem="2.16.840.1.113883.6.96" displayName="Convulsions in the newborn (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Convulsies</property>
+  </item>
+  <item code="205294008" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal hypotonia (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Hypotonie</property>
+  </item>
+  <item code="415297005" codeSystem="2.16.840.1.113883.6.96" displayName="Retinopathy of prematurity (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">ROP</property>
+  </item>
+  <item code="95827002" codeSystem="2.16.840.1.113883.6.96" displayName="Congenital hearing disorder (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Gehoor</property>
+  </item>
+  <item code="363696006" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal cardiovascular disorder (disorder)" type="L">
+    <property name="name" language="nl-NL">Circulatoire problemen</property>
+  </item>
+  <item code="206596003" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal hypertension (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Hypertensie</property>
+  </item>
+  <item code="276519002" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal hypotension (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Hypotensie</property>
+  </item>
+  <item code="276508000" codeSystem="2.16.840.1.113883.6.96" displayName="Hydrops fetalis (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Hydrops foetalis (ongeacht de oorzaak)</property>
+  </item>
+  <item code="5800" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.64" displayName="Overige circulatoire problemen" level="1" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+  <item code="363225006" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal respiratory system disorder (disorder)" type="L">
+    <property name="name" language="nl-NL">Respiratoire problemen</property>
+  </item>
+  <item code="46775006" codeSystem="2.16.840.1.113883.6.96" displayName="Respiratory distress syndrome in the newborn (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">IRDS (Ongeclassificeerd)</property>
+  </item>
+  <item code="276533002" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal aspiration syndromes (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Aspiratie</property>
+  </item>
+  <item code="67569000" codeSystem="2.16.840.1.113883.6.96" displayName="Bronchopulmonary dysplasia of newborn (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">BPD</property>
+  </item>
+  <item code="6990" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.64" displayName="Overige respiratoire problemen" level="1" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+  <item code="7100" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.64" displayName="Stoornissen tractus digestivus en navel" type="L">
+    <property name="name" language="nl-NL">Stoornissen tractus digestivus en navel</property>
+  </item>
+  <item code="281610001" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal hyperbilirubinemia (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Hyperbilirubinemie</property>
+  </item>
+  <item code="7700" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.64" displayName="Overige stoornissen tractus digestivus en navel" level="1" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+  <item code="363221002" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal metabolic and endocrinologic disorder (disorder)" type="L">
+    <property name="name" language="nl-NL">Endocriene, metabole en milieu interieur stoornissen</property>
+  </item>
+  <item code="52767006" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal hypoglycemia (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Hypoglycemie (&lt; 2,5 mmol/l)</property>
+  </item>
+  <item code="276557002" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal hyperglycemia (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Hyperglycemie (&gt;8,0 mmol/l)</property>
+  </item>
+  <item code="190268003" codeSystem="2.16.840.1.113883.6.96" displayName="Congenital hypothyroidism (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Hypothyreoïdie (indien behandeld)</property>
+  </item>
+  <item code="8490" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.64" displayName="Overige endocriene, metabole en milieu interieur stoornissen" level="1" type="L">
+    <property name="name" language="nl-NL">Overige stoornissen van endocriene organen</property>
+  </item>
+  <item code="363224005" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal renal disorder (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Nierfunctiestoornis</property>
+  </item>
+</codelist>

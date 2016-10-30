@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-18241" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.18241" shortName="gemeentenaam" type="item" status="deprecated" dataType="string">
+  <property name="name" language="nl-NL">Gemeentenaam</property>
+  <property name="description" language="nl-NL">Gemeentenaam als onderdeel van het adres; In Nederland wordt dit element gebruikt om de gemeente door te geven (in andere landen kan een ander type administratieve eenheid binnen een staat/provincie gebruikt worden). De gemeente kan, maar hoeft niet, overeen te komen met de stad. Sommige gemeenten, bijvoorbeeld "Waterland", hebben een naam die geheel afwijkt van de steden die erin gelegen zijn.</property>
+</concept>

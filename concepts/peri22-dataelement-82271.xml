@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82271" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82271" shortName="cervixinsufficientieq" type="item" status="pending" dataType="boolean">
+  <property name="name" language="nl-NL">Cervixinsufficiëntie?</property>
+  <property name="description" language="nl-NL">Is er sprake van cervixinsufficiëntie?</property>
+</concept>

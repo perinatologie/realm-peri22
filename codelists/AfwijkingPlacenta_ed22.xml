@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="AfwijkingPlacenta_ed22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.214" shortName="AfwijkingPlacenta_ed22" displayName="Specificatie van de afwijking van placenta en/of vliezen en/of navelstreng (2.2)" status="draft">
+  <item code="79668009" codeSystem="2.16.840.1.113883.6.96" displayName="Vasa previa (disorder)" type="L">
+    <property name="name" language="nl-NL">Vasa previa</property>
+  </item>
+  <item code="60574005" codeSystem="2.16.840.1.113883.6.96" displayName="Twin placenta (disorder)" type="L">
+    <property name="name" language="nl-NL">Placenta bilobata</property>
+  </item>
+  <item code="77278008" codeSystem="2.16.840.1.113883.6.96" displayName="Velamentous insertion of umbilical cord (disorder)" type="L">
+    <property name="name" language="nl-NL">Velamenteuze insertie navelstreng</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

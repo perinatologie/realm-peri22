@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-80955" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80955" shortName="hbsag" type="item" status="draft" dataType="code" codelist="HBsAg">
+  <property name="name" language="nl-NL">HBsAg</property>
+  <property name="description" language="nl-NL">HBsAg</property>
+</concept>

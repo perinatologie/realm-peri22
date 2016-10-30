@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="EthnicGroup" oid="2.16.840.1.113883.2.4.11.3" shortName="EthnicGroup" displayName="EthnicGroup" status="draft">
+  <item code="14" codeSystem="2.16.840.1.113883.2.4.4.13.28" displayName="Latijns Amerikaans" type="L">
+    <property name="name" language="nl-NL">Latijns Amerikaans</property>
+  </item>
+  <item code="13" codeSystem="2.16.840.1.113883.2.4.4.13.28" displayName="Hindoestaans" type="L">
+    <property name="name" language="nl-NL">Hindoestaans</property>
+  </item>
+  <item code="12" codeSystem="2.16.840.1.113883.2.4.4.13.28" displayName="Kaukasisch" type="L">
+    <property name="name" language="nl-NL">Kaukasisch</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.28" displayName="Noord-Afrikaans" type="L">
+    <property name="name" language="nl-NL">Noord-Afrikaans</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.4.13.28" displayName="Overig Afrikaans" type="L">
+    <property name="name" language="nl-NL">Overig Afrikaans</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.4.13.28" displayName="Turks" type="L">
+    <property name="name" language="nl-NL">Turks</property>
+  </item>
+  <item code="8" codeSystem="2.16.840.1.113883.2.4.4.13.28" displayName="Overig Aziatisch" type="L">
+    <property name="name" language="nl-NL">(Overig) Aziatisch</property>
+  </item>
+  <item code="11" codeSystem="2.16.840.1.113883.2.4.4.13.28" displayName="Meervoudige afkomst / Overig" type="L">
+    <property name="name" language="nl-NL">Overig (waaronder gemengd)</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+  </item>
+</codelist>

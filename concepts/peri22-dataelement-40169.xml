@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-40169" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40169" shortName="supervisor_groep" type="group" status="draft">
+  <property name="name" language="nl-NL">Supervisor (groep)</property>
+  <property name="description" language="nl-NL">Supervisor bij de bevalling</property>
+</concept>

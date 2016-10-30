@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-24040" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.24040" shortName="reden_niet_toedienen" type="item" status="cancelled" dataType="string">
+  <property name="name" language="nl-NL">Reden niet toedienen</property>
+  <property name="description" language="nl-NL">Reden niet toedienen</property>
+</concept>

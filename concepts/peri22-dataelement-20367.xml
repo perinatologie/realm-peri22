@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20367" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20367" shortName="perinatale_periode_van_overdracht" type="item" status="pending" dataType="code" codelist="PerinatalePeriodeOverdrachtConsult">
+  <property name="name" language="nl-NL">Perinatale periode van overdracht</property>
+  <property name="description" language="nl-NL">Perinatale periode van overdracht</property>
+</concept>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Vruchtwater" oid="2.16.840.1.113883.2.4.11.191" shortName="Vruchtwater" displayName="Vruchtwater" status="draft">
+  <item code="278092006" codeSystem="2.16.840.1.113883.6.96" displayName="Normal liquor volume (finding)" type="L">
+    <property name="name" language="nl-NL">Normaal</property>
+  </item>
+  <item code="59566000" codeSystem="2.16.840.1.113883.6.96" displayName="Oligohydramnios (disorder)" type="L">
+    <property name="name" language="nl-NL">Oligohydramnion</property>
+  </item>
+  <item code="86203003" codeSystem="2.16.840.1.113883.6.96" displayName="Polyhydramnios (disorder)" type="L">
+    <property name="name" language="nl-NL">Polyhydramnion</property>
+  </item>
+  <item code="313017000" codeSystem="2.16.840.1.113883.6.96" displayName="Anhydramnios (disorder)" type="L">
+    <property name="name" language="nl-NL">Anhydramnion</property>
+  </item>
+</codelist>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82215" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82215" shortName="overige_interventies" type="item" status="draft" dataType="code" codelist="OverigeInterventies22">
+  <property name="name" language="nl-NL">Overige interventies</property>
+  <property name="description" language="nl-NL">Overige interventies bij baring. Dit gaat om de interventies bij baring (eventueel) náást vaginale kunstverlossing en/of sectio.</property>
+</concept>

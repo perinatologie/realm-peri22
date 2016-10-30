@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ZorgverlenerType" oid="2.16.840.1.113883.2.4.11.58" shortName="ZorgverlenerType" displayName="ZorgverlenerType" status="final">
+  <item code="01.000" codeSystem="2.16.840.1.113883.2.4.15.111" displayName="Arts" type="L">
+    <property name="name" language="nl-NL">Arts</property>
+  </item>
+  <item code="01.015" codeSystem="2.16.840.1.113883.2.4.15.111" displayName="Huisarts" type="L">
+    <property name="name" language="nl-NL">Huisarts</property>
+  </item>
+  <item code="01.019" codeSystem="2.16.840.1.113883.2.4.15.111" displayName="Kinderarts" type="L">
+    <property name="name" language="nl-NL">Kinderarts</property>
+  </item>
+  <item code="01.020" codeSystem="2.16.840.1.113883.2.4.15.111" displayName="Arts klinische chemie" type="L">
+    <property name="name" language="nl-NL">Arts klinische chemie</property>
+  </item>
+  <item code="01.046" codeSystem="2.16.840.1.113883.2.4.15.111" displayName="Gynaecoloog / obstetricus" type="L">
+    <property name="name" language="nl-NL">Gynaecoloog / obstetricus</property>
+  </item>
+  <item code="03.000" codeSystem="2.16.840.1.113883.2.4.15.111" displayName="Verloskundige" type="L">
+    <property name="name" language="nl-NL">Verloskundige</property>
+  </item>
+  <item code="AA.001" codeSystem="2.16.840.1.113883.2.4.98.111" displayName="Echoscopist" type="L">
+    <property name="name" language="nl-NL">Echoscopist</property>
+  </item>
+  <item code="AA.002" codeSystem="2.16.840.1.113883.2.4.98.111" displayName="Analist" type="L">
+    <property name="name" language="nl-NL">Analist</property>
+  </item>
+</codelist>

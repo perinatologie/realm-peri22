@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-18226" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.18226" shortName="voornamen" type="item" status="deprecated" dataType="string">
+  <property name="name" language="nl-NL">Voornamen</property>
+  <property name="description" language="nl-NL">Voornamen van de persoon</property>
+</concept>

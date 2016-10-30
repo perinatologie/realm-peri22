@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20366" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20366" shortName="overdracht_aan_zorginstelling_specialisme" type="item" status="pending" dataType="code" codelist="ZorginstellingSpecialisme">
+  <property name="name" language="nl-NL">Overdracht aan zorginstelling (specialisme)</property>
+  <property name="description" language="nl-NL">Specialisme van de zorginstelling naar wie wordt overgedragen.</property>
+</concept>

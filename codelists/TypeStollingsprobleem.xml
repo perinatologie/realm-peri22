@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="TypeStollingsprobleem" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.19" shortName="TypeStollingsprobleem" displayName="Type stollingsprobleem" status="draft">
+  <item code="128105004" codeSystem="2.16.840.1.113883.6.96" displayName="von Willebrand disorder (disorder)" type="L">
+    <property name="name" language="nl-NL">Ziekte van Von Willebrand</property>
+  </item>
+  <item code="90935002" codeSystem="2.16.840.1.113883.6.96" displayName="Hemophilia (disorder)" type="L">
+    <property name="name" language="nl-NL">Hemofilie</property>
+  </item>
+  <item code="302215000" codeSystem="2.16.840.1.113883.6.96" displayName="Thrombocytopenic disorder (disorder)" type="L">
+    <property name="name" language="nl-NL">Trombocytopenie</property>
+  </item>
+  <item code="67406007" codeSystem="2.16.840.1.113883.6.96" displayName="Disseminated intravascular coagulation (disorder)" type="L">
+    <property name="name" language="nl-NL">Diffusie intravasale stolling</property>
+  </item>
+  <item code="234467004" codeSystem="2.16.840.1.113883.6.96" displayName="Thrombophilia (disorder)" type="S">
+    <property name="name" language="nl-NL">Thrombofilie</property>
+  </item>
+  <item code="36351005" codeSystem="2.16.840.1.113883.6.96" displayName="Antithrombin III deficiency (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Anti-thrombine III deficiëntie</property>
+  </item>
+  <item code="76407009" codeSystem="2.16.840.1.113883.6.96" displayName="Protein C deficiency disease (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Proteine C deficiëntie</property>
+  </item>
+  <item code="1563006" codeSystem="2.16.840.1.113883.6.96" displayName="Protein S deficiency disease (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Proteine S deficiëntie</property>
+  </item>
+  <item code="307116001" codeSystem="2.16.840.1.113883.6.96" displayName="Heterozygous Factor V Leiden mutation (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Heterozygoot factor V Leiden</property>
+  </item>
+  <item code="307115002" codeSystem="2.16.840.1.113883.6.96" displayName="Homozygous Factor V Leiden mutation (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Homozygoot factor V Leiden</property>
+  </item>
+  <item code="46981006" codeSystem="2.16.840.1.113883.6.96" displayName="Factor XII deficiency disease (disorder)" level="1" type="L">
+    <property name="name" language="nl-NL">Factor XII deficiëntie</property>
+  </item>
+  <item code="128053003" codeSystem="2.16.840.1.113883.6.96" displayName="Deep venous thrombosis (disorder)" type="L">
+    <property name="name" language="nl-NL">Trombose diep veneus</property>
+  </item>
+  <item code="59282003" codeSystem="2.16.840.1.113883.6.96" displayName="Pulmonary embolism (disorder)" type="L">
+    <property name="name" language="nl-NL">Longembolie</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

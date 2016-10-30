@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-80742" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80742" shortName="fundusstand" type="item" status="draft" dataType="code">
+  <property name="name" language="nl-NL">Fundusstand</property>
+  <property name="description" language="nl-NL">Fundusstand volgens anatomische referentiepunten.</property>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20371" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20371" shortName="reden_overdracht_aan_lijst_prn" type="item" status="pending" dataType="code" codelist="VILLijst">
+  <property name="name" language="nl-NL">Reden 'overdracht aan' (lijst PRN)</property>
+  <property name="description" language="nl-NL">Wat is / zijn de reden(en) waarom de zorg werd overgedragen? Gebruik hierbij de lijst van PRN.</property>
+</concept>

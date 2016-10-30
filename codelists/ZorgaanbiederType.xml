@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ZorgaanbiederType" oid="2.16.840.1.113883.2.4.11.59" shortName="ZorgaanbiederType" displayName="ZorgaanbiederType" status="final">
+  <item code="Z3" codeSystem="2.16.840.1.113883.2.4.15.1060" displayName="Huisartsenpraktijk" type="L">
+    <property name="name" language="nl-NL">Huisartsenpraktijk</property>
+  </item>
+  <item code="G3" codeSystem="2.16.840.1.113883.2.4.15.1060" displayName="Verloskundigenpraktijk" type="L">
+    <property name="name" language="nl-NL">Verloskundigenpraktijk</property>
+  </item>
+  <item code="V4" codeSystem="2.16.840.1.113883.2.4.15.1060" displayName="Ziekenhuis" type="L">
+    <property name="name" language="nl-NL">Ziekenhuis</property>
+  </item>
+  <item code="B2" codeSystem="2.16.840.1.113883.2.4.15.1060" displayName="Echocentrum" type="L">
+    <property name="name" language="nl-NL">Echocentrum</property>
+  </item>
+  <item code="L1" codeSystem="2.16.840.1.113883.2.4.15.1060" displayName="Laboratorium" type="L">
+    <property name="name" language="nl-NL">Laboratorium</property>
+  </item>
+</codelist>

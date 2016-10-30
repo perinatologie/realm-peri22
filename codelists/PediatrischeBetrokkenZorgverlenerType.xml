@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="PediatrischeBetrokkenZorgverlenerType" oid="2.16.840.1.113883.2.4.11.184" shortName="PediatrischeBetrokkenZorgverlenerType" displayName="PediatrischeBetrokkenZorgverlenerType" status="draft">
+  <item code="01.015" codeSystem="2.16.840.1.113883.2.4.15.111" displayName="Huisarts" type="L">
+    <property name="name" language="nl-NL">huisarts</property>
+  </item>
+  <item code="01.019" codeSystem="2.16.840.1.113883.2.4.15.111" displayName="Kinderarts" type="L">
+    <property name="name" language="nl-NL">kinderarts</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">overig</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

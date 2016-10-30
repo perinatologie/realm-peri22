@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-10805" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10805" shortName="bloedtransfusieq" type="item" status="pending" dataType="boolean">
+  <property name="name" language="nl-NL">Bloedtransfusie?</property>
+  <property name="description" language="nl-NL">Heeft cliente in het verleden een bloedtransfusie gehad?</property>
+</concept>

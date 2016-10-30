@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20410" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20410" shortName="iuvd_bij_eerste_controle" type="item" status="deprecated" dataType="code">
+  <property name="name" language="nl-NL">IUVD bij eerste controle</property>
+  <property name="description" language="nl-NL">Hoort in het ERD bij de kindspecifieke gegevens van de eerste controle.</property>
+</concept>

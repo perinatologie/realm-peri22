@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-40066" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40066" shortName="huisnummer" type="item" status="deprecated" dataType="string">
+  <property name="name" language="nl-NL">Huisnummer</property>
+  <property name="description" language="nl-NL">Huisnummer van het adres. Het is verplicht indien de straatnaam ook wordt doorgegeven.</property>
+</concept>

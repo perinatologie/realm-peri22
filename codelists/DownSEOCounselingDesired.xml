@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="DownSEOCounselingDesired" oid="2.16.840.1.113883.2.4.11.7" shortName="DownSEOCounselingDesired" displayName="DownSEOCounselingDesired" status="final">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.25" displayName="ja" type="L">
+    <property name="name" language="nl-NL">ja</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.25" displayName="nee" type="L">
+    <property name="name" language="nl-NL">nee</property>
+  </item>
+  <item code="ASKU" codeSystem="2.16.840.1.113883.5.1008" displayName="weet het nog niet" type="L">
+    <property name="name" language="nl-NL">weet het nog niet</property>
+  </item>
+  <item code="NASK" codeSystem="2.16.840.1.113883.5.1008" displayName="niet gevraagd" type="L">
+    <property name="name" language="nl-NL">niet gevraagd</property>
+  </item>
+  <item code="NA" codeSystem="2.16.840.1.113883.5.1008" displayName="n.v.t." type="L">
+    <property name="name" language="nl-NL">n.v.t.</property>
+  </item>
+</codelist>

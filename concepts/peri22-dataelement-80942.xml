@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-80942" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80942" shortName="tdc" type="item" status="deprecated" dataType="quantity">
+  <property name="name" language="nl-NL">TDC</property>
+  <property name="description" language="nl-NL">TDC - Transversale Diameter Cerebellum</property>
+</concept>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ZorginstellingSpecialisme" oid="2.16.840.1.113883.2.4.11.211" shortName="ZorginstellingSpecialisme" displayName="Zorginstelling specialisme" status="draft">
+  <item code="01.046" codeSystem="2.16.840.1.113883.2.4.15.111" displayName="Gynaecoloog / obstetricus" type="L">
+    <property name="name" language="nl-NL">gynaecoloog</property>
+  </item>
+  <item code="01.019" codeSystem="2.16.840.1.113883.2.4.15.111" displayName="Kinderarts" type="L">
+    <property name="name" language="nl-NL">kinderarts - voor later</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

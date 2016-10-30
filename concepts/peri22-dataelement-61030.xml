@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-61030" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.61030" shortName="versie_softwareapplicatie" type="item" status="draft" dataType="string" lengthMin="1" lengthMax="9999">
+  <property name="name" language="nl-NL">Versie softwareapplicatie</property>
+  <property name="description" language="nl-NL">Versie (en release) van de softwareapplicatie die de kansbepaling uitvoert.</property>
+</concept>

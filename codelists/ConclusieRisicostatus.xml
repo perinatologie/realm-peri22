@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ConclusieRisicostatus" oid="2.16.840.1.113883.2.4.11.12" shortName="ConclusieRisicostatus" displayName="ConclusieRisicostatus" status="final">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.26" displayName="1e lijn (VIL A)" type="L">
+    <property name="name" language="nl-NL">1e lijn (VIL A)</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.26" displayName="overlegsituatie (VIL B)" type="L">
+    <property name="name" language="nl-NL">overlegsituatie (VIL B)</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.26" displayName="2e lijn (VIL C)" type="L">
+    <property name="name" language="nl-NL">2e lijn (VIL C)</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.4.13.26" displayName="1e lijn met plaatsindicatie (VIL D)" type="L">
+    <property name="name" language="nl-NL">1e lijn met plaatsindicatie (VIL D)</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.4.13.26" displayName="3e lijns zorg" type="L">
+    <property name="name" language="nl-NL">3e lijns zorg</property>
+  </item>
+</codelist>

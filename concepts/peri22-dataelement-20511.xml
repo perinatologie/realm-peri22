@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20511" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20511" shortName="gewenste_plaats_baring_type_locatie" type="item" status="deprecated" dataType="code" codelist="ToekomstPlaatsBaring">
+  <property name="name" language="nl-NL">Gewenste plaats baring (type locatie)</property>
+  <property name="description" language="nl-NL">Gewenste plaats baring (type locatie). Dit is de onmiddelijk voor de bevalling geuite locatie. Dit is een ander item dan item 2061 - 'Voorgenomen plaats baring tijdens zwangerschap (type locatie)" - dat geruime tijd voor de bevalling kan worden aangegeven.</property>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-60210" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.60210" shortName="afwijkende_bevindingen_type_guo" type="item" status="deprecated" dataType="code" codelist="AUSFindings">
+  <property name="name" language="nl-NL">Afwijkende bevindingen (type GUO)</property>
+  <property name="description" language="nl-NL">Afwijkende bevinding volgens GUO-classificatie, geconstateerd tijdens echoscopisch onderzoek.</property>
+</concept>

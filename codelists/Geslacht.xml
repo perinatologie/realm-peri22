@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Geslacht" oid="2.16.840.1.113883.2.4.3.11.60.101.11.5" shortName="Geslacht" displayName="Geslacht" status="final">
+  <item code="M" codeSystem="2.16.840.1.113883.5.1" displayName="Male" type="L">
+    <property name="name" language="nl-NL">mannelijk</property>
+    <property name="desc" language="nl-NL">man</property>
+  </item>
+  <item code="F" codeSystem="2.16.840.1.113883.5.1" displayName="Female" type="L">
+    <property name="name" language="nl-NL">vrouwelijk</property>
+    <property name="desc" language="nl-NL">vrouw</property>
+  </item>
+  <item code="UN" codeSystem="2.16.840.1.113883.5.1" displayName="Undifferentiated" type="L">
+    <property name="name" language="nl-NL">onbepaald</property>
+    <property name="desc" language="nl-NL">onbepaald</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Unknown" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+    <property name="desc" language="nl-NL">onbekend</property>
+  </item>
+</codelist>

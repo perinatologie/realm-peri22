@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Rookgedrag" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.2" shortName="Rookgedrag" displayName="Rookgedrag" status="draft">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.58" displayName="niet gerookt" type="L">
+    <property name="name" language="nl-NL">niet gerookt</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.58" displayName="1 - 10 per dag" type="L">
+    <property name="name" language="nl-NL">1-10</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.58" displayName="11 - 20 per dag" type="L">
+    <property name="name" language="nl-NL">11-20</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.4.13.58" displayName="meer dan 20 per dag" type="L">
+    <property name="name" language="nl-NL">&gt; 20</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.4.13.58" displayName="gestopt vóór huidige zwangerschap" type="L">
+    <property name="name" language="nl-NL">gestopt vóór huidige zwangerschap</property>
+  </item>
+  <item code="6" codeSystem="2.16.840.1.113883.2.4.4.13.58" displayName="gestopt tijdens huidige zwangerschap" type="L">
+    <property name="name" language="nl-NL">gestopt tijdens huidige zwangerschap</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Unknown" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+</codelist>

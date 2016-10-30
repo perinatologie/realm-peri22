@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="CounselingConcerns" oid="2.16.840.1.113883.2.4.11.70" shortName="CounselingConcerns" displayName="CounselingConcerns" status="final">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.31" displayName="combinatietest" type="L">
+    <property name="name" language="nl-NL">combinatietest</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.31" displayName="SEO" type="L">
+    <property name="name" language="nl-NL">SEO</property>
+  </item>
+</codelist>

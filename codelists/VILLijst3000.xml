@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="VILLijst3000" oid="2.16.840.1.113883.2.4.11.126" shortName="VILLijst3000" displayName="VILLijst3000" status="draft">
+  <item code="3000" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Indicaties vrouw wegens obstetrische anamnese" type="A">
+    <property name="name" language="nl-NL">Indicaties vrouw wegens obstetrische anamnese</property>
+  </item>
+  <item code="3010" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Bloedgroepantagonisme" type="A">
+    <property name="name" language="nl-NL">Bloedgroepantagonisme</property>
+  </item>
+  <item code="3011" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Rhesus, Kell, Duffy, Kidd" type="L">
+    <property name="name" language="nl-NL">Rhesus, Kell, Duffy, Kidd</property>
+  </item>
+  <item code="3012" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="ABO-antagonisme" type="L">
+    <property name="name" language="nl-NL">ABO-antagonisme</property>
+  </item>
+  <item code="3020" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Zwangerschapshypertensieve syndromen vorige zwangerschap" type="A">
+    <property name="name" language="nl-NL">Zwangerschapshypertensieve syndromen vorige zwangerschap</property>
+  </item>
+  <item code="3021" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Zwangerschapshypertensie in de vorige zwangerschap" type="L">
+    <property name="name" language="nl-NL">Zwangerschapshypertensie in de vorige zwangerschap</property>
+  </item>
+  <item code="3022" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="(Pre-)eclampsie/HELLP–syndroom in de vorige zwangerschap" type="L">
+    <property name="name" language="nl-NL">(Pre-)eclampsie/HELLP–syndroom in de vorige zwangerschap</property>
+  </item>
+  <item code="3030" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Miskraam herhaald" type="L">
+    <property name="name" language="nl-NL">Miskraam herhaald</property>
+  </item>
+  <item code="3031" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="MOLA in anamnese" type="L">
+    <property name="name" language="nl-NL">MOLA in anamnese</property>
+  </item>
+  <item code="3032" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="abortus provocatus in anamnese" type="L">
+    <property name="name" language="nl-NL">abortus provocatus in anamnese</property>
+  </item>
+  <item code="3040" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Vroeggeboorte, vorige zwangerschap" type="A">
+    <property name="name" language="nl-NL">Vroeggeboorte, vorige zwangerschap</property>
+  </item>
+  <item code="3041" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Vroeggeboorte (&lt;33 weken), vorige zwangerschap" type="L">
+    <property name="name" language="nl-NL">Vroeggeboorte (&lt;33 weken), vorige zwangerschap</property>
+  </item>
+  <item code="3042" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Vroeggeboorte (&gt;=33 weken), vorige zwangerschap" type="L">
+    <property name="name" language="nl-NL">Vroeggeboorte (&gt;=33 weken), vorige zwangerschap</property>
+  </item>
+  <item code="3050" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Cervixinsufficiëntie en/of cerclage" type="L">
+    <property name="name" language="nl-NL">Cervixinsufficiëntie en/of cerclage</property>
+  </item>
+  <item code="3060" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Abruptio placentae (Solutio) in anamnese" type="L">
+    <property name="name" language="nl-NL">Abruptio placentae (Solutio) in anamnese</property>
+  </item>
+  <item code="3070" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Kunstverlossing vaginaal (forcipale extractie/vacuumextractie) in anamnese" type="L">
+    <property name="name" language="nl-NL">Kunstverlossing vaginaal (forcipale extractie/vacuumextractie) in anamnese</property>
+  </item>
+  <item code="3080" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Sectio caesarea in anamnese" type="L">
+    <property name="name" language="nl-NL">Sectio caesarea in anamnese</property>
+  </item>
+  <item code="3081" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Sectio Caesarea i.a, litteken OUS in anamnese" type="L">
+    <property name="name" language="nl-NL">Sectio Caesarea i.a, litteken OUS in anamnese</property>
+  </item>
+  <item code="3082" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Sectio Caesarea i.a., litteken corporeel in anamnese" type="L">
+    <property name="name" language="nl-NL">Sectio Caesarea i.a., litteken corporeel in anamnese</property>
+  </item>
+  <item code="3090" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Dysmaturiteit (geboortegewicht &lt;p5)" type="A">
+    <property name="name" language="nl-NL">Dysmaturiteit (geboortegewicht &lt;p5)</property>
+  </item>
+  <item code="3091" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Geboortegewicht &lt;p5 in anamnese" type="L">
+    <property name="name" language="nl-NL">Geboortegewicht &lt;p5 in anamnese</property>
+  </item>
+  <item code="3092" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Geboortegewicht &lt;p2.3 in anamnese" type="L">
+    <property name="name" language="nl-NL">Geboortegewicht &lt;p2.3 in anamnese</property>
+  </item>
+  <item code="3100" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Asfyxie (Apgar score 5min &lt;7) in anamnese" type="L">
+    <property name="name" language="nl-NL">Asfyxie (Apgar score 5min &lt;7) in anamnese</property>
+  </item>
+  <item code="3110" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Perinatale sterfte in anamnese" type="L">
+    <property name="name" language="nl-NL">Perinatale sterfte in anamnese</property>
+  </item>
+  <item code="3120" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Aangeboren afwijkingen en/of erfelijke afwijking eerder kind" type="L">
+    <property name="name" language="nl-NL">Aangeboren afwijkingen en/of erfelijke afwijking eerder kind</property>
+  </item>
+  <item code="3130" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Haemorrhagia / bloedverlies post partum ten gevolge van episiotomie in anamnese" type="L">
+    <property name="name" language="nl-NL">Haemorrhagia / bloedverlies post partum ten gevolge van episiotomie in anamnese</property>
+  </item>
+  <item code="3140" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Haemorrhagia/ bloedverlies post partum ten gevolge van cervixruptuur in anamnese" type="L">
+    <property name="name" language="nl-NL">Haemorrhagia/ bloedverlies post partum ten gevolge van cervixruptuur in anamnese</property>
+  </item>
+  <item code="3150" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Haemorrhagia / bloedverlies post partum, andere oorzaken (&gt;1000 cc) in anamnese" type="L">
+    <property name="name" language="nl-NL">Haemorrhagia / bloedverlies post partum, andere oorzaken (&gt;1000 cc) in anamnese</property>
+  </item>
+  <item code="3160" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Manuele placentaverwijdering in de anamnese" type="A">
+    <property name="name" language="nl-NL">Manuele placentaverwijdering in de anamnese</property>
+  </item>
+  <item code="3161" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Placentaverwijdering manuele in de anamnese" type="L">
+    <property name="name" language="nl-NL">Placentaverwijdering manuele in de anamnese</property>
+  </item>
+  <item code="3162" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Placenta accreta in anamnese" type="L">
+    <property name="name" language="nl-NL">Placenta accreta in anamnese</property>
+  </item>
+  <item code="3170" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Ruptuur totaal in anamnese (wel/geen functioneel herstel)" type="L">
+    <property name="name" language="nl-NL">Ruptuur totaal in anamnese (wel/geen functioneel herstel)</property>
+  </item>
+  <item code="3180" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Symfysiolyse in anamnese" type="L">
+    <property name="name" language="nl-NL">Symfysiolyse in anamnese</property>
+  </item>
+  <item code="3190" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Depressie post-partum in anamnese" type="L">
+    <property name="name" language="nl-NL">Depressie post-partum in anamnese</property>
+  </item>
+  <item code="3200" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Psychose post-partum in anamnese" type="L">
+    <property name="name" language="nl-NL">Psychose post-partum in anamnese</property>
+  </item>
+  <item code="3210" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Multipara Grande in anamnese" type="L">
+    <property name="name" language="nl-NL">Multipara Grande in anamnese</property>
+  </item>
+  <item code="3220" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Serotiniteit in anamnese" type="L">
+    <property name="name" language="nl-NL">Serotiniteit in anamnese</property>
+  </item>
+  <item code="3230" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="GBS-ziekte eerder kind in anamnese" type="L">
+    <property name="name" language="nl-NL">GBS-ziekte eerder kind in anamnese</property>
+  </item>
+  <item code="3250" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Traumatische partus in de anamnese" type="L">
+    <property name="name" language="nl-NL">Traumatische partus in de anamnese</property>
+  </item>
+  <item code="3251" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="schouderdystocie in anamnese" type="L">
+    <property name="name" language="nl-NL">schouderdystocie in anamnese</property>
+  </item>
+  <item code="3999" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Overige indicaties vrouw wegens obstetrische anamnese" type="L">
+    <property name="name" language="nl-NL">Overige indicaties vrouw wegens obstetrische anamnese</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="geen informatie" type="L">
+    <property name="name" language="nl-NL">geen informatie</property>
+  </item>
+</codelist>

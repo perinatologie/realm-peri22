@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="CardiovascAandoening" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.11" shortName="CardiovascAandoening" displayName="Cardiovasculaire aandoeningen" status="draft">
+  <item code="38341003" codeSystem="2.16.840.1.113883.6.96" displayName="Hypertensive disorder, systemic arterial (disorder)" type="L">
+    <property name="name" language="nl-NL">Hypertensie</property>
+  </item>
+  <item code="85898001" codeSystem="2.16.840.1.113883.6.96" displayName="Cardiomyopathy (disorder)" type="L">
+    <property name="name" language="nl-NL">Cardiomyopathie</property>
+  </item>
+  <item code="698247007" codeSystem="2.16.840.1.113883.6.96" displayName="Cardiac arrhythmia (disorder)" type="L">
+    <property name="name" language="nl-NL">Hartritmestoornis</property>
+  </item>
+  <item code="128599005" codeSystem="2.16.840.1.113883.6.96" displayName="Structural disorder of heart (disorder)" type="L">
+    <property name="name" language="nl-NL">Anatomische afwijking hart</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

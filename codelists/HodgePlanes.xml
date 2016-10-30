@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="HodgePlanes" oid="2.16.840.1.113883.2.4.11.159" shortName="HodgePlanes" displayName="Hodge Planes" status="final">
+  <item code="289377000" codeSystem="2.16.840.1.113883.6.96" displayName="-5 level of presenting part in relation to ischial spines" type="L">
+    <property name="name" language="nl-NL">Niet ingedaald</property>
+  </item>
+  <item code="289379002" codeSystem="2.16.840.1.113883.6.96" displayName="-3 level of presenting part in relation to ischial spines" type="L">
+    <property name="name" language="nl-NL">H1</property>
+  </item>
+  <item code="289381000" codeSystem="2.16.840.1.113883.6.96" displayName="-1 level of presenting part in relation to ischial spines" type="L">
+    <property name="name" language="nl-NL">H2</property>
+  </item>
+  <item code="289382007" codeSystem="2.16.840.1.113883.6.96" displayName="0 level of presenting part in relation to ischial spines" type="L">
+    <property name="name" language="nl-NL">H3</property>
+  </item>
+  <item code="289385009" codeSystem="2.16.840.1.113883.6.96" displayName="3 level of presenting part in relation to ischial spines" type="L">
+    <property name="name" language="nl-NL">H4</property>
+  </item>
+</codelist>

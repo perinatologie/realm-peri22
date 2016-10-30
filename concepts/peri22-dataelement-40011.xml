@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-40011" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40011" shortName="lokale_identificatie_kind" type="item" status="draft" dataType="identifier">
+  <property name="name" language="nl-NL">Lokale identificatie kind</property>
+  <property name="description" language="nl-NL">Er is vaak geen BSN van het kind in een vroeg stadium bekend. Daarom toch een lokale id.</property>
+</concept>

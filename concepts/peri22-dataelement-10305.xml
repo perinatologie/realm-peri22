@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-10305" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10305" shortName="plaatsnaam" type="item" status="draft" dataType="string">
+  <property name="name" language="nl-NL">Plaatsnaam</property>
+  <property name="description" language="nl-NL">Plaatsnaam als onderdeel van het adres; De naam van een stad, dorp of ander woongebied of bezorgcentrum. Merk op: dit is de woonplaats, niet de eventuele gemeente waartoe de woonplaats behoort. Voorbeeld: Haren, gemeente Groningen.</property>
+</concept>

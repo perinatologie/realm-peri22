@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-40083" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40083" shortName="geldigheidsperiode_telecommunicatiecontact" type="group" status="deprecated">
+  <property name="name" language="nl-NL">Geldigheidsperiode telecommunicatiecontact</property>
+  <property name="description" language="nl-NL">Het is mogelijk om de geldigheidsduur van een telecommunicatiecontact in te perken door een periode aan te duiden</property>
+</concept>

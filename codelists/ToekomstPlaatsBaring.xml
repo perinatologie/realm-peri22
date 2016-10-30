@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ToekomstPlaatsBaring" oid="2.16.840.1.113883.2.4.11.105" shortName="ToekomstPlaatsBaring" displayName="ToekomstPlaatsBaring" status="final">
+  <item code="00" codeSystem="2.16.840.1.113883.2.4.3.22.1.8.7" displayName="geen voorkeur" type="L">
+    <property name="name" language="nl-NL">geen voorkeur</property>
+  </item>
+  <item code="10" codeSystem="2.16.840.1.113883.2.4.3.22.1.8.7" displayName="thuis" type="L">
+    <property name="name" language="nl-NL">thuis</property>
+  </item>
+  <item code="20" codeSystem="2.16.840.1.113883.2.4.3.22.1.8.7" displayName="1e lijnsvoorziening" type="L">
+    <property name="name" language="nl-NL">1e lijnsvoorziening</property>
+  </item>
+  <item code="21" codeSystem="2.16.840.1.113883.2.4.3.22.1.8.7" displayName="kraamcentrum" type="L">
+    <property name="name" language="nl-NL">kraamcentrum</property>
+  </item>
+  <item code="22" codeSystem="2.16.840.1.113883.2.4.3.22.1.8.7" displayName="geboortecentrum 1e lijn" type="L">
+    <property name="name" language="nl-NL">geboortecentrum 1e lijn</property>
+  </item>
+  <item code="30" codeSystem="2.16.840.1.113883.2.4.3.22.1.8.7" displayName="2e lijnsvoorziening" type="A">
+    <property name="name" language="nl-NL">2e lijnsvoorziening</property>
+  </item>
+  <item code="31" codeSystem="2.16.840.1.113883.2.4.3.22.1.8.7" displayName="poliklinisch" type="L">
+    <property name="name" language="nl-NL">poliklinisch</property>
+  </item>
+  <item code="32" codeSystem="2.16.840.1.113883.2.4.3.22.1.8.7" displayName="ziekenhuis op medische indicatie" type="L">
+    <property name="name" language="nl-NL">ziekenhuis op medische indicatie</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="ASKU" codeSystem="2.16.840.1.113883.5.1008" displayName="weet het nog niet" type="L">
+    <property name="name" language="nl-NL">weet het nog niet</property>
+  </item>
+</codelist>

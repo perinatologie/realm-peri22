@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20610" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20610" shortName="kleur_en_consistentie_vruchtwater" type="item" status="pending" dataType="code" codelist="KleurVruchtwater">
+  <property name="name" language="nl-NL">Kleur en consistentie vruchtwater</property>
+  <property name="description" language="nl-NL">Kleur en consistentie vruchtwater</property>
+</concept>

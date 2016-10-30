@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Geloofsovertuiging" oid="2.16.840.1.113883.2.4.11.201" shortName="Geloofsovertuiging" displayName="Geloofsovertuiging" status="draft">
+  <item code="160552003" codeSystem="2.16.840.1.113883.6.96" displayName="Not religious" type="L">
+    <property name="name" language="nl-NL">Geen</property>
+  </item>
+  <item code="276116000" codeSystem="2.16.840.1.113883.6.96" displayName="Christian religion" type="L">
+    <property name="name" language="nl-NL">Christelijk</property>
+  </item>
+  <item code="276120001" codeSystem="2.16.840.1.113883.6.96" displayName="Catholic religion" level="1" type="L">
+    <property name="name" language="nl-NL">Rooms Katholiek</property>
+  </item>
+  <item code="01" codeSystem="2.16.840.1.113883.2.4.4.13.51" displayName="PKN - Hervormd" level="1" type="L">
+    <property name="name" language="nl-NL">PKN - Hervormd</property>
+  </item>
+  <item code="02" codeSystem="2.16.840.1.113883.2.4.4.13.51" displayName="PKN - Gereformeerd" level="1" type="L">
+    <property name="name" language="nl-NL">PKN - Gereformeerd</property>
+  </item>
+  <item code="03" codeSystem="2.16.840.1.113883.2.4.4.13.51" displayName="Hersteld Hervormde kerk" level="1" type="L">
+    <property name="name" language="nl-NL">Hersteld Hervormde kerk</property>
+  </item>
+  <item code="04" codeSystem="2.16.840.1.113883.2.4.4.13.51" displayName="Christelijk Gereformeerd" level="1" type="L">
+    <property name="name" language="nl-NL">Christelijk Gereformeerd</property>
+  </item>
+  <item code="05" codeSystem="2.16.840.1.113883.2.4.4.13.51" displayName="Gereformeerd Vrijgemaakt" level="1" type="L">
+    <property name="name" language="nl-NL">Gereformeerd Vrijgemaakt</property>
+  </item>
+  <item code="06" codeSystem="2.16.840.1.113883.2.4.4.13.51" displayName="Nederlands Gereformeerd" level="1" type="L">
+    <property name="name" language="nl-NL">Nederlands Gereformeerd</property>
+  </item>
+  <item code="07" codeSystem="2.16.840.1.113883.2.4.4.13.51" displayName="Gereformeerde Gemeente" level="1" type="L">
+    <property name="name" language="nl-NL">Gereformeerde Gemeente</property>
+  </item>
+  <item code="08" codeSystem="2.16.840.1.113883.2.4.4.13.51" displayName="Gereformeerde Gemeente in Nederland" level="1" type="L">
+    <property name="name" language="nl-NL">Gereformeerde Gemeente in Nederland</property>
+  </item>
+  <item code="09" codeSystem="2.16.840.1.113883.2.4.4.13.51" displayName="Oud Gereformeerde Gemeente" level="1" type="L">
+    <property name="name" language="nl-NL">Oud Gereformeerde Gemeente</property>
+  </item>
+  <item code="10" codeSystem="2.16.840.1.113883.2.4.4.13.51" displayName="Evangelisch" level="1" type="L">
+    <property name="name" language="nl-NL">Evangelisch</property>
+  </item>
+  <item code="11" codeSystem="2.16.840.1.113883.2.4.4.13.51" displayName="Overig protestants" level="1" type="L">
+    <property name="name" language="nl-NL">Overig Protestants</property>
+  </item>
+  <item code="276118004" codeSystem="2.16.840.1.113883.6.96" displayName="Jehovah's Witness religion" level="1" type="L">
+    <property name="name" language="nl-NL">Jehova getuigen</property>
+  </item>
+  <item code="276121002" codeSystem="2.16.840.1.113883.6.96" displayName="Judaism" type="L">
+    <property name="name" language="nl-NL">Joods</property>
+  </item>
+  <item code="271390004" codeSystem="2.16.840.1.113883.6.96" displayName="Islam" type="L">
+    <property name="name" language="nl-NL">Moslim</property>
+  </item>
+  <item code="33822009" codeSystem="2.16.840.1.113883.6.96" displayName="Buddhism" type="L">
+    <property name="name" language="nl-NL">Boeddhist</property>
+  </item>
+  <item code="61154002" codeSystem="2.16.840.1.113883.6.96" displayName="Hinduism" type="L">
+    <property name="name" language="nl-NL">Hindoeïst</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="geen informatie" type="L">
+    <property name="name" language="nl-NL">geen informatie</property>
+  </item>
+</codelist>

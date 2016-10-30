@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-61025" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.61025" shortName="naam_kansbepaling_softwareapplicatie" type="item" status="draft" dataType="code" codelist="CombiRiskSystem">
+  <property name="name" language="nl-NL">Naam kansbepaling softwareapplicatie</property>
+  <property name="description" language="nl-NL">Naam van de softwareapplicatie die de kansbepaling uitvoert.</property>
+</concept>

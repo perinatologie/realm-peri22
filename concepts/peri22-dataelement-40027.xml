@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-40027" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40027" shortName="foetus_identificatie_zoals_ante_partum_gehanteerd" type="item" status="draft" dataType="identifier">
+  <property name="name" language="nl-NL">Foetus identificatie (zoals ante partum gehanteerd)</property>
+  <property name="description" language="nl-NL">Identificatie(s) van de foetus zoals die tijdens de zwangerschap is gehanteerd. De identificatie van de 'eigen' praktijk is verplicht en wordt als eerste genoemd. Indien van toepassing, bekend en mogelijk, worden ook de id's van de foetus van andere zorgaanbieders, zoals echocentra) meegestuurd.</property>
+</concept>

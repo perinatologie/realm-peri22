@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="IntraUterieneBehandeling22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.26" shortName="IntraUterieneBehandeling22" displayName="Intra-uteriene behandeling (2.2)" status="draft">
+  <item code="45460008" codeSystem="2.16.840.1.113883.6.96" displayName="Intrauterine transfusion (procedure)" type="L">
+    <property name="name" language="nl-NL">Intra-uteriene bloedtransfusie</property>
+  </item>
+  <item code="265633004" codeSystem="2.16.840.1.113883.6.96" displayName="Selective destruction of fetus (procedure)" type="L">
+    <property name="name" language="nl-NL">Selectieve foeticide</property>
+  </item>
+  <item code="386809009" codeSystem="2.16.840.1.113883.6.96" displayName="Operation on fetus (procedure)" type="L">
+    <property name="name" language="nl-NL">Foetale operatie</property>
+  </item>
+  <item code="177112007" codeSystem="2.16.840.1.113883.6.96" displayName="Therapeutic drainage of amniotic fluid (procedure)" type="L">
+    <property name="name" language="nl-NL">Ontlastende vruchtwaterpunctie</property>
+  </item>
+  <item code="236949002" codeSystem="2.16.840.1.113883.6.96" displayName="Operation on placenta (procedure)" type="L">
+    <property name="name" language="nl-NL">Ingreep placenta</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

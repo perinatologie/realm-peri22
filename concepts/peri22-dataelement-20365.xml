@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20365" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20365" shortName="redenen_van_overdracht_aan" type="group" status="draft">
+  <property name="name" language="nl-NL">Redenen van 'overdracht aan'</property>
+  <property name="description" language="nl-NL">Keuze van reden uit één van de lijsten, aanduiding hoofd-/nevenreden indien reden bekend</property>
+</concept>

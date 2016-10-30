@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-81000" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.81000" shortName="specificatie_congenitale_afwijking" type="item" status="draft" dataType="code" codelist="CongenitaleAfwijking22">
+  <property name="name" language="nl-NL">Specificatie congenitale afwijking</property>
+  <property name="description" language="nl-NL">Aangeboren afwijkingen, conform de lijst PRN, exclusief chromosomale afwijkingen</property>
+</concept>

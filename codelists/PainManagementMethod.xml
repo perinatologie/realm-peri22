@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="PainManagementMethod" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.6" shortName="PainManagementMethod" displayName="PainManagementMethod" status="draft">
+  <item code="231249005" codeSystem="2.16.840.1.113883.6.96" displayName="Local anesthetic intrathecal block (procedure)" type="L">
+    <property name="name" language="nl-NL">Spinale analgesie</property>
+  </item>
+  <item code="18946005" codeSystem="2.16.840.1.113883.6.96" displayName="Epidural anesthesia (procedure)" type="L">
+    <property name="name" language="nl-NL">Epidurale analgesie</property>
+  </item>
+  <item code="50697003" codeSystem="2.16.840.1.113883.6.96" displayName="General anesthesia (procedure)" type="L">
+    <property name="name" language="nl-NL">Algehele anesthesie</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig middel</property>
+  </item>
+</codelist>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82364" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82364" shortName="contactgegevens" type="group" status="draft">
+  <property name="name" language="nl-NL">Contactgegevens</property>
+  <property name="description" language="nl-NL">Contactgegevens zodat contact opgenomen kan worden over het kind. Dit gaat bijvoorbeeld om telefoonnummers van een ouder en/of wettelijk vertegenwoordiger en/of van de persoon bij wie het kind verblijft.</property>
+</concept>

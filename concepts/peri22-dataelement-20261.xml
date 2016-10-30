@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20261" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20261" shortName="voorgenomen_plaats_baring_tijdens_zwangerschap_type_locatie" type="item" status="pending" dataType="code" codelist="VoorgenomenPlaatsBaring">
+  <property name="name" language="nl-NL">Voorgenomen plaats baring tijdens zwangerschap (type locatie)</property>
+  <property name="description" language="nl-NL">Voorgenomen plaats baring tijdens zwangerschap (type locatie).Het gaat hier primair om de wens van de vrouw die soms beperkt wordt door de risicostatus. Er kan gekozen worden voor 'ziekenhuis' ook als er géén sprake is van een medische indicaite.</property>
+</concept>

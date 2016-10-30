@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="BloodGroupAntibodies" oid="2.16.840.1.113883.2.4.11.157" shortName="BloodGroupAntibodies" displayName="Blood Group Antibodies" status="final">
+  <item code="112162009" codeSystem="2.16.840.1.113883.6.96" displayName="Rhesus D" type="L">
+    <property name="name" language="nl-NL">Rhesus D</property>
+  </item>
+  <item code="8362009" codeSystem="2.16.840.1.113883.6.96" displayName="Rhesus c" type="L">
+    <property name="name" language="nl-NL">Rhesus c</property>
+  </item>
+  <item code="62523009" codeSystem="2.16.840.1.113883.6.96" displayName="Rhesus e" type="L">
+    <property name="name" language="nl-NL">Rhesus e</property>
+  </item>
+  <item code="405844003" codeSystem="2.16.840.1.113883.6.96" displayName="Kell" type="L">
+    <property name="name" language="nl-NL">Kell</property>
+  </item>
+  <item code="8376005" codeSystem="2.16.840.1.113883.6.96" displayName="Duffy" type="L">
+    <property name="name" language="nl-NL">Duffy</property>
+  </item>
+  <item code="25453008" codeSystem="2.16.840.1.113883.6.96" displayName="Kidd" type="L">
+    <property name="name" language="nl-NL">Kidd</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="overig" type="L">
+    <property name="name" language="nl-NL">Overige irregulaire antistoffen</property>
+  </item>
+</codelist>

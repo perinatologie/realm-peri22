@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="PainManagementAlternativeMethod" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.7" shortName="PainManagementAlternativeMethod" displayName="PainManagementAlternativeMethod" status="draft">
+  <item code="52685006:363701004=404642006" codeSystem="2.16.840.1.113883.6.96" displayName="Administration of morphinomimetic analgesic (procedure)" type="L">
+    <property name="name" language="nl-NL">Morfinometica</property>
+  </item>
+  <item code="281706009:363701004=11713004" codeSystem="2.16.840.1.113883.6.96" displayName="Sterile water injection (procedure)" type="L">
+    <property name="name" language="nl-NL">Waterinjectie</property>
+  </item>
+  <item code="229559001" codeSystem="2.16.840.1.113883.6.96" displayName="Transcutaneous electrical nerve stimulation (regime/therapy)" type="L">
+    <property name="name" language="nl-NL">TENS</property>
+  </item>
+  <item code="426060003" codeSystem="2.16.840.1.113883.6.96" displayName="Nitrous oxide and oxygen gas analgesia in labor (procedure)" type="L">
+    <property name="name" language="nl-NL">Entonox</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

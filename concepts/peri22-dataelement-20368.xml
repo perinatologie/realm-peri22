@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20368" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20368" shortName="overdracht_aan_zorginstelling_id" type="item" status="pending" dataType="identifier">
+  <property name="name" language="nl-NL">Overdracht aan zorginstelling (id)</property>
+  <property name="description" language="nl-NL">Aan welke zorginstelling is de zorg overgedragen?</property>
+</concept>

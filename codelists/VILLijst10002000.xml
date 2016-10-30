@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="VILLijst10002000" oid="2.16.840.1.113883.2.4.11.125" shortName="VILLijst10002000" displayName="VILLijst10002000" status="draft">
+  <item code="1000" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Indicaties vrouw wegens preëxistente aandoeningen – niet gynaecologisch" type="A">
+    <property name="name" language="nl-NL">Indicaties vrouw wegens preëxistente aandoeningen – niet gynaecologisch</property>
+  </item>
+  <item code="1010" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Epilepsie zonder medicatie" type="L">
+    <property name="name" language="nl-NL">Epilepsie zonder medicatie</property>
+  </item>
+  <item code="1020" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Epilepsie met medicatie" type="L">
+    <property name="name" language="nl-NL">Epilepsie met medicatie</property>
+  </item>
+  <item code="1030" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Neurologische bloedingen: o.a. subarachnoidale bloedingen/aneurysma pre-existent" type="L">
+    <property name="name" language="nl-NL">Neurologische bloedingen: o.a. subarachnoidale bloedingen/aneurysma pre-existent</property>
+  </item>
+  <item code="1040" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Sclerose multiple preëxistente" type="L">
+    <property name="name" language="nl-NL">Sclerose multiple preëxistente</property>
+  </item>
+  <item code="1050" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hernia nuclei pulposi preëxistente" type="L">
+    <property name="name" language="nl-NL">Hernia nuclei pulposi preëxistente</property>
+  </item>
+  <item code="1060" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Longfunctiestoornis/COPD preëxistente" type="L">
+    <property name="name" language="nl-NL">Longfunctiestoornis/COPD preëxistente</property>
+  </item>
+  <item code="1070" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Astma preëxistente" type="L">
+    <property name="name" language="nl-NL">Astma preëxistente</property>
+  </item>
+  <item code="1080" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Tuberculose" type="A">
+    <property name="name" language="nl-NL">Tuberculose</property>
+  </item>
+  <item code="1081" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Tuberculose met behandeling preëxistente" type="L">
+    <property name="name" language="nl-NL">Tuberculose met behandeling preëxistente</property>
+  </item>
+  <item code="1082" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Tuberculose in de anamnese" type="L">
+    <property name="name" language="nl-NL">Tuberculose in de anamnese</property>
+  </item>
+  <item code="1090" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="HIV-infectie preëxistente" type="L">
+    <property name="name" language="nl-NL">HIV-infectie preëxistente</property>
+  </item>
+  <item code="1100" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="HBsAg-dragerschap preëxistente" type="L">
+    <property name="name" language="nl-NL">HBsAg-dragerschap preëxistente</property>
+  </item>
+  <item code="1110" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hepatitis C preëxistente" type="L">
+    <property name="name" language="nl-NL">Hepatitis C preëxistente</property>
+  </item>
+  <item code="1120" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hartafwijking met hemodynamische consequenties moeder" type="L">
+    <property name="name" language="nl-NL">Hartafwijking met hemodynamische consequenties moeder</property>
+  </item>
+  <item code="1130" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Trombose diep veneuse /longembolie preëxistente" type="L">
+    <property name="name" language="nl-NL">Trombose diep veneuse /longembolie preëxistente</property>
+  </item>
+  <item code="1140" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Stollingsstoornissen preëxistente" type="L">
+    <property name="name" language="nl-NL">Stollingsstoornissen preëxistente</property>
+  </item>
+  <item code="1150" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Nierfunctiestoornissen preëxistente" type="L">
+    <property name="name" language="nl-NL">Nierfunctiestoornissen preëxistente</property>
+  </item>
+  <item code="1160" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hypertensie, preëxistente" type="L">
+    <property name="name" language="nl-NL">Hypertensie, preëxistente</property>
+  </item>
+  <item code="1170" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Diabetes mellitus" type="A">
+    <property name="name" language="nl-NL">Diabetes mellitus</property>
+  </item>
+  <item code="1171" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Diabetes mellitus Type I preëxistente" type="L">
+    <property name="name" language="nl-NL">Diabetes mellitus Type I preëxistente</property>
+  </item>
+  <item code="1172" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Diabetes mellitus Type II preëxistente" type="L">
+    <property name="name" language="nl-NL">Diabetes mellitus Type II preëxistente</property>
+  </item>
+  <item code="1180" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Schildklieraandoeningen" type="A">
+    <property name="name" language="nl-NL">Schildklieraandoeningen</property>
+  </item>
+  <item code="1181" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hyperthyreoidie, geen medicatie, afwezig TSH-receptor antistoffen" type="L">
+    <property name="name" language="nl-NL">Hyperthyreoidie, geen medicatie, afwezig TSH-receptor antistoffen</property>
+  </item>
+  <item code="1182" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hyperthyreoidie, geen medicatie, aanwezig TSH-receptor antistoffen" type="L">
+    <property name="name" language="nl-NL">Hyperthyreoidie, geen medicatie, aanwezig TSH-receptor antistoffen</property>
+  </item>
+  <item code="1183" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hyperthyreoidie, met medicatie preëxistente" type="L">
+    <property name="name" language="nl-NL">Hyperthyreoidie, met medicatie preëxistente</property>
+  </item>
+  <item code="1184" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hypothyreoidie na chirurgische C67 of I-131 goed ingesteld, afwezig TSH-receptor antistoffen" type="L">
+    <property name="name" language="nl-NL">Hypothyreoidie na chirurgische C67 of I-131 goed ingesteld, afwezig TSH-receptor antistoffen</property>
+  </item>
+  <item code="1185" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hypothyreoidie na chirurgische of I-131 goed ingesteld, aanwezig TSH-receptor antistoffen" type="L">
+    <property name="name" language="nl-NL">Hypothyreoidie na chirurgische of I-131 goed ingesteld, aanwezig TSH-receptor antistoffen</property>
+  </item>
+  <item code="1186" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hypothyreoidie, Ziekte Hashimoto, goed ingesteld" type="L">
+    <property name="name" language="nl-NL">Hypothyreoidie, Ziekte Hashimoto, goed ingesteld</property>
+  </item>
+  <item code="1190" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Hemoglobinopathie preëxistente" type="L">
+    <property name="name" language="nl-NL">Hemoglobinopathie preëxistente</property>
+  </item>
+  <item code="1200" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Inflammatory Bowel Disease (Colitis ulcerosa, M. Crohn)" type="L">
+    <property name="name" language="nl-NL">Inflammatory Bowel Disease (Colitis ulcerosa, M. Crohn)</property>
+  </item>
+  <item code="1210" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Systeemziekten en zeldzame aandoeningen" type="L">
+    <property name="name" language="nl-NL">Systeemziekten en zeldzame aandoeningen</property>
+  </item>
+  <item code="1220" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Harddrugs gebruik (heroïne, methadon, cocaïne, XTC en dergelijke)" type="L">
+    <property name="name" language="nl-NL">Harddrugs gebruik (heroïne, methadon, cocaïne, XTC en dergelijke)</property>
+  </item>
+  <item code="1230" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Alcoholmisbruik preëxistente" type="L">
+    <property name="name" language="nl-NL">Alcoholmisbruik preëxistente</property>
+  </item>
+  <item code="1240" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Psychiatrische stoornissen preëxistente" type="L">
+    <property name="name" language="nl-NL">Psychiatrische stoornissen preëxistente</property>
+  </item>
+  <item code="1250" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="GBS-dragerschap preëxistente" type="L">
+    <property name="name" language="nl-NL">GBS-dragerschap preëxistente</property>
+  </item>
+  <item code="1260" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Adipositas (morbide = BMI &gt; 35)" type="L">
+    <property name="name" language="nl-NL">Adipositas (morbide = BMI &gt; 35)</property>
+  </item>
+  <item code="1270" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Reumatoïde artritis" type="L">
+    <property name="name" language="nl-NL">Reumatoïde artritis</property>
+  </item>
+  <item code="1280" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Maligniteit in anamnese" type="L">
+    <property name="name" language="nl-NL">Maligniteit in anamnese</property>
+  </item>
+  <item code="1999" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Overige preëxistente aandoeningen vrouw, niet gynaecologisch" type="L">
+    <property name="name" language="nl-NL">Overige preëxistente aandoeningen vrouw, niet gynaecologisch</property>
+  </item>
+  <item code="2000" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Indicaties vrouw wegens preëxistente aandoeningen, gynaecologisch" type="A">
+    <property name="name" language="nl-NL">Indicaties vrouw wegens preëxistente aandoeningen, gynaecologisch</property>
+  </item>
+  <item code="2010" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Bekkenbodem reconstructie" type="L">
+    <property name="name" language="nl-NL">Bekkenbodem reconstructie</property>
+  </item>
+  <item code="2020" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Portio amputatie, Exconisatie, Cryo- en lisbehandeling" type="A">
+    <property name="name" language="nl-NL">Portio amputatie, Exconisatie, Cryo- en lisbehandeling</property>
+  </item>
+  <item code="2021" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Portio amputatie" type="L">
+    <property name="name" language="nl-NL">Portio amputatie</property>
+  </item>
+  <item code="2022" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Exconisatie" type="L">
+    <property name="name" language="nl-NL">Exconisatie</property>
+  </item>
+  <item code="2023" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Cryo- en lisbehandeling" type="L">
+    <property name="name" language="nl-NL">Cryo- en lisbehandeling</property>
+  </item>
+  <item code="2030" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Myoom enucleatie" type="L">
+    <property name="name" language="nl-NL">Myoom enucleatie</property>
+  </item>
+  <item code="2040" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Cervixcytologie afwijkend (diagnostiek, follow-up)" type="L">
+    <property name="name" language="nl-NL">Cervixcytologie afwijkend (diagnostiek, follow-up)</property>
+  </item>
+  <item code="2050" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="DES-dochter (onbehandeld en onder controle)" type="L">
+    <property name="name" language="nl-NL">DES-dochter (onbehandeld en onder controle)</property>
+  </item>
+  <item code="2060" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="IUD" type="A">
+    <property name="name" language="nl-NL">IUD</property>
+  </item>
+  <item code="2061" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="IUD Niet te verwijderen" type="L">
+    <property name="name" language="nl-NL">IUD Niet te verwijderen</property>
+  </item>
+  <item code="2062" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="IUD Status nadat het IUD verwijderd is" type="L">
+    <property name="name" language="nl-NL">IUD Status nadat het IUD verwijderd is</property>
+  </item>
+  <item code="2070" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Fertiliteit (sub) behandeling in anamnese" type="L">
+    <property name="name" language="nl-NL">Fertiliteit (sub) behandeling in anamnese</property>
+  </item>
+  <item code="2080" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Bekkenafwijking (trauma, symfyseruptuur, rachitis)" type="L">
+    <property name="name" language="nl-NL">Bekkenafwijking (trauma, symfyseruptuur, rachitis)</property>
+  </item>
+  <item code="2090" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Besnijdenis/ernstige anatomische afwijking" type="L">
+    <property name="name" language="nl-NL">Besnijdenis/ernstige anatomische afwijking</property>
+  </item>
+  <item code="2999" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="Overige indicaties vrouw wegens preëxistente aandoeningen, gynaecologisch" type="L">
+    <property name="name" language="nl-NL">Overige indicaties vrouw wegens preëxistente aandoeningen, gynaecologisch</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="geen informatie" type="L">
+    <property name="name" language="nl-NL">geen informatie</property>
+  </item>
+</codelist>

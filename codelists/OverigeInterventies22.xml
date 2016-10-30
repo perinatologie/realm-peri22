@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="OverigeInterventies22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.20" shortName="OverigeInterventies22" displayName="Overige interventies (2.2)" status="draft">
+  <item code="32189006" codeSystem="2.16.840.1.113883.6.96" displayName="Pubiotomy (procedure)" type="L">
+    <property name="name" language="nl-NL">Symfysiotomie</property>
+  </item>
+  <item code="237008007" codeSystem="2.16.840.1.113883.6.96" displayName="Maneuvers for delivery in shoulder dystocia (procedure)" type="L">
+    <property name="name" language="nl-NL">Opheffen schouderdystocie</property>
+  </item>
+  <item code="40792007" codeSystem="2.16.840.1.113883.6.96" displayName="Kristeller maneuver (procedure)" type="L">
+    <property name="name" language="nl-NL">Fundusexpressie</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

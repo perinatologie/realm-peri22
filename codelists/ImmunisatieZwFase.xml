@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ImmunisatieZwFase" oid="2.16.840.1.113883.2.4.11.86" shortName="ImmunisatieZwFase" displayName="ImmunisatieZwFase" status="final">
+  <item code="276986009" codeSystem="2.16.840.1.113883.6.96" displayName="antepartum" type="L">
+    <property name="name" language="nl-NL">antepartum</property>
+  </item>
+  <item code="255410009" codeSystem="2.16.840.1.113883.6.96" displayName="postpartum" type="L">
+    <property name="name" language="nl-NL">postpartum</property>
+  </item>
+  <item code="263844007" codeSystem="2.16.840.1.113883.6.96" displayName="postnatal" type="L">
+    <property name="name" language="nl-NL">postnataal (betreft kind)</property>
+  </item>
+</codelist>

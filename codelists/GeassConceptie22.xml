@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="GeassConceptie22" oid="2.16.840.1.113883.2.4.11.199" shortName="GeassConceptie22" displayName="GeassConceptie (2.2)" status="draft">
+  <item code=" 236896006" codeSystem="2.16.840.1.113883.6.96" displayName="Artificial insemination by donor (procedure)" type="L">
+    <property name="name" language="nl-NL">KID</property>
+  </item>
+  <item code="265064001" codeSystem="2.16.840.1.113883.6.96" displayName="Intrauterine artificial insemination (procedure)" type="L">
+    <property name="name" language="nl-NL">IUI</property>
+  </item>
+  <item code="52637005" codeSystem="2.16.840.1.113883.6.96" displayName="Test tube ovum fertilization (procedure)" type="L">
+    <property name="name" language="nl-NL">IVF</property>
+  </item>
+  <item code="425901007" codeSystem="2.16.840.1.113883.6.96" displayName="IVF - In vitro fertilisation with intracytoplasmic sperm injection (ICSI)" type="L">
+    <property name="name" language="nl-NL">ICSI</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+</codelist>

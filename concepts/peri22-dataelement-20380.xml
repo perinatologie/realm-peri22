@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20380" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20380" shortName="aanduiding_hoofd__nevenreden_van_overdracht_aan" type="item" status="deprecated" dataType="code">
+  <property name="name" language="nl-NL">Aanduiding hoofd- / nevenreden van 'overdracht aan'</property>
+  <property name="description" language="nl-NL">Betreft de reden van overdracht de hoofdreden, of betreft het een nevenreden. (hoofdreden-&gt; priorityNumber=1; nevenreden-&gt; priorityNumber=2)</property>
+</concept>

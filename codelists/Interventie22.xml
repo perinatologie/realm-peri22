@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Interventie22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.215" shortName="Interventie22" displayName="Interventie (2.2)" status="draft">
+  <item code="265636007" codeSystem="2.16.840.1.113883.6.96" displayName="Cerclage of cervix (procedure)" type="L">
+    <property name="name" language="nl-NL">Cervixcerclage</property>
+  </item>
+  <item code="46681009" codeSystem="2.16.840.1.113883.6.96" displayName="Cerclage of cervix during pregnancy by abdominal approach (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Abdominale cerclage</property>
+  </item>
+  <item code="90442009" codeSystem="2.16.840.1.113883.6.96" displayName="Cerclage of cervix during pregnancy by vaginal approach (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Vaginale cerclage</property>
+  </item>
+  <item code="65240009" codeSystem="2.16.840.1.113883.6.96" displayName="Obstetrical version (procedure)" type="L">
+    <property name="name" language="nl-NL">Versie(poging)</property>
+  </item>
+  <item code="32485007" codeSystem="2.16.840.1.113883.6.96" displayName="Hospital admission (procedure)" type="L">
+    <property name="name" language="nl-NL">Opname in ziekenhuis</property>
+  </item>
+  <item code="18629005" codeSystem="2.16.840.1.113883.6.96" displayName="Administration of drug or medicament (procedure)" type="L">
+    <property name="name" language="nl-NL">Medicamenteuze behandeling</property>
+  </item>
+  <item code="387672006" codeSystem="2.16.840.1.113883.6.96" displayName="Cardiotochogram (regime/therapy)" type="L">
+    <property name="name" language="nl-NL">Foetale bewaking</property>
+  </item>
+  <item code="275305005" codeSystem="2.16.840.1.113883.6.96" displayName="Antenatal/postnatal care (regime/therapy)" type="L">
+    <property name="name" language="nl-NL">Maternale bewaking</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="WijzeBaringBegin" oid="2.16.840.1.113883.2.4.11.16" shortName="WijzeBaringBegin" displayName="WijzeBaringBegin" status="final">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.46" displayName="spontane weeën" type="L">
+    <property name="name" language="nl-NL">spontane weeën</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.46" displayName="spontane vliesscheur" type="L">
+    <property name="name" language="nl-NL">spontane vliesscheur</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.46" displayName="interventie om baring op gang te brengen" type="L">
+    <property name="name" language="nl-NL">interventie om baring op gang te brengen</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="geen informatie" type="L">
+    <property name="name" language="nl-NL">geen informatie</property>
+  </item>
+</codelist>

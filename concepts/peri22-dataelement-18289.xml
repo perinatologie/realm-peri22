@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-18289" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.18289" shortName="datum_perinatale_sterfte" type="item" status="deprecated" dataType="datetime">
+  <property name="name" language="nl-NL">Datum perinatale sterfte</property>
+  <property name="description" language="nl-NL">Datum (zo mogelijk met tijd) waarop het kind ante-partum, durante partu of post partum is overleden.</property>
+</concept>

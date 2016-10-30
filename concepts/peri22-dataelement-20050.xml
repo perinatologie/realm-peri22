@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20050" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20050" shortName="a_terme_datum_obv" type="item" status="draft" dataType="code" codelist="EDDBasis22">
+  <property name="name" language="nl-NL">A terme datum o.b.v.</property>
+  <property name="description" language="nl-NL">Methode waarop de à terme datum is bepaald.</property>
+</concept>

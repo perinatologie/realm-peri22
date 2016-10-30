@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="VerwijsindicatieKind" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.211" shortName="VerwijsindicatieKind" displayName="Verwijsindicatie kind" status="draft">
+  <item code="364737004" codeSystem="2.16.840.1.113883.6.96" displayName="Finding of neonatal condition (finding)" type="L">
+    <property name="name" language="nl-NL">klinische conditie kind</property>
+  </item>
+  <item code="309257005" codeSystem="2.16.840.1.113883.6.96" displayName="Excessive weight loss (finding)" type="L">
+    <property name="name" language="nl-NL">te veel afgevallen</property>
+  </item>
+  <item code="387712008" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal jaundice (disorder)" type="L">
+    <property name="name" language="nl-NL">icterus neonatorum</property>
+  </item>
+  <item code="161838002" codeSystem="2.16.840.1.113883.6.96" displayName="Infant feeding problem (finding)" type="L">
+    <property name="name" language="nl-NL">voedingsproblemen</property>
+  </item>
+  <item code="473130003" codeSystem="2.16.840.1.113883.6.96" displayName="Suspected infectious disease (situation)" type="L">
+    <property name="name" language="nl-NL">infectieverdenking</property>
+  </item>
+  <item code="394886001" codeSystem="2.16.840.1.113883.6.96" displayName="Suspected heart disease (context-dependent category)" type="L">
+    <property name="name" language="nl-NL">verdenking op hartafwijking</property>
+  </item>
+  <item code="443341004" codeSystem="2.16.840.1.113883.6.96" displayName="Congenital anomaly (disorder)" type="L">
+    <property name="name" language="nl-NL">congenitale afwijking</property>
+  </item>
+  <item code="52767006" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal hypoglycemia (disorder)" type="L">
+    <property name="name" language="nl-NL">hypoglycemie</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">overig</property>
+  </item>
+</codelist>

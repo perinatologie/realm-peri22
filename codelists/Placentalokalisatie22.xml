@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Placentalokalisatie22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.209" shortName="Placentalokalisatie22" displayName="Placentalokalisatie (2.2)" status="draft">
+  <item code="7401000146107" codeSystem="2.16.840.1.113883.6.96" displayName="Right lateral position of placenta (finding)" type="L">
+    <property name="name" language="nl-NL">Rechts</property>
+  </item>
+  <item code="7391000146109" codeSystem="2.16.840.1.113883.6.96" displayName="Left lateral position of placenta (finding)" type="L">
+    <property name="name" language="nl-NL">Links</property>
+  </item>
+  <item code="7371000146105" codeSystem="2.16.840.1.113883.6.96" displayName="Ventral position of placenta (finding)" type="L">
+    <property name="name" language="nl-NL">Ventraal</property>
+  </item>
+  <item code="6951000146104" codeSystem="2.16.840.1.113883.6.96" displayName="Dorsal position of placenta (finding)" type="L">
+    <property name="name" language="nl-NL">Dorsaal</property>
+  </item>
+  <item code="7361000146104" codeSystem="2.16.840.1.113883.6.96" displayName="Fundal position of placenta (finding)" type="L">
+    <property name="name" language="nl-NL">In fundo</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+  </item>
+</codelist>

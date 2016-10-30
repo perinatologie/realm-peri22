@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Stand" oid="2.16.840.1.113883.2.4.11.174" shortName="Stand" displayName="Stand" status="draft">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.48" displayName="Voor" type="L">
+    <property name="name" language="nl-NL">Voor</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.48" displayName="Links voor" type="L">
+    <property name="name" language="nl-NL">Links voor</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.48" displayName="Links dwars" type="L">
+    <property name="name" language="nl-NL">Links dwars</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.4.13.48" displayName="Links achter" type="L">
+    <property name="name" language="nl-NL">Links achter</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.4.13.48" displayName="Achter" type="L">
+    <property name="name" language="nl-NL">Achter</property>
+  </item>
+  <item code="6" codeSystem="2.16.840.1.113883.2.4.4.13.48" displayName="Rechts voor" type="L">
+    <property name="name" language="nl-NL">Rechts voor</property>
+  </item>
+  <item code="7" codeSystem="2.16.840.1.113883.2.4.4.13.48" displayName="Rechts dwars" type="L">
+    <property name="name" language="nl-NL">Rechts dwars</property>
+  </item>
+  <item code="8" codeSystem="2.16.840.1.113883.2.4.4.13.48" displayName="Rechts achter" type="L">
+    <property name="name" language="nl-NL">Rechts achter</property>
+  </item>
+  <item code="9" codeSystem="2.16.840.1.113883.2.4.4.13.48" displayName="Niet te beoordelen" type="L">
+    <property name="name" language="nl-NL">Niet te beoordelen</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="geen informatie" type="L">
+    <property name="name" language="nl-NL">geen informatie</property>
+  </item>
+</codelist>

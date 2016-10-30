@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82091" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82091" shortName="pijnbestrijding" type="group" status="draft">
+  <property name="name" language="nl-NL">Pijnbestrijding</property>
+  <property name="description" language="nl-NL">Pijnbestrijding. Het gaat hier om het moment van starten van de genoemde pijnbestrijding.Alleen van toepassing wanneer Pijnbestrijding? (item 82090) = Ja</property>
+</concept>

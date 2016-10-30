@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="HBsAg" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.5" shortName="HBsAg" displayName="HBsAg" status="draft">
+  <item code="441742003:363713009=373068000,363714003=47758006" codeSystem="2.16.840.1.113883.6.96" displayName="Hepatitis B surface antigen undetermined (finding)" type="L">
+    <property name="name" language="nl-NL">dubieus</property>
+  </item>
+  <item code="165806002" codeSystem="2.16.840.1.113883.6.96" displayName="Hepatitis B surface antigen positive (finding)" type="L">
+    <property name="name" language="nl-NL">positief</property>
+  </item>
+  <item code="406010001" codeSystem="2.16.840.1.113883.6.96" displayName="Hepatitis B surface antigen negative (finding)" type="L">
+    <property name="name" language="nl-NL">negatief</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+</codelist>

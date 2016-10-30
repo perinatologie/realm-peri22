@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="TypeOperatie" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.18" shortName="TypeOperatie" displayName="Type operatie" status="draft">
+  <item code="12658000" codeSystem="2.16.840.1.113883.6.96" displayName="Operation on female genital organs (procedure)" type="L">
+    <property name="name" language="nl-NL">Gynaecologisch</property>
+  </item>
+  <item code="68688001" codeSystem="2.16.840.1.113883.6.96" displayName="Curettage (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Curettage</property>
+  </item>
+  <item code="11466000" codeSystem="2.16.840.1.113883.6.96" displayName="Cesarean section (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Sectio</property>
+  </item>
+  <item code="28233006" codeSystem="2.16.840.1.113883.6.96" displayName="Manual removal of retained placenta (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Manuele placentaverwijdering</property>
+  </item>
+  <item code="79876008" codeSystem="2.16.840.1.113883.6.96" displayName="Operation on uterus (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Uterus</property>
+  </item>
+  <item code="42010004" codeSystem="2.16.840.1.113883.6.96" displayName="Uterine myomectomy (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Myoomenucleatie</property>
+  </item>
+  <item code="64887002" codeSystem="2.16.840.1.113883.6.96" displayName="Operation on ovary (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Ovaria</property>
+  </item>
+  <item code="112697007" codeSystem="2.16.840.1.113883.6.96" displayName="Operation on musculoskeletal system (procedure)" type="L">
+    <property name="name" language="nl-NL">Orthopedisch</property>
+  </item>
+  <item code="12745006" codeSystem="2.16.840.1.113883.6.96" displayName="Operative procedure on pelvis (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Bekken</property>
+  </item>
+  <item code="129152004:260686004=129284003" codeSystem="2.16.840.1.113883.6.96" displayName="Operation on back (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Rug</property>
+  </item>
+  <item code="21371007" codeSystem="2.16.840.1.113883.6.96" displayName="Operation on abdominal region (procedure)" type="L">
+    <property name="name" language="nl-NL">Abdominaal</property>
+  </item>
+  <item code="86481000" codeSystem="2.16.840.1.113883.6.96" displayName="Laparotomy (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Laparotomie</property>
+  </item>
+  <item code="80146002" codeSystem="2.16.840.1.113883.6.96" displayName="Appendectomy (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Appendectomie</property>
+  </item>
+  <item code="177250006" codeSystem="2.16.840.1.113883.6.96" displayName="Abdominoplasty (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Buikwandcorrectie</property>
+  </item>
+  <item code="34853001" codeSystem="2.16.840.1.113883.6.96" displayName="Operation on intestine (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Darm</property>
+  </item>
+  <item code="392090004" codeSystem="2.16.840.1.113883.6.96" displayName="Operation on breast (procedure)" type="L">
+    <property name="name" language="nl-NL">Mamma</property>
+  </item>
+  <item code="118717007:260686004=129284003" codeSystem="2.16.840.1.113883.6.96" displayName="Operation on organ (procedure)" type="L">
+    <property name="name" language="nl-NL">Vitale organen</property>
+  </item>
+  <item code="175898006" codeSystem="2.16.840.1.113883.6.96" displayName="Kidney operation (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Nier</property>
+  </item>
+  <item code="15463004" codeSystem="2.16.840.1.113883.6.96" displayName="Operation on thyroid gland (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Schildklier</property>
+  </item>
+  <item code="64915003" codeSystem="2.16.840.1.113883.6.96" displayName="Operation on heart (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Hart</property>
+  </item>
+  <item code="13119002" codeSystem="2.16.840.1.113883.6.96" displayName="Operation on adrenal gland (procedure)" level="1" type="L">
+    <property name="name" language="nl-NL">Bijnier</property>
+  </item>
+  <item code="16545005" codeSystem="2.16.840.1.113883.6.96" displayName="Operation on nervous system (procedure)" type="L">
+    <property name="name" language="nl-NL">Neurologisch</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="HIV" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.4" shortName="HIV" displayName="HIV" status="draft">
+  <item code="365866002:363713009=373068000,363714003=165813002" codeSystem="2.16.840.1.113883.6.96" displayName="Human immunodeficiency virus (HIV) undetermined (finding)" type="L">
+    <property name="name" language="nl-NL">dubieus</property>
+  </item>
+  <item code="165816005" codeSystem="2.16.840.1.113883.6.96" displayName="Human immunodeficiency virus (HIV) positive (finding)" type="L">
+    <property name="name" language="nl-NL">positief</property>
+  </item>
+  <item code="165815009" codeSystem="2.16.840.1.113883.6.96" displayName="Human immunodeficiency virus (HIV) negative (finding)" type="L">
+    <property name="name" language="nl-NL">negatief</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+</codelist>

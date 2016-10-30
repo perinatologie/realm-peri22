@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ConsentFunctieCode" oid="2.16.840.1.113883.2.4.11.63" shortName="ConsentFunctieCode" displayName="ConsentFunctieCode" status="final">
+  <item code="SUBCON" codeSystem="2.16.840.1.113883.5.88" displayName="Consenter is de zwangere vrouw" type="L">
+    <property name="name" language="nl-NL">Consenter is de zwangere vrouw</property>
+  </item>
+  <item code="GRDCON" codeSystem="2.16.840.1.113883.5.88" displayName="Consenter is wettelijk vertegenwoordiger" type="L">
+    <property name="name" language="nl-NL">Consenter is wettelijk vertegenwoordiger</property>
+  </item>
+</codelist>

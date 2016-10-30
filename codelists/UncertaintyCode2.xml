@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="UncertaintyCode2" oid="2.16.840.1.113883.2.4.11.52" shortName="UncertaintyCode2" displayName="UncertaintyCode 2" status="final">
+  <item code="U" codeSystem="2.16.840.1.113883.5.1053" displayName="Onzeker" type="L">
+    <property name="name" language="nl-NL">Onzeker</property>
+  </item>
+  <item code="N" codeSystem="2.16.840.1.113883.5.1053" displayName="Geen uitspraak over onzekerheid" type="L">
+    <property name="name" language="nl-NL">Geen uitspraak over onzekerheid</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="geen informatie" type="L">
+    <property name="name" language="nl-NL">geen informatie</property>
+  </item>
+</codelist>

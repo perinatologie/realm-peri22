@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-80789" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80789" shortName="problematiek_kind" type="item" status="pending" dataType="code" codelist="ProblematiekKind">
+  <property name="name" language="nl-NL">Problematiek kind</property>
+  <property name="description" language="nl-NL">Problematiek kind.Deze lijst is gedetailleerd zodat een rapportage vanuit de kinderarts gestructureerd opgeslagen kan worden in het verloskundig dossier.</property>
+</concept>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="AUSFindings" oid="2.16.840.1.113883.2.4.11.147" shortName="AUSFindings" displayName="AUSFindings" status="draft">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Neuraalbuisdefecten" type="L">
+    <property name="name" language="nl-NL">Neuraalbuisdefecten</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Intracraniële afwijkingen" type="L">
+    <property name="name" language="nl-NL">Intracraniële afwijkingen</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Afwijkingen aangezicht" type="L">
+    <property name="name" language="nl-NL">Afwijkingen aangezicht</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Afwijkingen nek / huid" type="L">
+    <property name="name" language="nl-NL">Afwijkingen nek / huid</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Intrathoracale afwijkingen" type="S">
+    <property name="name" language="nl-NL">Intrathoracale afwijkingen</property>
+  </item>
+  <item code="51" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Hartafwijkingen" type="L">
+    <property name="name" language="nl-NL">Hartafwijkingen</property>
+  </item>
+  <item code="52" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Longafwijkingen" type="L">
+    <property name="name" language="nl-NL">Longafwijkingen</property>
+  </item>
+  <item code="6" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Hernia diafragmatica" type="L">
+    <property name="name" language="nl-NL">Hernia diafragmatica</property>
+  </item>
+  <item code="7" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Buikwanddefecten" type="L">
+    <property name="name" language="nl-NL">Buikwanddefecten</property>
+  </item>
+  <item code="8" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Intra-abdominale afwijkingen" type="S">
+    <property name="name" language="nl-NL">Intra-abdominale afwijkingen</property>
+  </item>
+  <item code="81" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Afwijkingen maag-darm" type="L">
+    <property name="name" language="nl-NL">Afwijkingen maag-darm</property>
+  </item>
+  <item code="82" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Afwijkingen nieren-blaas" type="L">
+    <property name="name" language="nl-NL">Afwijkingen nieren-blaas</property>
+  </item>
+  <item code="9" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Afwijkingen skelet en extremiteiten" type="L">
+    <property name="name" language="nl-NL">Afwijkingen skelet en extremiteiten</property>
+  </item>
+  <item code="10" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Sonomarkers" type="L">
+    <property name="name" language="nl-NL">Sonomarkers</property>
+  </item>
+  <item code="11" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Hydrops foetalis" type="L">
+    <property name="name" language="nl-NL">Hydrops foetalis</property>
+  </item>
+  <item code="12" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Hartritmestoornissen" type="L">
+    <property name="name" language="nl-NL">Hartritmestoornissen</property>
+  </item>
+  <item code="13" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="TTTS" type="L">
+    <property name="name" language="nl-NL">TTTS</property>
+  </item>
+  <item code="14" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Dysmaturiteit" type="L">
+    <property name="name" language="nl-NL">Dysmaturiteit</property>
+  </item>
+  <item code="15" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Afwijkend vruchtwatercompartiment" type="L">
+    <property name="name" language="nl-NL">Afwijkend vruchtwatercompartiment</property>
+  </item>
+  <item code="16" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Navelstrengafwijkingen" type="L">
+    <property name="name" language="nl-NL">Navelstrengafwijkingen</property>
+  </item>
+  <item code="17" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Placenta afwijkingen" type="L">
+    <property name="name" language="nl-NL">Placenta afwijkingen</property>
+  </item>
+  <item code="18" codeSystem="2.16.840.1.113883.2.4.4.13.34" displayName="Overige afwijkingen" type="L">
+    <property name="name" language="nl-NL">Overige afwijkingen</property>
+  </item>
+</codelist>

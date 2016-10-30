@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-10591" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10591" shortName="lijst_ziekten_en_bijzonderheden_vrouw_in_de_algemene_anamnese" type="group" status="deprecated">
+  <property name="name" language="nl-NL">Lijst ziekten en bijzonderheden vrouw in de algemene anamnese</property>
+  <property name="description" language="nl-NL">Verzameling van ziekten en bijzonderheden in de algemene anamnese van de vrouw. Dit betreft dus verschijnselen die vóór de zwangerschap al bekend waren (evt. bij andere zorgverleners en.of bij de vrouw).</property>
+</concept>

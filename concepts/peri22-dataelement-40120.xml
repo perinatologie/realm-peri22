@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-40120" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40120" shortName="specificatie_chromosomale_afwijking" type="item" status="pending" dataType="code" codelist="ChromosomaleAfwijkingen22">
+  <property name="name" language="nl-NL">Specificatie chromosomale afwijking</property>
+  <property name="description" language="nl-NL">Specificatie chromosomale afwijking</property>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20280" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20280" shortName="zorgverlening_identificatie" type="item" status="cancelled" dataType="identifier">
+  <property name="name" language="nl-NL">Zorgverlening identificatie</property>
+  <property name="description" language="nl-NL">De zorgverlening is een aaneengesloten periode van zorgverantwoordelijkheid, voortvloeiend uit een behandelovereenkomst tussen patiënt en zorgaanbieder, met betrekking tot een specifieke zorgvraag. Als de zorg wordt beëindigd (door een overdracht) en later weer wordt voortgezet, geldt dat als twee afzonderlijke Zorgverleningen.</property>
+</concept>

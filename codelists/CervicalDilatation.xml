@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="CervicalDilatation" oid="2.16.840.1.113883.2.4.11.175" shortName="CervicalDilatation" displayName="Cervical dilatation" status="final">
+  <item code="289764007" codeSystem="2.16.840.1.113883.6.96" displayName="Cervix undilated" type="L">
+    <property name="name" language="nl-NL">0</property>
+  </item>
+  <item code="320003" codeSystem="2.16.840.1.113883.6.96" displayName="Cervical dilatation, 1cm" type="L">
+    <property name="name" language="nl-NL">1</property>
+  </item>
+  <item code="58699001" codeSystem="2.16.840.1.113883.6.96" displayName="Cervical dilatation, 2cm" type="L">
+    <property name="name" language="nl-NL">2</property>
+  </item>
+  <item code="23652008" codeSystem="2.16.840.1.113883.6.96" displayName="Cervical dilatation, 3cm" type="L">
+    <property name="name" language="nl-NL">3</property>
+  </item>
+  <item code="43808007" codeSystem="2.16.840.1.113883.6.96" displayName="Cervical dilatation, 4cm" type="L">
+    <property name="name" language="nl-NL">4</property>
+  </item>
+  <item code="23128002" codeSystem="2.16.840.1.113883.6.96" displayName="Cervical dilatation, 5cm" type="L">
+    <property name="name" language="nl-NL">5</property>
+  </item>
+  <item code="66895001" codeSystem="2.16.840.1.113883.6.96" displayName="Cervical dilatation, 6cm" type="L">
+    <property name="name" language="nl-NL">6</property>
+  </item>
+  <item code="74522004" codeSystem="2.16.840.1.113883.6.96" displayName="Cervical dilatation, 7cm" type="L">
+    <property name="name" language="nl-NL">7</property>
+  </item>
+  <item code="39333005" codeSystem="2.16.840.1.113883.6.96" displayName="Cervical dilatation, 8cm" type="L">
+    <property name="name" language="nl-NL">8</property>
+  </item>
+  <item code="62774004" codeSystem="2.16.840.1.113883.6.96" displayName="Cervical dilatation, 9cm" type="L">
+    <property name="name" language="nl-NL">9</property>
+  </item>
+  <item code="62472004" codeSystem="2.16.840.1.113883.6.96" displayName="Cervix fully dilated" type="L">
+    <property name="name" language="nl-NL">10</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="InterventieBeginBaring22" oid="2.16.840.1.113883.2.4.11.189" shortName="InterventieBeginBaring22" displayName="Interventie begin baring (2.2)" status="draft">
+  <item code="236960006" codeSystem="2.16.840.1.113883.6.96" displayName="Sweeping of membrane (procedure)" type="L">
+    <property name="name" language="nl-NL">Strippen</property>
+  </item>
+  <item code="408818004" codeSystem="2.16.840.1.113883.6.96" displayName="Induction of labour by artificial rupture of membranes (procedure)" type="L">
+    <property name="name" language="nl-NL">Amniotomie</property>
+  </item>
+  <item code="425861005" codeSystem="2.16.840.1.113883.6.96" displayName="Cervical ripening with balloon (procedure)" type="L">
+    <property name="name" language="nl-NL">Primen ballon</property>
+  </item>
+  <item code="236966000" codeSystem="2.16.840.1.113883.6.96" displayName="Cervical ripening with Prostaglandin E2 (procedure)" type="L">
+    <property name="name" language="nl-NL">Primen prostaglandine</property>
+  </item>
+  <item code="177135005" codeSystem="2.16.840.1.113883.6.96" displayName="Oxytocin induction of labour (procedure)" type="L">
+    <property name="name" language="nl-NL">Inleiden oxytocine</property>
+  </item>
+  <item code="177136006" codeSystem="2.16.840.1.113883.6.96" displayName="Prostaglandin induction of labour (procedure)" type="L">
+    <property name="name" language="nl-NL">Inleiden prostaglandine</property>
+  </item>
+  <item code="177141003" codeSystem="2.16.840.1.113883.6.96" displayName="Elective caesarean section (procedure)" type="L">
+    <property name="name" language="nl-NL">Primaire sectio caesarea</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

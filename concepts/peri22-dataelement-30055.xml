@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-30055" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.30055" shortName="locatie_episiotomie" type="item" status="pending" dataType="code" codelist="EpisiotomieType">
+  <property name="name" language="nl-NL">Locatie episiotomie</property>
+  <property name="description" language="nl-NL">Locatie episiotomie</property>
+</concept>

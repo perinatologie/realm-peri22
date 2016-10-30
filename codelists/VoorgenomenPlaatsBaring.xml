@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="VoorgenomenPlaatsBaring" oid="2.16.840.1.113883.2.4.11.179" shortName="VoorgenomenPlaatsBaring" displayName="VoorgenomenPlaatsBaring" status="draft">
+  <item code="169813005" codeSystem="2.16.840.1.113883.6.96" displayName="Home birth (finding)" type="L">
+    <property name="name" language="nl-NL">Thuis</property>
+  </item>
+  <item code="23" codeSystem="2.16.840.1.113883.2.4.3.22.1.8.7" displayName="Geboortecentrum" type="L">
+    <property name="name" language="nl-NL">Geboortecentrum</property>
+  </item>
+  <item code="22232009" codeSystem="2.16.840.1.113883.6.96" displayName="Hospital (environment)" type="L">
+    <property name="name" language="nl-NL">Ziekenhuis</property>
+  </item>
+  <item code="05" codeSystem="2.16.840.1.113883.2.4.3.22.1.8.7" displayName="Nog niet bepaald" type="L">
+    <property name="name" language="nl-NL">Nog niet bepaald</property>
+  </item>
+  <item code="00" codeSystem="2.16.840.1.113883.2.4.3.22.1.8.7" displayName="Geen voorkeur" type="L">
+    <property name="name" language="nl-NL">Geen voorkeur</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

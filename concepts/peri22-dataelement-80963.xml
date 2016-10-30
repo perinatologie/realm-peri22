@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-80963" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80963" shortName="schildklier_diagnostiek" type="group" status="draft">
+  <property name="name" language="nl-NL">Schildklier diagnostiek</property>
+  <property name="description" language="nl-NL">Schildklier diagnostiek</property>
+</concept>

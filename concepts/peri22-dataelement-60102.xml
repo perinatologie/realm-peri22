@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-60102" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.60102" shortName="echoparameters_bpd_hc_ac_fl" type="item" status="draft" dataType="blob">
+  <property name="name" language="nl-NL">Echoparameters BPD, HC, AC, FL</property>
+  <property name="description" language="nl-NL">Echoparameters BPD, HC, AC, FL met aanvullende informatie als percentielen en diagrammen uit de laatste en voorgaande Echo-onderzoeken. Komt als een reeks van parameters en/of grafieken voor. De weergave in een grafiek van de actuele waarden en de p-waarden van de groei van de foetus.</property>
+</concept>

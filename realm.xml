@@ -1,0 +1,4 @@
+<realm id="peri22">
+  <property name="definition" language="en-US">Definition of the peri22 dataset (imported from original decor files)</property>
+  <property name="source">https://github.com/perinatologie/peri22</property>
+</realm>

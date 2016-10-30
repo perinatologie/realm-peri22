@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="BeoordelingSonomarkers" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.22" shortName="BeoordelingSonomarkers" displayName="Beoordeling Sonomarkers" status="draft">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.54" displayName="Geen sonomarker geconstateerd" type="L">
+    <property name="name" language="nl-NL">Geen sonomarker geconstateerd</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.54" displayName="Sonomarker geconstateerd" type="L">
+    <property name="name" language="nl-NL">Sonomarker geconstateerd</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.54" displayName="Niet beoordeeld/beoordeelbaar" type="L">
+    <property name="name" language="nl-NL">Niet beoordeeld/beoordeelbaar</property>
+  </item>
+</codelist>

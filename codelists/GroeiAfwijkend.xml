@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="GroeiAfwijkend" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.37" shortName="GroeiAfwijkend" displayName="Groei afwijkend" status="draft">
+  <item code="199616008" codeSystem="2.16.840.1.113883.6.96" displayName="Large-for-dates fetus (disorder)" type="L">
+    <property name="name" language="nl-NL">Macrosomie</property>
+  </item>
+  <item code="267258002" codeSystem="2.16.840.1.113883.6.96" displayName="Small for gestational age fetus (disorder)" type="L">
+    <property name="name" language="nl-NL">Dysmaturiteit</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

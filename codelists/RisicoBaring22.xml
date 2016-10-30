@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="RisicoBaring22" oid="2.16.840.1.113883.2.4.11.180" shortName="RisicoBaring22" displayName="RisicoBaring22" status="draft">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.25" displayName="1e lijn (VIL A)" type="L">
+    <property name="name" language="nl-NL">1e lijn (VIL A)</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.25" displayName="2e lijn (VIL C)" type="L">
+    <property name="name" language="nl-NL">2e lijn (VIL C)</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.25" displayName="1e lijn met plaatsindicatie (VIL D)" type="L">
+    <property name="name" language="nl-NL">1e lijn met plaatsindicatie (VIL D)</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.25" displayName="3e lijn" type="L">
+    <property name="name" language="nl-NL">3e lijn</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

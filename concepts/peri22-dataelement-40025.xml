@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-40025" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40025" shortName="rangnummer_kind" type="item" status="pending" dataType="count">
+  <property name="name" language="nl-NL">Rangnummer kind</property>
+  <property name="description" language="nl-NL">Volgnummer van geboorte binnen de betreffende zwangerschap.</property>
+</concept>

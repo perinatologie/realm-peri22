@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="OncologischeAandoening22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.27" shortName="OncologischeAandoening22" displayName="Oncologische aandoening (2.2)" status="draft">
+  <item code="93796005" codeSystem="2.16.840.1.113883.6.96" displayName="Primary malignant neoplasm of female breast (disorder)" type="L">
+    <property name="name" language="nl-NL">Mammacarcinoom</property>
+  </item>
+  <item code="285432005" codeSystem="2.16.840.1.113883.6.96" displayName="Carcinoma of cervix (disorder)" type="L">
+    <property name="name" language="nl-NL">Cervixcarcinoom</property>
+  </item>
+  <item code="93143009" codeSystem="2.16.840.1.113883.6.96" displayName="Leukemia, disease (disorder)" type="L">
+    <property name="name" language="nl-NL">Leukaemie</property>
+  </item>
+  <item code="93880001" codeSystem="2.16.840.1.113883.6.96" displayName="Primary malignant neoplasm of lung (disorder)" type="L">
+    <property name="name" language="nl-NL">Longcarcinoom</property>
+  </item>
+  <item code="372244006" codeSystem="2.16.840.1.113883.6.96" displayName="Malignant melanoma (disorder)" type="L">
+    <property name="name" language="nl-NL">Melanoom</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="other" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20613" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20613" shortName="ontsluiting" type="item" status="draft" dataType="code" codelist="CervicalDilatation">
+  <property name="name" language="nl-NL">Ontsluiting</property>
+  <property name="description" language="nl-NL">Ontsluiting in volledige centimeters (tussen 0 en 10)</property>
+</concept>

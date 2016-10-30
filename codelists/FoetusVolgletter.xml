@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="FoetusVolgletter" oid="2.16.840.1.113883.2.4.11.72" shortName="FoetusVolgletter" displayName="FoetusVolgletter" status="final">
+  <item code="A" codeSystem="2.16.840.1.113883.2.4.4.13.42" displayName="foetus A" type="L">
+    <property name="name" language="nl-NL">foetus A</property>
+  </item>
+  <item code="B" codeSystem="2.16.840.1.113883.2.4.4.13.42" displayName="foetus B" type="L">
+    <property name="name" language="nl-NL">foetus B</property>
+  </item>
+  <item code="C" codeSystem="2.16.840.1.113883.2.4.4.13.42" displayName="foetus C" type="L">
+    <property name="name" language="nl-NL">foetus C</property>
+  </item>
+  <item code="D" codeSystem="2.16.840.1.113883.2.4.4.13.42" displayName="foetus D" type="L">
+    <property name="name" language="nl-NL">foetus D</property>
+  </item>
+  <item code="E" codeSystem="2.16.840.1.113883.2.4.4.13.42" displayName="foetus E" type="L">
+    <property name="name" language="nl-NL">foetus E</property>
+  </item>
+  <item code="F" codeSystem="2.16.840.1.113883.2.4.4.13.42" displayName="foetus F" type="L">
+    <property name="name" language="nl-NL">foetus F</property>
+  </item>
+  <item code="G" codeSystem="2.16.840.1.113883.2.4.4.13.42" displayName="foetus G" type="L">
+    <property name="name" language="nl-NL">foetus G</property>
+  </item>
+  <item code="H" codeSystem="2.16.840.1.113883.2.4.4.13.42" displayName="foetus H" type="L">
+    <property name="name" language="nl-NL">foetus H</property>
+  </item>
+  <item code="I" codeSystem="2.16.840.1.113883.2.4.4.13.42" displayName="foetus I" type="L">
+    <property name="name" language="nl-NL">foetus I</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+</codelist>

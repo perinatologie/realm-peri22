@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20300" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20300" shortName="periode_start_zorg" type="item" status="deprecated" dataType="code" codelist="PeriodeZorgverlening">
+  <property name="name" language="nl-NL">Periode start zorg</property>
+  <property name="description" language="nl-NL">Fase van de zwangerschap waarin de verantwoordelijkheid voor de zorgverlening wordt gestart.Het gaat om de periode start zorg uitgaande van de patiënte. Dit betekent dat wanneer de patiënte elders gestart is met zwangerschapszorg en daarna overgaat naar een andere praktijk, deze andere praktijk géén 'start/intake zwangerschap' mag registreren.</property>
+</concept>

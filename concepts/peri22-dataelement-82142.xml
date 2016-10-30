@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82142" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82142" shortName="geldigheidsperiode_einde" type="item" status="deprecated" dataType="datetime">
+  <property name="name" language="nl-NL">Geldigheidsperiode einde</property>
+  <property name="description" language="nl-NL">Geldigheidsperiode einde</property>
+</concept>

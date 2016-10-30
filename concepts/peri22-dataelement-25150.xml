@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-25150" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.25150" shortName="uitvoerder_labonderzoek" type="item" status="draft" dataType="identifier">
+  <property name="name" language="nl-NL">Uitvoerder lab-onderzoek</property>
+  <property name="description" language="nl-NL">Identificatie van de persoon die het onderzoek heeft uitgevoerd of behandeling heeft gegeven.</property>
+</concept>

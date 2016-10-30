@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="NHGtabel20v1_Code_opleiding" oid="2.16.840.1.113883.2.4.3.11.60.103.11.16" shortName="NHGtabel20v1_Code_opleiding" displayName="NHG tabel 20v1 - CodeOpleiding" status="final">
+  <item code="01" codeSystem="2.16.840.1.113883.2.4.4.30.20" displayName="Geen opleiding" type="L">
+    <property name="name" language="nl-NL">Geen opleiding</property>
+    <property name="desc" language="nl-NL">Geen opleiding</property>
+  </item>
+  <item code="02" codeSystem="2.16.840.1.113883.2.4.4.30.20" displayName="Lager Algemeen Onderwijs" type="L">
+    <property name="name" language="nl-NL">Lager Algemeen Onderwijs</property>
+    <property name="desc" language="nl-NL">Lager algemeen onderwijs (basisschool/lagere school)</property>
+  </item>
+  <item code="03" codeSystem="2.16.840.1.113883.2.4.4.30.20" displayName="Lager Beroepsonderwijs" type="L">
+    <property name="name" language="nl-NL">Lager Beroepsonderwijs</property>
+    <property name="desc" language="nl-NL">Lager beroepsonderwijs (LBO)</property>
+  </item>
+  <item code="04" codeSystem="2.16.840.1.113883.2.4.4.30.20" displayName="Middelbaar Algemeen Onderwijs" type="L">
+    <property name="name" language="nl-NL">Middelbaar Algemeen Onderwijs</property>
+    <property name="desc" language="nl-NL">Middelbaar algemeen onderwijs (MAVO, VMBO)</property>
+  </item>
+  <item code="05" codeSystem="2.16.840.1.113883.2.4.4.30.20" displayName="Middelbaar Beroepsonderwijs" type="L">
+    <property name="name" language="nl-NL">Middelbaar Beroepsonderwijs</property>
+    <property name="desc" language="nl-NL">Middelbaar beroepsonderwijs (MBO, incl. MEAO en MTS)</property>
+  </item>
+  <item code="08" codeSystem="2.16.840.1.113883.2.4.4.30.20" displayName="Hoger Algemeen Onderwijs" type="L">
+    <property name="name" language="nl-NL">Hoger Algemeen Onderwijs</property>
+    <property name="desc" language="nl-NL">Hoger algemeen onderwijs (HAVO, VWO)</property>
+  </item>
+  <item code="09" codeSystem="2.16.840.1.113883.2.4.4.30.20" displayName="Hoger Beroepsonderwijs" type="L">
+    <property name="name" language="nl-NL">Hoger Beroepsonderwijs</property>
+    <property name="desc" language="nl-NL">Hoger beroepsonderwijs (HBO, incl. HEAO en HTS)</property>
+  </item>
+  <item code="10" codeSystem="2.16.840.1.113883.2.4.4.30.20" displayName="Wetenschappelijk onderwijs" type="L">
+    <property name="name" language="nl-NL">Wetenschappelijk onderwijs</property>
+    <property name="desc" language="nl-NL">Wetenschappelijk onderwijs (universiteit, hogeschool)</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+    <property name="desc" language="nl-NL">Onbekend</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Anders, namelijk" type="L">
+    <property name="name" language="nl-NL">Anders, namelijk</property>
+    <property name="desc" language="nl-NL">Anders, namelijk (in vrije tekst meegeven)</property>
+  </item>
+</codelist>

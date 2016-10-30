@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="LiggingBijGeboorte22" oid="2.16.840.1.113883.2.4.11.177" shortName="LiggingBijGeboorte22" displayName="LiggingBijGeboorte22" status="draft">
+  <item code="37235006" codeSystem="2.16.840.1.113883.6.96" displayName="Occipitoposterior position (finding)" type="L">
+    <property name="name" language="nl-NL">achterhoofd-achter</property>
+  </item>
+  <item code="70028003" codeSystem="2.16.840.1.113883.6.96" displayName="Vertex presentation (finding)" type="L">
+    <property name="name" language="nl-NL">achterhoofd-voor</property>
+  </item>
+  <item code="249079005" codeSystem="2.16.840.1.113883.6.96" displayName="Fontanelles presenting (finding)" type="L">
+    <property name="name" language="nl-NL">kruin</property>
+  </item>
+  <item code="21882006" codeSystem="2.16.840.1.113883.6.96" displayName="Face presentation (finding)" type="L">
+    <property name="name" language="nl-NL">aangezicht</property>
+  </item>
+  <item code="8014007" codeSystem="2.16.840.1.113883.6.96" displayName="Brow presentation (finding)" type="L">
+    <property name="name" language="nl-NL">voorhoofd</property>
+  </item>
+  <item code="49168004" codeSystem="2.16.840.1.113883.6.96" displayName="Complete breech presentation (finding)" type="L">
+    <property name="name" language="nl-NL">volkomen stuit</property>
+  </item>
+  <item code="38049006" codeSystem="2.16.840.1.113883.6.96" displayName="Incomplete breech presentation (finding)" type="L">
+    <property name="name" language="nl-NL">half onvolkomen stuit</property>
+  </item>
+  <item code="18559007" codeSystem="2.16.840.1.113883.6.96" displayName="Frank breech presentation (finding)" type="L">
+    <property name="name" language="nl-NL">onvolkomen stuit</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">overig</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

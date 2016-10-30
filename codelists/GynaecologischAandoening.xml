@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="GynaecologischAandoening" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.16" shortName="GynaecologischAandoening" displayName="Gynaecologische aandoeningen" status="draft">
+  <item code="37849005" codeSystem="2.16.840.1.113883.6.96" displayName="Congenital uterine anomaly (disorder)" type="L">
+    <property name="name" language="nl-NL">Uterus anomalie</property>
+  </item>
+  <item code="129103003" codeSystem="2.16.840.1.113883.6.96" displayName="Endometriosis (disorder)" type="L">
+    <property name="name" language="nl-NL">Endometriose</property>
+  </item>
+  <item code="95315005" codeSystem="2.16.840.1.113883.6.96" displayName="Uterine leiomyoma (disorder)" type="L">
+    <property name="name" language="nl-NL">Uterus myomatosus</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

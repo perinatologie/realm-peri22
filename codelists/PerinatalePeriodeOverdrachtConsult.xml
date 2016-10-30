@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="PerinatalePeriodeOverdrachtConsult" oid="2.16.840.1.113883.2.4.11.169" shortName="PerinatalePeriodeOverdrachtConsult" displayName="PerinatalePeriodeOverdrachtConsult" status="final">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="na eerste controle" type="L">
+    <property name="name" language="nl-NL">na eerste controle</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="voor 28e week" type="L">
+    <property name="name" language="nl-NL">voor 28e week</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="28e tot en met 36e week" type="L">
+    <property name="name" language="nl-NL">28e tot en met 36e week</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="vanaf 37e week" type="L">
+    <property name="name" language="nl-NL">vanaf 37e week</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="tijdens ontsluiting" type="L">
+    <property name="name" language="nl-NL">tijdens ontsluiting</property>
+  </item>
+  <item code="6" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="tijdens uitdrijving" type="L">
+    <property name="name" language="nl-NL">tijdens uitdrijving</property>
+  </item>
+  <item code="7" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="nageboortetijdperk" type="L">
+    <property name="name" language="nl-NL">nageboortetijdperk</property>
+  </item>
+  <item code="8" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="direct postpartum" type="L">
+    <property name="name" language="nl-NL">direct postpartum</property>
+  </item>
+  <item code="9" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.52" displayName="tijdens kraambed" type="L">
+    <property name="name" language="nl-NL">tijdens kraambed</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+</codelist>

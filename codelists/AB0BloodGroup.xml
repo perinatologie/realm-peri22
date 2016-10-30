@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="AB0BloodGroup" oid="2.16.840.1.113883.2.4.11.155" shortName="AB0BloodGroup" displayName="AB0 blood group" status="final">
+  <item code="112144000" codeSystem="2.16.840.1.113883.6.96" displayName="Blood group A (finding)" type="L">
+    <property name="name" language="nl-NL">A</property>
+  </item>
+  <item code="112149005" codeSystem="2.16.840.1.113883.6.96" displayName="Blood group B (finding)" type="L">
+    <property name="name" language="nl-NL">B</property>
+  </item>
+  <item code="165743006" codeSystem="2.16.840.1.113883.6.96" displayName="Blood group AB (finding)" type="L">
+    <property name="name" language="nl-NL">AB</property>
+  </item>
+  <item code="58460004" codeSystem="2.16.840.1.113883.6.96" displayName="Blood group O (finding)" type="L">
+    <property name="name" language="nl-NL">0</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

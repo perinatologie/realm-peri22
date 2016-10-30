@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82337" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82337" shortName="definitieve_a_terme_datum" type="item" status="pending" dataType="date">
+  <property name="name" language="nl-NL">Definitieve à terme datum</property>
+  <property name="description" language="nl-NL">De ‘Definitieve à terme datum’ is de ‘Zekere à terme datum’ bepaald volgens het landelijke protocol "Datering Zwangerschap". Indien er geen ‘Zekere à terme datum’ meer bepaald kan worden op basis van dit protocol is de ‘Definitieve à terme datum’ de à terme datum die voor de rest van de zorgverlening gehanteerd zal worden.Noot: oorzaken van het niet meer kunnen bepalen van 'Zekere à terme datum' volgens het protocol kunnen bijvoorbeeld
+                        zijn: miskraam of te lange zwangerschapsduur.</property>
+</concept>

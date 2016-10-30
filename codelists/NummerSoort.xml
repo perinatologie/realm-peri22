@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="NummerSoort" oid="2.16.840.1.113883.2.4.3.11.60.101.11.7" shortName="NummerSoort" displayName="Nummer soort" status="final">
+  <item code="HP" codeSystem="2.16.840.1.113883.5.1119" displayName="Telefoonnummer thuis" type="L">
+    <property name="name" language="nl-NL">Telefoonnummer thuis</property>
+    <property name="desc" language="nl-NL">Telefoonnummer thuis</property>
+  </item>
+  <item code="TMP" codeSystem="2.16.840.1.113883.5.1119" displayName="Tijdelijk telefoonnummer" type="L">
+    <property name="name" language="nl-NL">Tijdelijk telefoonnummer</property>
+    <property name="desc" language="nl-NL">Tijdelijk telefoonnummer</property>
+  </item>
+  <item code="WP" codeSystem="2.16.840.1.113883.5.1119" displayName="Telefoonnummer op werk" type="L">
+    <property name="name" language="nl-NL">Telefoonnummer op werk</property>
+    <property name="desc" language="nl-NL">Telefoonnummer op werk</property>
+  </item>
+  <item code="MC" codeSystem="2.16.840.1.113883.5.1119" displayName="Mobiele telefoonnummer" type="L">
+    <property name="name" language="nl-NL">Mobiele telefoonnummer</property>
+    <property name="desc" language="nl-NL">Mobiele telefoonnummer</property>
+  </item>
+</codelist>

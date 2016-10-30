@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="OverigTraumaBaringskanaal22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.216" shortName="OverigTraumaBaringskanaal22" displayName="Overig trauma (anders dan perineum) aangaande het baringskanaal (2.2)" status="draft">
+  <item code="249221003" codeSystem="2.16.840.1.113883.6.96" displayName="Labial tear (disorder)" type="L">
+    <property name="name" language="nl-NL">Labium ruptuur</property>
+  </item>
+  <item code="262935001" codeSystem="2.16.840.1.113883.6.96" displayName="Tear of vaginal wall (disorder)" type="L">
+    <property name="name" language="nl-NL">Vaginawand ruptuur</property>
+  </item>
+  <item code="237090005" codeSystem="2.16.840.1.113883.6.96" displayName="Cervical laceration (disorder)" type="L">
+    <property name="name" language="nl-NL">Cervix ruptuur</property>
+  </item>
+  <item code="283963001" codeSystem="2.16.840.1.113883.6.96" displayName="Laceration of uterus (disorder)" type="L">
+    <property name="name" language="nl-NL">Uterus ruptuur</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+</codelist>

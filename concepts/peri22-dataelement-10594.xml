@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-10594" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10594" shortName="lijst_bijzonderheden_obstetrische_anamnese" type="group" status="deprecated">
+  <property name="name" language="nl-NL">Lijst bijzonderheden obstetrische anamnese</property>
+  <property name="description" language="nl-NL">Verzameling van obstetrische (verloskundige) bijzonderheden in de anamnese van de vrouw. Dit betreft dus obstetrische verschijnselen die vóór de zwangerschap al bekend waren (evt. bij andere zorgverleners en.of bij de vrouw).</property>
+</concept>

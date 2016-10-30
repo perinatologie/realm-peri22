@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82267" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82267" shortName="urogenitale_aandoening" type="item" status="pending" dataType="code" codelist="UrogenitaleAandoening22">
+  <property name="name" language="nl-NL">Urogenitale aandoening</property>
+  <property name="description" language="nl-NL">Urogenitale aandoening</property>
+</concept>

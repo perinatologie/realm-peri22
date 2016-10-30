@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-61230" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.61230" shortName="gehanteerde_pappa_in_mom" type="item" status="draft" dataType="quantity">
+  <property name="name" language="nl-NL">Gehanteerde PAPP-A in MoM</property>
+  <property name="description" language="nl-NL">De PAPP-A in MoM die door de kansberekeningssoftware is gebruikt als resultaatbeïnvloedende factor bij het verkregen resultaat..</property>
+</concept>

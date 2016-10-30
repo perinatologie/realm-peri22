@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="PijnbestrijdingPeriode" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.208" shortName="PijnbestrijdingPeriode" displayName="Pijnbestrijding periode" status="draft">
+  <item code="OntLt3" codeSystem="2.16.840.1.113883.2.4.4.13.60" displayName="tijdens ontsluitingsperiode &lt;= 3 cm" type="L">
+    <property name="name" language="nl-NL">tijdens ontsluitingsperiode &lt;= 3 cm</property>
+  </item>
+  <item code="OntMt3" codeSystem="2.16.840.1.113883.2.4.4.13.60" displayName="tijdens ontsluitingsperiode &gt; 3 cm" type="L">
+    <property name="name" language="nl-NL">tijdens ontsluitingsperiode &gt; 3 cm</property>
+  </item>
+  <item code="Uitdr" codeSystem="2.16.840.1.113883.2.4.4.13.60" displayName="tijdens uitdrijving" type="L">
+    <property name="name" language="nl-NL">tijdens uitdrijving</property>
+  </item>
+  <item code="Sectio" codeSystem="2.16.840.1.113883.2.4.4.13.60" displayName="tijdens sectio" type="L">
+    <property name="name" language="nl-NL">tijdens sectio</property>
+  </item>
+  <item code="Postpartum" codeSystem="2.16.840.1.113883.2.4.4.13.60" displayName="na geboorte kind" type="L">
+    <property name="name" language="nl-NL">na geboorte kind</property>
+  </item>
+</codelist>

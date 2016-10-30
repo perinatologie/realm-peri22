@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-23020" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.23020" shortName="afnemer_identificatie" type="item" status="draft" dataType="identifier">
+  <property name="name" language="nl-NL">Afnemer identificatie</property>
+  <property name="description" language="nl-NL">Afnemer identificatie</property>
+</concept>

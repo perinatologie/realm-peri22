@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-80664" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80664" shortName="casemanager_naam" type="item" status="draft" dataType="complex">
+  <property name="name" language="nl-NL">Casemanager naam</property>
+  <property name="description" language="nl-NL">De casemanager is een zorgverlener die het eerste aanspreekpunt is voor deze zwangerschap. Deze kan tijdens de zwangerschap wisselen, bijvoorbeeld bij verwijzing tussen 1e en 2e lijn.</property>
+</concept>

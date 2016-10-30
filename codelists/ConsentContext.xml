@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ConsentContext" oid="2.16.840.1.113883.2.4.11.62" shortName="ConsentContext" displayName="ConsentContext" status="final">
+  <item code="INFAUT" codeSystem="2.16.840.1.113883.5.4" displayName="Geautoriseerde informatieoverdracht" type="L">
+    <property name="name" language="nl-NL">Geautoriseerde informatieoverdracht</property>
+  </item>
+  <item code="INFCON" codeSystem="2.16.840.1.113883.5.4" displayName="Informatieoverdracht o.b.v. expliciete toestemming" type="L">
+    <property name="name" language="nl-NL">Informatieoverdracht o.b.v. expliciete toestemming</property>
+  </item>
+</codelist>

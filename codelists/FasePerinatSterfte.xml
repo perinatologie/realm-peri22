@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="FasePerinatSterfte" oid="2.16.840.1.113883.2.4.11.42" shortName="FasePerinatSterfte" displayName="FasePerinatSterfte" status="final">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.79" displayName="antepartum vóór 16w 0d" type="L">
+    <property name="name" language="nl-NL">antepartum vóór 16w 0d</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.79" displayName="antepartum vanaf 16w 0d tot 22w 0d" type="L">
+    <property name="name" language="nl-NL">antepartum vanaf 16w 0d tot 22w 0d</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.79" displayName="antepartum &gt;= 22w 0d" type="L">
+    <property name="name" language="nl-NL">antepartum &gt;= 22w 0d</property>
+  </item>
+  <item code="4" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.79" displayName="durante partu" type="L">
+    <property name="name" language="nl-NL">durante partu</property>
+  </item>
+  <item code="5" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.79" displayName="binnen 24 uur postpartum" type="L">
+    <property name="name" language="nl-NL">binnen 24 uur postpartum</property>
+  </item>
+  <item code="6" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.79" displayName="tussen begin 2e en eind 7e dag" type="L">
+    <property name="name" language="nl-NL">tussen begin 2e en eind 7e dag</property>
+  </item>
+  <item code="7" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.79" displayName="tussen begin 8e en eind 28e dag" type="L">
+    <property name="name" language="nl-NL">tussen begin 8e en eind 28e dag</property>
+  </item>
+  <item code="8" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.79" displayName="na 28 dagen" type="L">
+    <property name="name" language="nl-NL">na 28 dagen</property>
+  </item>
+  <item code="9" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.79" displayName="postpartum, periode onbekend" type="L">
+    <property name="name" language="nl-NL">postpartum, periode onbekend</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="geen informatie" type="L">
+    <property name="name" language="nl-NL">geen informatie</property>
+  </item>
+</codelist>

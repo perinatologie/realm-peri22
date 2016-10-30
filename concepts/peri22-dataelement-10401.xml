@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-10401" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10401" shortName="taalvaardigheid_vrouw_nederlandse_taal" type="item" status="draft" dataType="code" codelist="LanguageAbilityProficiency2">
+  <property name="name" language="nl-NL">Taalvaardigheid vrouw Nederlandse taal</property>
+  <property name="description" language="nl-NL">Dit item is opgenomen om na te gaan in welke mate zorgverlener en zwangere vrouw met elkaar kunnen communiceren. Het gaat om het achterhalen van de kwaliteit van de communicatie. Uitgangspunt is dat de voertaal altijd Nederlands is. Hoewel het mogelijk is dat een zwangere en een zorgverlener beiden dezelfde 'vreemde' taal spreken, zal een zwangere te maken krijgen met verschillende zorgverleners die deze taal waarschijnlijk niet
+                        machtig zijn. Het vastleggen van de taalvaardigheid in het Nederlands is daarom de beste benadering voor de kwaliteit van de communicatie.De communicatietaal van de vrouw kan overigens wél vastgelegd worden in een separaat item (peri22-dataelement-82371).</property>
+</concept>

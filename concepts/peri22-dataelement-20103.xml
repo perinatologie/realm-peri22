@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-20103" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20103" shortName="geboortedatum_eiceldonatrice" type="item" status="pending" dataType="date">
+  <property name="name" language="nl-NL">Geboortedatum eiceldonatrice</property>
+  <property name="description" language="nl-NL">Indien deze zwangerschap is ontstaan op basis van eiceldonatie, wat is dan de geboortedatum van de donatrice?</property>
+</concept>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82015" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82015" shortName="reden_verwijzing" type="item" status="draft" dataType="code" codelist="VILLijst">
+  <property name="name" language="nl-NL">Reden verwijzing</property>
+  <property name="description" language="nl-NL">Reden verwijzing. Het gaat hier om de vraagstelling van de verwijzende zorgverlener. Gebruik hierbij de lijst van PRN.</property>
+</concept>

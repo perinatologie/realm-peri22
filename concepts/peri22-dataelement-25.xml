@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-25" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.25" shortName="generieke_concepttypes_in_detail" type="group" status="deprecated">
+  <property name="name" language="nl-NL">Generieke concepttypes in detail</property>
+  <property name="description" language="nl-NL">Generieke concepttypes in detail, dit fugeert als voorbereiding op de blokkendoos perinatologie (building block repository perinatology = BBR perinatology) of zelfs de BBR Nederland</property>
+</concept>

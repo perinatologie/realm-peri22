@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-40150" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40150" shortName="rol_aanpakker_kind" type="item" status="pending" dataType="code" codelist="RolZorgverlener22">
+  <property name="name" language="nl-NL">Rol aanpakker kind</property>
+  <property name="description" language="nl-NL">Rol aanpakker kind</property>
+</concept>

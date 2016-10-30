@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-80747" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80747" shortName="alcoholgebruik" type="item" status="pending" dataType="code" codelist="Alcoholgebruik">
+  <property name="name" language="nl-NL">Alcoholgebruik</property>
+  <property name="description" language="nl-NL">Alcoholgebruik</property>
+</concept>
