@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82398" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82398" shortName="fluxus_postpartumq" type="item" status="final" dataType="boolean">
+  <property name="name" language="nl-NL">Fluxus postpartum?</property>
+  <property name="description" language="nl-NL">Is er sprake van een fluxus postpartum? Er is sprake van een fluxus postpartum wanneer er na de geboorte van het kind meer dan 1000 cc bloedverlies is.Ja/Nee/Onbekend</property>
+</concept>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80773" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80773" shortName="oren" type="item" status="draft" dataType="code">
+<concept id="peri22-dataelement-80773" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80773" shortName="oren" type="item" status="final" dataType="code">
   <property name="name" language="nl-NL">Oren</property>
   <property name="description" language="nl-NL">Oren</property>
 </concept>

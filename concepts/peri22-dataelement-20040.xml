@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-20040" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20040" shortName="datum_bepaling_a_terme_datum" type="item" status="draft" dataType="datetime">
+<concept id="peri22-dataelement-20040" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20040" shortName="datum_bepaling_a_terme_datum" type="item" status="final" dataType="datetime">
   <property name="name" language="nl-NL">Datum bepaling à terme datum</property>
   <property name="description" language="nl-NL">Datum waarop de à terme datum is vastgesteld. Hieraan is dan tevens te zien of het bij de eerste controle was of bij (geruime tijd vóór) de partus...</property>
 </concept>

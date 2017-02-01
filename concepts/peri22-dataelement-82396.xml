@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-82396" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82396" shortName="apla_nav_prenataal_onderzoekq" type="item" status="draft" dataType="boolean">
+<concept id="peri22-dataelement-82396" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82396" shortName="apla_nav_prenataal_onderzoekq" type="item" status="final" dataType="boolean">
   <property name="name" language="nl-NL">APLA nav prenataal onderzoek?</property>
   <property name="description" language="nl-NL">APLA naar aanleiding van afwijking(en) zoals gebleken uit prenataal onderzoek. (Ja/Nee/Onbekend)Alleen van toepassing wanneer 'Wijze einde zwangerschap' = APLA</property>
 </concept>

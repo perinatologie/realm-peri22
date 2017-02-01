@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82428" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82428" shortName="medicatie_met_effect_op_kind" type="group" status="cancelled">
+  <property name="name" language="nl-NL">Medicatie met effect op kind</property>
+  <property name="description" language="nl-NL">Medicatie met effect op prognose en/of beleid voor het kind / de kinderen</property>
+</concept>

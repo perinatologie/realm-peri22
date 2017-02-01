@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-7" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.7" shortName="uitkomst_per_kind" type="group" status="draft">
+<concept id="peri22-dataelement-7" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.7" shortName="uitkomst_per_kind" type="group" status="final">
   <property name="name" language="nl-NL">Uitkomst (per kind)</property>
   <property name="description" language="nl-NL">Groepering om de gegevens van elke uitkomst (kind) samen te vatten.</property>
 </concept>

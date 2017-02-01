@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80922" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80922" shortName="indicatie_prenatale_diagnostiek" type="group" status="draft">
+<concept id="peri22-dataelement-80922" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80922" shortName="indicatie_prenatale_diagnostiek" type="group" status="final">
   <property name="name" language="nl-NL">Indicatie prenatale diagnostiek</property>
   <property name="description" language="nl-NL">Prenatale diagnostiek. Groep die gegevens bevat over primaire indicatie op basis van anamnese.Voor een aantal indicaties is prenatale diagnostiek (bijvoorbeeld vruchtwateronderzoek, geavanceerd ultrageluidonderzoek, NIPT) een geschikte methode om meer informatie te krijgen over de aanwezigheid van een aangeboren aandoening. Welke methode gebruikt wordt, is afhankelijk van het beleid van de verschillende centra en van de wens van de zwangere.</property>
 </concept>

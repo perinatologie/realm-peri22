@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82436" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82436" shortName="vermoeden_iuvd_op_basis_van" type="item" status="final" dataType="code" codelist="IUVDMethode">
+  <property name="name" language="nl-NL">Vermoeden iuvd op basis van</property>
+  <property name="description" language="nl-NL">Waarop is het vermoeden van intra-uteriene vruchtdood gebaseerd?</property>
+</concept>

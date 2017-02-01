@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80838" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80838" shortName="indicatie_interventie_begin_baring" type="item" status="draft" dataType="code" codelist="IndicatieInterventie">
+<concept id="peri22-dataelement-80838" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80838" shortName="indicatie_interventie_begin_baring" type="item" status="final" dataType="code" codelist="IndicatieInterventie">
   <property name="name" language="nl-NL">Indicatie interventie begin baring</property>
   <property name="description" language="nl-NL">Indicatie interventie begin baring.Registreer hier één indicatie: de meest zwaarwegende.</property>
 </concept>

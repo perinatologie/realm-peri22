@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-40070" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40070" shortName="apgarscore_na_1_min" type="item" status="draft" dataType="count">
+<concept id="peri22-dataelement-40070" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40070" shortName="apgarscore_na_1_min" type="item" status="final" dataType="count">
   <property name="name" language="nl-NL">Apgarscore na 1 min.</property>
   <property name="description" language="nl-NL">Apgarscore na 1 min.</property>
 </concept>

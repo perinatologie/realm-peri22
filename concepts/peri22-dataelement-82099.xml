@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-82099" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82099" shortName="sedatie" type="group" status="draft">
+<concept id="peri22-dataelement-82099" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82099" shortName="sedatie" type="group" status="final">
   <property name="name" language="nl-NL">Sedatie</property>
   <property name="description" language="nl-NL">Sedatie.Sedatie is geen pijnbestrijding en wordt in principe niet durante partu toegepast. Opiaten, epiduraal of spinaal horen onder pijnbestrijding en dus niet onder sedatie.Onder sedatie valt bijvoorbeeld dormicum of phenergan.</property>
 </concept>

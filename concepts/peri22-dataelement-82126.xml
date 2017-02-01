@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-82126" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82126" shortName="overig_trauma" type="item" status="draft" dataType="code" codelist="OverigTraumaBaringskanaal22">
+<concept id="peri22-dataelement-82126" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82126" shortName="overig_trauma" type="item" status="final" dataType="code" codelist="OverigTraumaBaringskanaal22">
   <property name="name" language="nl-NL">Overig trauma</property>
   <property name="description" language="nl-NL">Overig trauma (anders dan perineum) aangaande het baringskanaal.</property>
 </concept>

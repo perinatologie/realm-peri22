@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="PijnbestrijdingPeriode" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.208" shortName="PijnbestrijdingPeriode" displayName="Pijnbestrijding periode" status="draft">
+<codelist id="PijnbestrijdingPeriode" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.208" shortName="PijnbestrijdingPeriode" displayName="Pijnbestrijding periode" status="pending">
   <item code="OntLt3" codeSystem="2.16.840.1.113883.2.4.4.13.60" displayName="tijdens ontsluitingsperiode &lt;= 3 cm" type="L">
     <property name="name" language="nl-NL">tijdens ontsluitingsperiode &lt;= 3 cm</property>
   </item>

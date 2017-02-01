@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-82224" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82224" shortName="natastenq" type="item" status="draft" dataType="boolean">
+<concept id="peri22-dataelement-82224" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82224" shortName="natastenq" type="item" status="final" dataType="boolean">
   <property name="name" language="nl-NL">Natasten?</property>
   <property name="description" language="nl-NL">Is er sprake van natasten?ja/nee/onbekend</property>
 </concept>

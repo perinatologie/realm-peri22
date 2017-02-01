@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80420" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80420" shortName="naam_beoogde_ontvanger" type="item" status="draft" dataType="complex">
+<concept id="peri22-dataelement-80420" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80420" shortName="naam_beoogde_ontvanger" type="item" status="final" dataType="complex">
   <property name="name" language="nl-NL">Naam beoogde ontvanger</property>
   <property name="description" language="nl-NL">Naam beoogde ontvanger</property>
 </concept>

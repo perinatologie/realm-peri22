@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-25940" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.25940" shortName="gehanteerd_gewicht_vrouw_gemeten" type="item" status="draft" dataType="quantity">
+<concept id="peri22-dataelement-25940" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.25940" shortName="gehanteerd_gewicht_vrouw_gemeten" type="item" status="cancelled" dataType="quantity">
   <property name="name" language="nl-NL">Gehanteerd gewicht vrouw (gemeten)</property>
   <property name="description" language="nl-NL">Het lichaamsgewicht van de vrouw dat door de kansberekeningssoftware is gebruikt als resultaatbeïnvloedende factor bij het verkregen resultaat..</property>
 </concept>

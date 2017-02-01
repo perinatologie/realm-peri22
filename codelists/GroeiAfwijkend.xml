@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="GroeiAfwijkend" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.37" shortName="GroeiAfwijkend" displayName="Groei afwijkend" status="draft">
+<codelist id="GroeiAfwijkend" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.37" shortName="GroeiAfwijkend" displayName="Groei afwijkend" status="pending">
   <item code="199616008" codeSystem="2.16.840.1.113883.6.96" displayName="Large-for-dates fetus (disorder)" type="L">
     <property name="name" language="nl-NL">Macrosomie</property>
   </item>

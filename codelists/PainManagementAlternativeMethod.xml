@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="PainManagementAlternativeMethod" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.7" shortName="PainManagementAlternativeMethod" displayName="PainManagementAlternativeMethod" status="draft">
+<codelist id="PainManagementAlternativeMethod" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.7" shortName="PainManagementAlternativeMethod" displayName="PainManagementAlternativeMethod" status="pending">
   <item code="52685006:363701004=404642006" codeSystem="2.16.840.1.113883.6.96" displayName="Administration of morphinomimetic analgesic (procedure)" type="L">
     <property name="name" language="nl-NL">Morfinometica</property>
   </item>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="RisicoBaring22" oid="2.16.840.1.113883.2.4.11.180" shortName="RisicoBaring22" displayName="RisicoBaring22" status="draft">
+<codelist id="RisicoBaring22" oid="2.16.840.1.113883.2.4.11.180" shortName="RisicoBaring22" displayName="RisicoBaring22" status="pending">
   <item code="1" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.25" displayName="1e lijn (VIL A)" type="L">
     <property name="name" language="nl-NL">1e lijn (VIL A)</property>
   </item>

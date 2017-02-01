@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Incontinentie22" oid="2.16.840.1.113883.2.4.11.212" shortName="Incontinentie22" displayName="Incontinentie (2.2)" status="draft">
+  <item code="165232002" codeSystem="2.16.840.1.113883.6.96" displayName="Urinary incontinence (finding)" type="L">
+    <property name="name" language="nl-NL">Incontinentie voor urine</property>
+  </item>
+  <item code="72042002" codeSystem="2.16.840.1.113883.6.96" displayName="Incontinence of feces (finding)" type="L">
+    <property name="name" language="nl-NL">Incontinentie voor ontlasting</property>
+  </item>
+  <item code="249508009" codeSystem="2.16.840.1.113883.6.96" displayName="Unable to control flatus (finding)" type="L">
+    <property name="name" language="nl-NL">Incontinentie voor flatus</property>
+  </item>
+</codelist>

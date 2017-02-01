@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-82153" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82153" shortName="echelon_eindverantwoordelijke" type="item" status="draft" dataType="code" codelist="Echelon">
+<concept id="peri22-dataelement-82153" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82153" shortName="echelon_eindverantwoordelijke" type="item" status="final" dataType="code" codelist="Echelon">
   <property name="name" language="nl-NL">Echelon eindverantwoordelijke</property>
   <property name="description" language="nl-NL">Het voorgenomen echelon voor eindverantwoordelijkheid.</property>
 </concept>

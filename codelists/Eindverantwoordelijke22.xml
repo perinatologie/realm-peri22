@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="Eindverantwoordelijke22" oid="2.16.840.1.113883.2.4.11.193" shortName="Eindverantwoordelijke22" displayName="Eindverantwoordelijke (2.2)" status="draft">
+<codelist id="Eindverantwoordelijke22" oid="2.16.840.1.113883.2.4.11.193" shortName="Eindverantwoordelijke22" displayName="Eindverantwoordelijke (2.2)" status="pending">
   <item code="11" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.59" displayName="1e lijns verloskundige" type="L">
     <property name="name" language="nl-NL">1e lijns verloskundige</property>
   </item>

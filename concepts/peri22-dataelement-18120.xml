@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-18120" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.18120" shortName="ontvangende_organisatie" type="item" status="draft" dataType="string" lengthMin="1" lengthMax="9999">
+<concept id="peri22-dataelement-18120" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.18120" shortName="ontvangende_organisatie" type="item" status="final" dataType="string" lengthMin="1" lengthMax="9999">
   <property name="name" language="nl-NL">Ontvangende organisatie</property>
   <property name="description" language="nl-NL">Ontvangende organisatie</property>
 </concept>

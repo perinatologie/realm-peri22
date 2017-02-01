@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82414" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82414" shortName="zorgverlener_lvr2_eigen_id" type="item" status="cancelled" dataType="identifier" lengthMin="4" lengthMax="4">
+  <property name="name" language="nl-NL">Zorgverlener (LVR2, eigen ID)</property>
+  <property name="description" language="nl-NL">Binnen de tweedelijns instelling unieke eigen identificatie voor de zorgverlener. Kan alleen als aanvullende identifier (dus naast een van bovenstaande ID's) worden gebruikt.</property>
+</concept>

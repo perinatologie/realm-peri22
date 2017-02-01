@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="NeurologischAandoening" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.14" shortName="NeurologischAandoening" displayName="Neurologische aandoeningen" status="draft">
+<codelist id="NeurologischAandoening" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.14" shortName="NeurologischAandoening" displayName="Neurologische aandoeningen" status="pending">
+  <item code="84757009" codeSystem="2.16.840.1.113883.6.96" displayName="Epilepsy (disorder)" type="L">
+    <property name="name" language="nl-NL">Epilepsie</property>
+  </item>
+  <item code="230690007" codeSystem="2.16.840.1.113883.6.96" displayName="Cerebrovascular accident (disorder)" type="L">
+    <property name="name" language="nl-NL">Cerebrovasculair accident (CVA)</property>
+  </item>
   <item code="24700007" codeSystem="2.16.840.1.113883.6.96" displayName="Multiple sclerosis (disorder)" type="L">
     <property name="name" language="nl-NL">Multiple Sclerose</property>
   </item>
@@ -11,12 +17,6 @@
   </item>
   <item code="399244003" codeSystem="2.16.840.1.113883.6.96" displayName="Disease of pituitary gland (disorder)" type="L">
     <property name="name" language="nl-NL">Hypofyse afwijking</property>
-  </item>
-  <item code="84757009" codeSystem="2.16.840.1.113883.6.96" displayName="Epilepsy (disorder)" type="L">
-    <property name="name" language="nl-NL">Epilepsie</property>
-  </item>
-  <item code="230690007" codeSystem="2.16.840.1.113883.6.96" displayName="Cerebrovascular accident (disorder)" type="L">
-    <property name="name" language="nl-NL">Cerebrovasculair accident (CVA)</property>
   </item>
   <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
     <property name="name" language="nl-NL">Overig</property>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-25780" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.25780" shortName="referentiewaarde_pappa_concentratie" type="item" status="draft" dataType="complex">
+<concept id="peri22-dataelement-25780" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.25780" shortName="referentiewaarde_pappa_concentratie" type="item" status="cancelled" dataType="complex">
   <property name="name" language="nl-NL">Referentiewaarde: PAPP-A concentratie</property>
   <property name="description" language="nl-NL">Referentiewaarde: PAPP-A concentratie</property>
 </concept>

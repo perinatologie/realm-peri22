@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-20660" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20660" shortName="ontslagdatum_post_partum" type="item" status="draft" dataType="datetime">
+<concept id="peri22-dataelement-20660" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20660" shortName="ontslagdatum_post_partum" type="item" status="final" dataType="datetime">
   <property name="name" language="nl-NL">Ontslagdatum post partum</property>
   <property name="description" language="nl-NL">Ontslag vrouw uit ziekenhuis ná de partus.Alleen van toepassing bij een klinische partus (in de 2e of 3e lijn)</property>
 </concept>

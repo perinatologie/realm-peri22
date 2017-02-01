@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="ZorginstellingSpecialisme" oid="2.16.840.1.113883.2.4.11.211" shortName="ZorginstellingSpecialisme" displayName="Zorginstelling specialisme" status="draft">
+<codelist id="ZorginstellingSpecialisme" oid="2.16.840.1.113883.2.4.11.211" shortName="ZorginstellingSpecialisme" displayName="Zorginstelling specialisme" status="final">
   <item code="01.046" codeSystem="2.16.840.1.113883.2.4.15.111" displayName="Gynaecoloog / obstetricus" type="L">
     <property name="name" language="nl-NL">gynaecoloog</property>
   </item>

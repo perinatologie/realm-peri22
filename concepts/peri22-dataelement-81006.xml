@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-81006" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.81006" shortName="hartactie" type="group" status="draft">
+<concept id="peri22-dataelement-81006" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.81006" shortName="hartactie" type="group" status="final">
   <property name="name" language="nl-NL">Hartactie</property>
   <property name="description" language="nl-NL">Hartactie van de foetus</property>
 </concept>

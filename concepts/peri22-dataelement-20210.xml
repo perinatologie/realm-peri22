@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-20210" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20210" shortName="gewicht_voor_de_zwangerschap" type="item" status="draft" dataType="quantity">
+<concept id="peri22-dataelement-20210" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20210" shortName="gewicht_voor_de_zwangerschap" type="item" status="cancelled" dataType="quantity">
   <property name="name" language="nl-NL">Gewicht vóór de zwangerschap</property>
   <property name="description" language="nl-NL">Laatst bekende lichaamsgewicht van de vrouw vóór de aanvang van deze zwangerschap</property>
 </concept>

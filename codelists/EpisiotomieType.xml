@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="EpisiotomieType" oid="2.16.840.1.113883.2.4.11.161" shortName="EpisiotomieType" displayName="EpisiotomieType" status="draft">
+<codelist id="EpisiotomieType" oid="2.16.840.1.113883.2.4.11.161" shortName="EpisiotomieType" displayName="EpisiotomieType" status="pending">
   <item code="1" codeSystem="2.16.840.1.113883.2.4.3.22.1.3.60" displayName="mediolaterale episiotomie" type="L">
     <property name="name" language="nl-NL">mediolaterale episiotomie</property>
   </item>

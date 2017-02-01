@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-61270" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.61270" shortName="gehanteerde_corrected_vrij_hcg" type="item" status="draft" dataType="quantity">
+<concept id="peri22-dataelement-61270" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.61270" shortName="gehanteerde_corrected_vrij_hcg" type="item" status="final" dataType="quantity">
   <property name="name" language="nl-NL">Gehanteerde corrected vrij β-hCG</property>
   <property name="description" language="nl-NL">De corrected vrij β-hCG in MoMdie door de kansberekeningssoftware is gebruikt als resultaatbeïnvloedende factor bij het verkregen resultaat..</property>
 </concept>

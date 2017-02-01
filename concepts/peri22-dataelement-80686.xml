@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80686" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80686" shortName="consanguiniteitq" type="item" status="draft" dataType="boolean">
+<concept id="peri22-dataelement-80686" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80686" shortName="consanguiniteitq" type="item" status="final" dataType="boolean">
   <property name="name" language="nl-NL">Consanguïniteit?</property>
   <property name="description" language="nl-NL">Is er sprake van consanguïniteit? ja/nee/onbekend Bij consanguïniteit gaat het om partners die tot de 4e graad verwant zijn aan elkaar.</property>
 </concept>

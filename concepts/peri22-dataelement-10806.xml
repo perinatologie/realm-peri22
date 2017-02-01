@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-10806" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10806" shortName="bmi_vrouw" type="item" status="draft" dataType="quantity">
+<concept id="peri22-dataelement-10806" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10806" shortName="bmi_vrouw" type="item" status="final" dataType="quantity">
   <property name="name" language="nl-NL">BMI vrouw</property>
   <property name="description" language="nl-NL">Body Mass Index vrouw (berekend)</property>
 </concept>

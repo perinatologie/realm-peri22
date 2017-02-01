@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-10801" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10801" shortName="medicatiegebruikq" type="item" status="draft" dataType="boolean">
+<concept id="peri22-dataelement-10801" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10801" shortName="medicatiegebruikq" type="item" status="final" dataType="boolean">
   <property name="name" language="nl-NL">Medicatiegebruik?</property>
   <property name="description" language="nl-NL">Wordt er nu medicatie gebruikt wordt en/of is er in de huidige zwangerschap medicatie gebruikt: ja / nee / onbekend</property>
 </concept>

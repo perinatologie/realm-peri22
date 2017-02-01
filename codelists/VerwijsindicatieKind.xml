@@ -24,10 +24,10 @@
   <item code="52767006" codeSystem="2.16.840.1.113883.6.96" displayName="Neonatal hypoglycemia (disorder)" type="L">
     <property name="name" language="nl-NL">hypoglycemie</property>
   </item>
-  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
-    <property name="name" language="nl-NL">onbekend</property>
-  </item>
   <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
     <property name="name" language="nl-NL">overig</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
   </item>
 </codelist>

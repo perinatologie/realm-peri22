@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-82372" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82372" shortName="positie_portio" type="item" status="draft" dataType="code">
+<concept id="peri22-dataelement-82372" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82372" shortName="positie_portio" type="item" status="final" dataType="code" codelist="PositiePortio22">
   <property name="name" language="nl-NL">Positie portio</property>
   <property name="description" language="nl-NL">Positie portio</property>
 </concept>

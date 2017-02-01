@@ -18,10 +18,10 @@
   <item code="25453008" codeSystem="2.16.840.1.113883.6.96" displayName="Kidd" type="L">
     <property name="name" language="nl-NL">Kidd</property>
   </item>
-  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
-    <property name="name" language="nl-NL">onbekend</property>
-  </item>
   <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="overig" type="L">
     <property name="name" language="nl-NL">Overige irregulaire antistoffen</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
   </item>
 </codelist>

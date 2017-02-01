@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-40032" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40032" shortName="adres_tbv_hielprik" type="group" status="draft">
+<concept id="peri22-dataelement-40032" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40032" shortName="adres_tbv_hielprik" type="group" status="final">
   <property name="name" language="nl-NL">Adres t.b.v. hielprik</property>
   <property name="description" language="nl-NL">Het tijdelijk verblijfadres of vast woonadres van het kind t.b.v. hielprik</property>
 </concept>

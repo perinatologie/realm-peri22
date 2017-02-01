@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80701" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80701" shortName="naamgegevens_kind" type="group" status="draft">
+<concept id="peri22-dataelement-80701" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80701" shortName="naamgegevens_kind" type="group" status="final">
   <property name="name" language="nl-NL">Naamgegevens kind</property>
   <property name="description" language="nl-NL">Roepnaam, voorna(a)m(en) en achternaam van het kind</property>
 </concept>

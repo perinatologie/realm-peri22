@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <codelist id="IndicatieEpisiotomie" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.210" shortName="IndicatieEpisiotomie" displayName="Indicatie episiotomie" status="draft">
-  <item code="10" codeSystem="2.16.840.1.113883.2.4.4.13.61" displayName="foetale indicatie, versnellen baring" type="L">
+  <item code="10" codeSystem="2.16.840.1.113883.2.4.4.13.61" displayName="foetale indicatie" type="L">
     <property name="name" language="nl-NL">foetale indicatie</property>
   </item>
   <item code="20" codeSystem="2.16.840.1.113883.2.4.4.13.61" displayName="maternale indicatie" type="S">
@@ -12,7 +12,7 @@
   <item code="22" codeSystem="2.16.840.1.113883.2.4.4.13.61" displayName="gesloten vulva tgv besnijdenis" level="1" type="L">
     <property name="name" language="nl-NL">gesloten vulva tgv besnijdenis</property>
   </item>
-  <item code="30" codeSystem="2.16.840.1.113883.2.4.4.13.61" displayName="kunstverlossing, routine handeling" type="L">
+  <item code="30" codeSystem="2.16.840.1.113883.2.4.4.13.61" displayName="kunstverlossing (routine handeling)" type="L">
     <property name="name" language="nl-NL">kunstverlossing (routine handeling)</property>
   </item>
   <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="overig" type="L">

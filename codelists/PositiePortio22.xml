@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="PositiePortio22" oid="2.16.840.1.113883.2.4.11.213" shortName="PositiePortio22" displayName="Positie portio (2.2)" status="draft">
+  <item code="289783000" codeSystem="2.16.840.1.113883.6.96" displayName="Cervix central (finding)" type="L">
+    <property name="name" language="nl-NL">centraal</property>
+  </item>
+  <item code="289784006" codeSystem="2.16.840.1.113883.6.96" displayName="Cervix posterior (finding)" type="L">
+    <property name="name" language="nl-NL">sacraal</property>
+  </item>
+  <item code="289785007" codeSystem="2.16.840.1.113883.6.96" displayName="Cervix mid-posterior (finding)" type="L">
+    <property name="name" language="nl-NL">mediosacraal</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
+  </item>
+</codelist>

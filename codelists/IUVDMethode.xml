@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="IUVDMethode" oid="2.16.840.1.113883.2.4.11.223" shortName="IUVDMethode" displayName="IUVD methode" status="draft">
+  <item code="711490008" codeSystem="2.16.840.1.113883.6.96" displayName="Doppler fetal echocardiography (procedure)" type="L">
+    <property name="name" language="nl-NL">Dopptone</property>
+  </item>
+  <item code="241491007" codeSystem="2.16.840.1.113883.6.96" displayName="US scan of fetus (procedure)" type="L">
+    <property name="name" language="nl-NL">Echoscopie</property>
+  </item>
+  <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
+    <property name="name" language="nl-NL">Overig</property>
+  </item>
+  <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
+    <property name="name" language="nl-NL">Geen informatie</property>
+  </item>
+</codelist>

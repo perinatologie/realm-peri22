@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-17" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.17" shortName="obstetrische_anamnese_gegroepeerd_per_voorgaande_zwangerschap" type="group" status="draft">
+<concept id="peri22-dataelement-17" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.17" shortName="obstetrische_anamnese_gegroepeerd_per_voorgaande_zwangerschap" type="group" status="final">
   <property name="name" language="nl-NL">Obstetrische anamnese gegroepeerd per voorgaande zwangerschap</property>
   <property name="description" language="nl-NL">Relevante feiten vorige zwangerschap(pen) in chronologische volgorde.</property>
 </concept>

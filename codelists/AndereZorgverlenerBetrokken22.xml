@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="AndereZorgverlenerBetrokken22" oid="2.16.840.1.113883.2.4.11.183" shortName="AndereZorgverlenerBetrokken22" displayName="AndereZorgverlenerBetrokken22" status="draft">
+<codelist id="AndereZorgverlenerBetrokken22" oid="2.16.840.1.113883.2.4.11.183" shortName="AndereZorgverlenerBetrokken22" displayName="AndereZorgverlenerBetrokken22" status="pending">
   <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.17" displayName="consultatie" type="L">
     <property name="name" language="nl-NL">consultatie</property>
   </item>

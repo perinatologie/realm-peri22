@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80709" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80709" shortName="vorige_baring" type="group" status="draft">
+<concept id="peri22-dataelement-80709" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80709" shortName="vorige_baring" type="group" status="final">
   <property name="name" language="nl-NL">Vorige baring</property>
   <property name="description" language="nl-NL">Vorige baring.Baring is het geboren laten worden van één uitkomst (kind).</property>
 </concept>

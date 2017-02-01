@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="PostpartumComplicatie22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.34" shortName="PostpartumComplicatie22" displayName="Postpartum complicatie (2.2)" status="draft">
+<codelist id="PostpartumComplicatie22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.34" shortName="PostpartumComplicatie22" displayName="Postpartum complicatie (2.2)" status="final">
   <item code="6010" codeSystem="2.16.840.1.113883.2.4.3.22.1.2.1" displayName="(Dreigende) eclampsie, (verdenking op) HELLP-syndroom" type="A">
     <property name="name" language="nl-NL">(Dreigende) eclampsie, (verdenking op) HELLP-syndroom</property>
   </item>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="IntraUterieneBehandeling22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.26" shortName="IntraUterieneBehandeling22" displayName="Intra-uteriene behandeling (2.2)" status="draft">
+<codelist id="IntraUterieneBehandeling22" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.26" shortName="IntraUterieneBehandeling22" displayName="Intra-uteriene behandeling (2.2)" status="pending">
   <item code="45460008" codeSystem="2.16.840.1.113883.6.96" displayName="Intrauterine transfusion (procedure)" type="L">
     <property name="name" language="nl-NL">Intra-uteriene bloedtransfusie</property>
   </item>

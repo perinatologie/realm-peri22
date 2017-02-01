@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="Conditieperineum22" oid="2.16.840.1.113883.2.4.11.192" shortName="Conditieperineum22" displayName="Conditie perineum (2.2)" status="draft">
+<codelist id="Conditieperineum22" oid="2.16.840.1.113883.2.4.11.192" shortName="Conditieperineum22" displayName="Conditie perineum (2.2)" status="pending">
   <item code="289854007" codeSystem="2.16.840.1.113883.6.96" displayName="Perineum intact  (finding)" type="L">
     <property name="name" language="nl-NL">Gaaf</property>
   </item>
@@ -27,11 +27,11 @@
   <item code="609344008" codeSystem="2.16.840.1.113883.6.96" displayName="Episiotomy wound  (morphologic abnormality)" type="L">
     <property name="name" language="nl-NL">Episiotomiewond</property>
   </item>
-  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
-    <property name="name" language="nl-NL">Onbekend</property>
-  </item>
   <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Anders" type="L">
     <property name="name" language="nl-NL">Anders</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
   </item>
   <item code="NI" codeSystem="2.16.840.1.113883.5.1008" displayName="Geen informatie" type="L">
     <property name="name" language="nl-NL">Geen informatie</property>

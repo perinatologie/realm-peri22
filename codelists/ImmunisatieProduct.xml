@@ -18,10 +18,10 @@
   <item code="00561126" codeSystem="2.16.840.1.113883.2.4.4.7" displayName="HepBQuin 500 IE; 5 ml" type="L">
     <property name="name" language="nl-NL">HepBQuin 500 IE; 5 ml</property>
   </item>
-  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
-    <property name="name" language="nl-NL">onbekend</property>
-  </item>
   <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="overig" type="L">
     <property name="name" language="nl-NL">overig</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
   </item>
 </codelist>

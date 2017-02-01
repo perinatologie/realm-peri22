@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-10034" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10034" shortName="huisletterhuisnummertoevoeging" type="item" status="draft" dataType="string">
+<concept id="peri22-dataelement-10034" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10034" shortName="huisletterhuisnummertoevoeging" type="item" status="final" dataType="string">
   <property name="name" language="nl-NL">Huisletter/huisnummertoevoeging</property>
   <property name="description" language="nl-NL">Huisletter/huisnummertoevoeging van het huisnummer</property>
 </concept>

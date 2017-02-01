@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-60005" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.60005" shortName="foetus_identificatie" type="item" status="draft" dataType="identifier">
+<concept id="peri22-dataelement-60005" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.60005" shortName="foetus_identificatie" type="item" status="final" dataType="identifier">
   <property name="name" language="nl-NL">Foetus identificatie</property>
   <property name="description" language="nl-NL">Unieke identificatie van de foetus.</property>
 </concept>

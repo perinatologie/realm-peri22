@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-82319" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82319" shortName="partiele_molaq" type="item" status="draft" dataType="boolean">
+<concept id="peri22-dataelement-82319" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82319" shortName="partiele_molaq" type="item" status="final" dataType="boolean">
   <property name="name" language="nl-NL">Partiële mola?</property>
   <property name="description" language="nl-NL">Is er sprake van een partiële mola, met intacte zwangerschap?Een mola wordt geregistreerd bij 'wijze einde zwangerschap'.</property>
 </concept>

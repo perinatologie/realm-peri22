@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-20153" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20153" shortName="pariteit" type="item" status="draft" dataType="count">
+<concept id="peri22-dataelement-20153" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20153" shortName="pariteit" type="item" status="final" dataType="count">
   <property name="name" language="nl-NL">Pariteit</property>
   <property name="description" language="nl-NL">Aantal zwangerschappen die eindigden met een partus (&gt;= 16w 0d / 112 dagen)</property>
 </concept>

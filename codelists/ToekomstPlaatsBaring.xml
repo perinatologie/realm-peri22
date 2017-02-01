@@ -24,10 +24,10 @@
   <item code="32" codeSystem="2.16.840.1.113883.2.4.3.22.1.8.7" displayName="ziekenhuis op medische indicatie" type="L">
     <property name="name" language="nl-NL">ziekenhuis op medische indicatie</property>
   </item>
-  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
-    <property name="name" language="nl-NL">onbekend</property>
-  </item>
   <item code="ASKU" codeSystem="2.16.840.1.113883.5.1008" displayName="weet het nog niet" type="L">
     <property name="name" language="nl-NL">weet het nog niet</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="onbekend" type="L">
+    <property name="name" language="nl-NL">onbekend</property>
   </item>
 </codelist>

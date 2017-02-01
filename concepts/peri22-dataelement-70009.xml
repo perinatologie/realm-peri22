@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-70009" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.70009" shortName="voeding_kind_groep" type="group" status="draft">
+<concept id="peri22-dataelement-70009" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.70009" shortName="voeding_kind_groep" type="group" status="final">
   <property name="name" language="nl-NL">Voeding kind (groep)</property>
   <property name="description" language="nl-NL">Voeding kind (groep).Registratie richtlijn PRN: de voeding van het kind bij voorkeur vastleggen op de zevende dag.De voeding van het kind mag vaker dan één keer (dus op meer dan één datum) worden vastgelegd, soms is dit ook nuttig omdat het verandert. Daarnaast is het ook mogelijk dat een kind op één datum verschillende substanties voeding krijgt (bijvoorbeeld zowel borst- als kunstvoeding). Ook dat kan vastgelegd worden.</property>
 </concept>

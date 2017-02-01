@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-82385" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82385" shortName="indaling_testes" type="group" status="draft">
+<concept id="peri22-dataelement-82385" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82385" shortName="indaling_testes" type="group" status="final">
   <property name="name" language="nl-NL">Indaling testes</property>
-  <property name="description" language="nl-NL">Indaling testes. Alleen van toepassing bij mannelijk kind.</property>
+  <property name="description" language="nl-NL">Indaling testes. Alleen van toepassing bij mannelijk kind.Wanneer onduidelijk is of de testis is ingedaald, dient gekozen te worden voor 'niet ingedaald'.</property>
 </concept>

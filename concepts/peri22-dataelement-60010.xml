@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-60010" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.60010" shortName="foetus_volgletter" type="item" status="draft" dataType="code" codelist="FoetusVolgletter">
+<concept id="peri22-dataelement-60010" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.60010" shortName="foetus_volgletter" type="item" status="final" dataType="code" codelist="FoetusVolgletter">
   <property name="name" language="nl-NL">Foetus volgletter</property>
   <property name="description" language="nl-NL">Identificerende letter ter aanduiding van de foetus (binnen een zwangerschap). Met name van belang bij meerlingen i.g.v. gedeeltelijke miskraam en selectieve foeticide (uitkomsten vóór 16w 0d) en bevindingen van verschillende zorgaanbieders. In principe is er geen rangschikking, maar initieel geldt ‘1e’ = A; ‘2e’ = B; ‘3e’ = C etc. In de praktijk is dit vaak beperkt tot slechts twee of drie mogelijke waarden.</property>
 </concept>

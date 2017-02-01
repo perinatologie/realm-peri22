@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="VaginaleKunstverlossing22" oid="2.16.840.1.113883.2.4.11.181" shortName="VaginaleKunstverlossing22" displayName="VaginaleKunstverlossing22" status="draft">
+<codelist id="VaginaleKunstverlossing22" oid="2.16.840.1.113883.2.4.11.181" shortName="VaginaleKunstverlossing22" displayName="VaginaleKunstverlossing22" status="pending">
   <item code="302383004" codeSystem="2.16.840.1.113883.6.96" displayName="Forceps delivery (procedure)" type="L">
     <property name="name" language="nl-NL">Forceps</property>
   </item>

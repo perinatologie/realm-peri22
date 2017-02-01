@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="Alcoholgebruik" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.203" shortName="Alcoholgebruik" displayName="Alcoholgebruik" status="draft">
+<codelist id="Alcoholgebruik" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.203" shortName="Alcoholgebruik" displayName="Alcoholgebruik" status="pending">
   <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.59" displayName="geen" type="L">
     <property name="name" language="nl-NL">geen</property>
   </item>

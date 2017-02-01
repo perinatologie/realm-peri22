@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-21" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.21" shortName="kindspecifieke_gegevens_vorige_uitkomsten" type="group" status="draft">
+<concept id="peri22-dataelement-21" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.21" shortName="kindspecifieke_gegevens_vorige_uitkomsten" type="group" status="final">
   <property name="name" language="nl-NL">Kindspecifieke gegevens vorige uitkomsten</property>
   <property name="description" language="nl-NL">Specifieke gegevens per kind b.v. herhalend bij meerlingen</property>
 </concept>

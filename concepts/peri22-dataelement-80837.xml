@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80837" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80837" shortName="interventie_begin_baring" type="item" status="draft" dataType="code" codelist="InterventieBeginBaring22">
+<concept id="peri22-dataelement-80837" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80837" shortName="interventie_begin_baring" type="item" status="final" dataType="code" codelist="InterventieBeginBaring22">
   <property name="name" language="nl-NL">Interventie begin baring</property>
   <property name="description" language="nl-NL">Interventie begin baringEen primaire sectio is een geplande sectio en wordt óók als zodanig geregistreerd als deze uitgevoerd wordt wanneer de weeën al zijn begonnen, de vliezen zijn gebroken en/of de uitdrijving is begonnen.</property>
 </concept>

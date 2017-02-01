@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80904" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80904" shortName="algemene_anamnese" type="group" status="draft">
+<concept id="peri22-dataelement-80904" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80904" shortName="algemene_anamnese" type="group" status="final">
   <property name="name" language="nl-NL">Algemene anamnese</property>
   <property name="description" language="nl-NL">Algemene anamnese. Ziektegeschiedenis van de vrouw.Alleen van toepassing wanneer 'Onder behandeling' waar is.</property>
 </concept>

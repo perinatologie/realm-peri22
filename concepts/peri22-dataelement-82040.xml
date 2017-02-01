@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-82040" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82040" shortName="datum_einde_zwangerschap" type="item" status="draft" dataType="datetime">
+<concept id="peri22-dataelement-82040" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82040" shortName="datum_einde_zwangerschap" type="item" status="final" dataType="datetime">
   <property name="name" language="nl-NL">Datum einde zwangerschap</property>
   <property name="description" language="nl-NL">Moment (datum en tijd) waarop de zwangerschap medisch gezien is geëindigd, anders dan na een partus (bij een partus wordt dit item niet ingevuld).NB. Bij een partus wordt op een andere plaats in het dossier geregistreerd: geboortedatum per kind én geboortedatum/tijd van de placenta(e).</property>
 </concept>

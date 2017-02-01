@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-23040" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.23040" shortName="naam_afnemer" type="item" status="draft" dataType="complex">
+<concept id="peri22-dataelement-23040" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.23040" shortName="naam_afnemer" type="item" status="final" dataType="complex">
   <property name="name" language="nl-NL">Naam afnemer</property>
   <property name="description" language="nl-NL">Persoon die het kind heeft aangepakt. Hoewel in de dataset niet opgenomen is deze verplicht voor HL7,,,</property>
 </concept>

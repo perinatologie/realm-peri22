@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-11" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.11" shortName="labonderzoek_1e_trimester_serumtest" type="group" status="draft">
+<concept id="peri22-dataelement-11" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.11" shortName="labonderzoek_1e_trimester_serumtest" type="group" status="cancelled">
   <property name="name" language="nl-NL">Labonderzoek (1e trimester serumtest)</property>
   <property name="description" language="nl-NL">Labonderzoek (1e trimester serumtest)</property>
 </concept>

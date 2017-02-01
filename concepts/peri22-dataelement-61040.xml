@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-61040" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.61040" shortName="methode_kansbepaling" type="item" status="draft" dataType="code" codelist="CombiRiskMethod">
+<concept id="peri22-dataelement-61040" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.61040" shortName="methode_kansbepaling" type="item" status="final" dataType="code" codelist="CombiRiskMethod">
   <property name="name" language="nl-NL">Methode kansbepaling</property>
   <property name="description" language="nl-NL">Naam van de methode (of algoritme) van de kansbepaling.</property>
 </concept>

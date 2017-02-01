@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-20615" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20615" shortName="indaling_hodge" type="item" status="draft" dataType="code" codelist="HodgePlanes">
+<concept id="peri22-dataelement-20615" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20615" shortName="indaling_hodge" type="item" status="final" dataType="code" codelist="HodgePlanes">
   <property name="name" language="nl-NL">Indaling Hodge</property>
   <property name="description" language="nl-NL">Indaling Hodge</property>
 </concept>

@@ -3,11 +3,14 @@
   <item code="265636007" codeSystem="2.16.840.1.113883.6.96" displayName="Cerclage of cervix (procedure)" type="L">
     <property name="name" language="nl-NL">Cervixcerclage</property>
   </item>
+  <item code="45372001" codeSystem="2.16.840.1.113883.6.96" displayName="Insertion of pessary into vagina (procedure)" type="L">
+    <property name="name" language="nl-NL">Plaatsen pessarium</property>
+  </item>
   <item code="46681009" codeSystem="2.16.840.1.113883.6.96" displayName="Cerclage of cervix during pregnancy by abdominal approach (procedure)" level="1" type="L">
-    <property name="name" language="nl-NL">Abdominale cerclage</property>
+    <property name="name" language="nl-NL">Abdominale cervixcerclage</property>
   </item>
   <item code="90442009" codeSystem="2.16.840.1.113883.6.96" displayName="Cerclage of cervix during pregnancy by vaginal approach (procedure)" level="1" type="L">
-    <property name="name" language="nl-NL">Vaginale cerclage</property>
+    <property name="name" language="nl-NL">Vaginale cervixcerclage</property>
   </item>
   <item code="65240009" codeSystem="2.16.840.1.113883.6.96" displayName="Obstetrical version (procedure)" type="L">
     <property name="name" language="nl-NL">Versie(poging)</property>
@@ -17,6 +20,9 @@
   </item>
   <item code="18629005" codeSystem="2.16.840.1.113883.6.96" displayName="Administration of drug or medicament (procedure)" type="L">
     <property name="name" language="nl-NL">Medicamenteuze behandeling</property>
+  </item>
+  <item code="OvrgOprt" codeSystem="2.16.840.1.113883.2.4.4.14" displayName="Operatie anders dan obstetrisch" type="L">
+    <property name="name" language="nl-NL">Operatie anders dan obstetrisch</property>
   </item>
   <item code="387672006" codeSystem="2.16.840.1.113883.6.96" displayName="Cardiotochogram (regime/therapy)" type="L">
     <property name="name" language="nl-NL">Foetale bewaking</property>

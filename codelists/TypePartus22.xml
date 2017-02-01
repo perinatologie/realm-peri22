@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="TypePartus22" oid="2.16.840.1.113883.2.4.11.182" shortName="TypePartus22" displayName="TypePartus22" status="draft">
+<codelist id="TypePartus22" oid="2.16.840.1.113883.2.4.11.182" shortName="TypePartus22" displayName="TypePartus22" status="final">
   <item code="48782003" codeSystem="2.16.840.1.113883.6.96" displayName="Delivery normal (finding)" type="L">
     <property name="name" language="nl-NL">Spontaan</property>
   </item>

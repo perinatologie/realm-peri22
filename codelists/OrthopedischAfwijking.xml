@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="OrthopedischAfwijking" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.17" shortName="OrthopedischAfwijking" displayName="Orthopedische afwijkingen" status="draft">
-  <item code="282771003" codeSystem="2.16.840.1.113883.6.96" displayName="Pelvic injury (disorder)" type="L">
-    <property name="name" language="nl-NL">Trauma bekken</property>
-  </item>
+<codelist id="OrthopedischAfwijking" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.17" shortName="OrthopedischAfwijking" displayName="Orthopedische afwijkingen" status="pending">
   <item code="48334007" codeSystem="2.16.840.1.113883.6.96" displayName="Congenital dislocation of hip (disorder)" type="L">
     <property name="name" language="nl-NL">Congenitale heupdysplasie</property>
+  </item>
+  <item code="282771003" codeSystem="2.16.840.1.113883.6.96" displayName="Pelvic injury (disorder)" type="L">
+    <property name="name" language="nl-NL">Trauma bekken</property>
   </item>
   <item code="OTH" codeSystem="2.16.840.1.113883.5.1008" displayName="Overig" type="L">
     <property name="name" language="nl-NL">Overig</property>

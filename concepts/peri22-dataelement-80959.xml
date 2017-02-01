@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80959" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80959" shortName="urine_bloed_en_aanvullende_onderzoeken" type="group" status="draft">
+<concept id="peri22-dataelement-80959" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80959" shortName="urine_bloed_en_aanvullende_onderzoeken" type="group" status="final">
   <property name="name" language="nl-NL">Urine-, bloed- en aanvullende onderzoeken</property>
   <property name="description" language="nl-NL">Urine-, bloed- en aanvullende onderzoekenHet gaat hier zowel om onderzoeken van bloed, urine en/of een ander monster door het laboratorium, als om onderzoeken die door de zorgverlener of patiënt 'zelf' worden gedaan. Voorbeelden van deze 'zelf'-bepalingen zijn: glucose, Hb en proteïne op basis van strips.</property>
 </concept>

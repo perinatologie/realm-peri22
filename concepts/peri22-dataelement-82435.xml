@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82435" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82435" shortName="vermoeden_intrauteriene_vruchtdoodq" type="item" status="final" dataType="boolean">
+  <property name="name" language="nl-NL">Vermoeden intra-uteriene vruchtdood?</property>
+  <property name="description" language="nl-NL">Is er sprake van een vermoeden van een intra-uteriene vruchtdood?</property>
+</concept>

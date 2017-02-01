@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-25910" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.25910" shortName="gehanteerd_actueel_aantal_foetus" type="item" status="draft" dataType="count">
+<concept id="peri22-dataelement-25910" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.25910" shortName="gehanteerd_actueel_aantal_foetus" type="item" status="cancelled" dataType="count">
   <property name="name" language="nl-NL">Gehanteerd actueel aantal foetus</property>
   <property name="description" language="nl-NL">De waarde van hoeveelling die door de kansberekeningssoftware is gebruikt als resultaatbeïnvloedende factor bij het verkregen resultaat..</property>
 </concept>

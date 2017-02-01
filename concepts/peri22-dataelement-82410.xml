@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82410" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82410" shortName="zorgverlener" type="group" status="final">
+  <property name="name" language="nl-NL">Zorgverlener</property>
+  <property name="description" language="nl-NL">Zorgverlener die de counseling uitvoert.</property>
+</concept>

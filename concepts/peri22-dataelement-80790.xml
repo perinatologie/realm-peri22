@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80790" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80790" shortName="bijzonderheden_kind" type="item" status="draft" dataType="text">
+<concept id="peri22-dataelement-80790" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80790" shortName="bijzonderheden_kind" type="item" status="final" dataType="text">
   <property name="name" language="nl-NL">Bijzonderheden kind</property>
   <property name="description" language="nl-NL">Bijzonderheden van dit kind.</property>
 </concept>

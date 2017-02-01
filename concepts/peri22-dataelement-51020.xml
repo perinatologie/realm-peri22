@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-51020" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.51020" shortName="conclusie_a_terme_datum" type="item" status="draft" dataType="datetime">
+<concept id="peri22-dataelement-51020" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.51020" shortName="conclusie_a_terme_datum" type="item" status="final" dataType="datetime">
   <property name="name" language="nl-NL">Conclusie à terme datum</property>
   <property name="description" language="nl-NL">À terme datum die naar aanleiding van dit onderzoek wordt aangehouden.</property>
 </concept>

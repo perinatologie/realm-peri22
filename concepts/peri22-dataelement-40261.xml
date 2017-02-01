@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-40261" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40261" shortName="zorgverlenertype" type="item" status="draft" dataType="code" codelist="PediatrischeBetrokkenZorgverlenerType">
+<concept id="peri22-dataelement-40261" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40261" shortName="zorgverlenertype" type="item" status="final" dataType="code" codelist="PediatrischeBetrokkenZorgverlenerType">
   <property name="name" language="nl-NL">Zorgverlenertype</property>
   <property name="description" language="nl-NL">Zorgverlenertype van de persoon die bij de zorg voor het kind betrokken is</property>
 </concept>

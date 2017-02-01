@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-82256" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82256" shortName="wervelkolom_neuraalbuisdefect" type="item" status="draft" dataType="code" codelist="BeoordelingBevindingen">
+<concept id="peri22-dataelement-82256" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82256" shortName="wervelkolom_neuraalbuisdefect" type="item" status="final" dataType="code" codelist="BeoordelingBevindingen">
   <property name="name" language="nl-NL">Wervelkolom neuraalbuisdefect</property>
   <property name="description" language="nl-NL"/>
 </concept>

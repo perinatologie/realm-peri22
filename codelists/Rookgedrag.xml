@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="Rookgedrag" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.2" shortName="Rookgedrag" displayName="Rookgedrag" status="draft">
+<codelist id="Rookgedrag" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.2" shortName="Rookgedrag" displayName="Rookgedrag" status="pending">
   <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.58" displayName="niet gerookt" type="L">
     <property name="name" language="nl-NL">niet gerookt</property>
   </item>

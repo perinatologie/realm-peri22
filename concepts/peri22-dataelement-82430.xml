@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82430" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82430" shortName="gebruiksperiodeduur" type="group" status="cancelled">
+  <property name="name" language="nl-NL">Gebruiksperiode/-duur</property>
+  <property name="description" language="nl-NL">De periode of duur van het met de patient afgesproken medicatiegebruik. Dit attribuut geeft een tijdsinterval weer met start- en/of einddatum of een gebruiksduur.</property>
+</concept>

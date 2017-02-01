@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="TypeStollingsprobleem" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.19" shortName="TypeStollingsprobleem" displayName="Type stollingsprobleem" status="draft">
+<codelist id="TypeStollingsprobleem" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.19" shortName="TypeStollingsprobleem" displayName="Type stollingsprobleem" status="pending">
   <item code="128105004" codeSystem="2.16.840.1.113883.6.96" displayName="von Willebrand disorder (disorder)" type="L">
     <property name="name" language="nl-NL">Ziekte van Von Willebrand</property>
   </item>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <codelist id="Schildklieraandoening" oid="2.16.840.1.113883.2.4.3.11.60.90.77.11.13" shortName="Schildklieraandoening" displayName="Schildklieraandoeningen" status="draft">
-  <item code="34486009" codeSystem="2.16.840.1.113883.6.96" displayName="Hyperthyroidism (disorder)" type="L">
-    <property name="name" language="nl-NL">Hyperthyreoidie</property>
-  </item>
   <item code="40930008" codeSystem="2.16.840.1.113883.6.96" displayName="Hypothyroidism (disorder)" type="L">
     <property name="name" language="nl-NL">Hypothyreoidie</property>
+  </item>
+  <item code="34486009" codeSystem="2.16.840.1.113883.6.96" displayName="Hyperthyroidism (disorder)" type="L">
+    <property name="name" language="nl-NL">Hyperthyreoidie</property>
   </item>
 </codelist>

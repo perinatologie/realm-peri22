@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-82309" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82309" shortName="nt_in_mm" type="item" status="draft" dataType="quantity">
+<concept id="peri22-dataelement-82309" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82309" shortName="nt_in_mm" type="item" status="final" dataType="quantity">
   <property name="name" language="nl-NL">NT in mm</property>
   <property name="description" language="nl-NL">Gemeten nekplooidikte in millimeters</property>
 </concept>

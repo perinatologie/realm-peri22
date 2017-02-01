@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-82252" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82252" shortName="biometrie" type="item" status="draft" dataType="code">
+<concept id="peri22-dataelement-82252" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82252" shortName="biometrie" type="item" status="final" dataType="code">
   <property name="name" language="nl-NL">Biometrie</property>
   <property name="description" language="nl-NL"/>
 </concept>

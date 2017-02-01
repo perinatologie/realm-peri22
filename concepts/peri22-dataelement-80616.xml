@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80616" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80616" shortName="aard_van_het_voorliggend_deel" type="item" status="draft" dataType="code" codelist="PresentationOfFetus">
+<concept id="peri22-dataelement-80616" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80616" shortName="aard_van_het_voorliggend_deel" type="item" status="final" dataType="code" codelist="PresentationOfFetus">
   <property name="name" language="nl-NL">Aard van het voorliggend deel</property>
   <property name="description" language="nl-NL">Aard van het voorliggend deel.</property>
 </concept>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80761" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80761" shortName="vitamine_kq" type="item" status="draft" dataType="boolean">
+<concept id="peri22-dataelement-80761" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80761" shortName="vitamine_kq" type="item" status="final" dataType="boolean">
   <property name="name" language="nl-NL">Vitamine K?</property>
   <property name="description" language="nl-NL">Heeft het kind post partum Vitamine K gehad (binnen 24 uur)?</property>
 </concept>

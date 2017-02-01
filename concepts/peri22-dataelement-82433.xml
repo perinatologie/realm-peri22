@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82433" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82433" shortName="gebruiksduur" type="item" status="cancelled" dataType="duration">
+  <property name="name" language="nl-NL">Gebruiksduur</property>
+  <property name="description" language="nl-NL">Waarde</property>
+</concept>

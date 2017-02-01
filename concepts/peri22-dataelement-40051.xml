@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-40051" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40051" shortName="rhesus_d_factor_foetus" type="item" status="draft" dataType="code" codelist="RhesusDBloodGroup">
+<concept id="peri22-dataelement-40051" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.40051" shortName="rhesus_d_factor_foetus" type="item" status="final" dataType="code" codelist="RhesusDBloodGroup">
   <property name="name" language="nl-NL">Rhesus D Factor foetus</property>
   <property name="description" language="nl-NL">Rhesus D factor van foetus gevonden in bloed van vrouw</property>
 </concept>

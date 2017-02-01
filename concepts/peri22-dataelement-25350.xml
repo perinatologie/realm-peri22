@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-25350" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.25350" shortName="bepalingsverzoek_pappa_in_mom" type="item" status="draft" dataType="code">
+<concept id="peri22-dataelement-25350" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.25350" shortName="bepalingsverzoek_pappa_in_mom" type="item" status="cancelled" dataType="code">
   <property name="name" language="nl-NL">Bepalingsverzoek: PAPP-A in MoM</property>
   <property name="description" language="nl-NL">Bepalingsverzoek: PAPP-A in MoM</property>
 </concept>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="CongenitaleAfwijking22" oid="2.16.840.1.113883.2.4.11.196" shortName="CongenitaleAfwijking22" displayName="Congenitale afwijking (2.2)" status="draft">
+<codelist id="CongenitaleAfwijking22" oid="2.16.840.1.113883.2.4.11.196" shortName="CongenitaleAfwijking22" displayName="Congenitale afwijking (2.2)" status="final">
   <item code="88425004" codeSystem="2.16.840.1.113883.6.96" displayName="Congenital anomaly of nervous system (disorder)" type="L">
     <property name="name" language="nl-NL">zenuwstelsel</property>
   </item>
@@ -237,12 +237,6 @@
   <item code="J" codeSystem="2.16.840.1.113883.2.4.4.13.8" displayName="multipele/syndromale congenitale afwijkingen (niet chromosomaal)" type="L">
     <property name="name" language="nl-NL">multipele/syndromale congenitale afwijkingen (niet chromosomaal)</property>
   </item>
-  <item code="104" codeSystem="2.16.840.1.113883.2.4.4.13.8" displayName="overige multipele/syndromale afwijkingen" level="1" type="L">
-    <property name="name" language="nl-NL">overige multipele/syndromale afwijkingen</property>
-  </item>
-  <item code="K" codeSystem="2.16.840.1.113883.2.4.4.13.8" displayName="overige congenitale afwijkingen" type="L">
-    <property name="name" language="nl-NL">overige congenitale afwijkingen</property>
-  </item>
   <item code="276720006" codeSystem="2.16.840.1.113883.6.96" displayName="Dysmorphism (disorder)" level="1" type="L">
     <property name="name" language="nl-NL">dysmorfie (uitwendig)</property>
   </item>
@@ -254,6 +248,12 @@
   </item>
   <item code="82354003" codeSystem="2.16.840.1.113883.6.96" displayName="Multiple system malformation syndrome (disorder)" level="1" type="L">
     <property name="name" language="nl-NL">multipele afwijkingen, wel syndroom</property>
+  </item>
+  <item code="104" codeSystem="2.16.840.1.113883.2.4.4.13.8" displayName="overige multipele/syndromale afwijkingen" level="1" type="L">
+    <property name="name" language="nl-NL">overige multipele/syndromale afwijkingen</property>
+  </item>
+  <item code="K" codeSystem="2.16.840.1.113883.2.4.4.13.8" displayName="overige congenitale afwijkingen" type="L">
+    <property name="name" language="nl-NL">overige congenitale afwijkingen</property>
   </item>
   <item code="217710005" codeSystem="2.16.840.1.113883.6.96" displayName="Congenital iodine deficiency syndrome (disorder)" level="1" type="L">
     <property name="name" language="nl-NL">congenitale hypothyreoïdie</property>

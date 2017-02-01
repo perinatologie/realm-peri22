@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80984" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80984" shortName="sectiowond" type="item" status="draft" dataType="code">
+<concept id="peri22-dataelement-80984" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80984" shortName="sectiowond" type="item" status="final" dataType="code">
   <property name="name" language="nl-NL">Sectiowond</property>
   <property name="description" language="nl-NL">Sectiowond.Alleen van toepassing wanneer sectio is uitgevoerd.</property>
 </concept>

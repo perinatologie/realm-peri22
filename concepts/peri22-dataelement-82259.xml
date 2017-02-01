@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-82259" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82259" shortName="verdikte_nekplooi__nekhuid" type="item" status="draft" dataType="code" codelist="BeoordelingSonomarkers">
+<concept id="peri22-dataelement-82259" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82259" shortName="verdikte_nekplooi__nekhuid" type="item" status="final" dataType="code" codelist="BeoordelingSonomarkers">
   <property name="name" language="nl-NL">Verdikte nekplooi / nekhuid</property>
   <property name="description" language="nl-NL"/>
 </concept>

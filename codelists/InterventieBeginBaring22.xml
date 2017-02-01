@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<codelist id="InterventieBeginBaring22" oid="2.16.840.1.113883.2.4.11.189" shortName="InterventieBeginBaring22" displayName="Interventie begin baring (2.2)" status="draft">
+<codelist id="InterventieBeginBaring22" oid="2.16.840.1.113883.2.4.11.189" shortName="InterventieBeginBaring22" displayName="Interventie begin baring (2.2)" status="pending">
   <item code="236960006" codeSystem="2.16.840.1.113883.6.96" displayName="Sweeping of membrane (procedure)" type="L">
     <property name="name" language="nl-NL">Strippen</property>
   </item>

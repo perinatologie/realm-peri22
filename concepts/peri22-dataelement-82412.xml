@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<concept id="peri22-dataelement-82412" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82412" shortName="zorgverlener_agbid" type="item" status="final" dataType="identifier" lengthMin="8" lengthMax="8">
+  <property name="name" language="nl-NL">Zorgverlener AGB-ID</property>
+  <property name="description" language="nl-NL">Unieke AGB-ID van de zorgverlener</property>
+</concept>

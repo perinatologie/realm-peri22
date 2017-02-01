@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-41" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.41" shortName="zorgverzoekdetails" type="group" status="draft">
+<concept id="peri22-dataelement-41" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.41" shortName="zorgverzoekdetails" type="group" status="final">
   <property name="name" language="nl-NL">Zorgverzoekdetails</property>
   <property name="description" language="nl-NL">Details van het zorgverzoek om zorg te verlenen, bijvoorbeeld overnameverzoek van een andere zorginstelling of verzoek van de client/patiënt</property>
 </concept>
