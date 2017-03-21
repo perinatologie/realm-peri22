@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="compleetheid_vliezen" oid="2.16.840.1.113883.2.4.11.230" shortName="compleetheid_vliezen" displayName="Compleetheid vliezen" status="draft">
+  <item code="249181009" codeSystem="2.16.840.1.113883.6.96" displayName="Membranes complete (finding)" type="L">
+    <property name="name" language="nl-NL">Compleet</property>
+  </item>
+  <item code="249182002" codeSystem="2.16.840.1.113883.6.96" displayName="Membranes incomplete (finding)" type="L">
+    <property name="name" language="nl-NL">Niet compleet</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+  </item>
+</codelist>

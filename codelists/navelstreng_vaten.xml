@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="navelstreng_vaten" oid="2.16.840.1.113883.2.4.11.231" shortName="navelstreng_vaten" displayName="Navelstreng vaten" status="draft">
+  <item code="TODO" codeSystem="2.1" displayName="3" type="L">
+    <property name="name" language="nl-NL">3</property>
+  </item>
+  <item code="302945005" codeSystem="2.16.840.1.113883.6.96" displayName="Absent blood vessel in umbilical cord (disorder)" type="L">
+    <property name="name" language="nl-NL">2</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+  </item>
+</codelist>

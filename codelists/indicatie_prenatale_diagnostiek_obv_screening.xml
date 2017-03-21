@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="indicatie_prenatale_diagnostiek_obv_screening" oid="2.16.840.1.113883.2.4.11.229" shortName="indicatie_prenatale_diagnostiek_obv_screening" displayName="Indicatie prenatale diagnostiek obv screening" status="draft">
+  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.64" displayName="o.b.v. NT-meting - verhoogde kans" type="L">
+    <property name="name" language="nl-NL">o.b.v. NT-meting - verhoogde kans</property>
+  </item>
+  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.64" displayName="o.b.v. combinatietest - verhoogde kans" type="L">
+    <property name="name" language="nl-NL">o.b.v. combinatietest - verhoogde kans</property>
+  </item>
+  <item code="3" codeSystem="2.16.840.1.113883.2.4.4.13.64" displayName="o.b.v. SEO" type="S">
+    <property name="name" language="nl-NL">o.b.v. SEO</property>
+  </item>
+  <item code="31" codeSystem="2.16.840.1.113883.2.4.4.13.64" displayName="(vermoedelijke) afwijking " level="1" type="L">
+    <property name="name" language="nl-NL">(vermoedelijke) afwijking </property>
+  </item>
+  <item code="32" codeSystem="2.16.840.1.113883.2.4.4.13.64" displayName="niet beoordeelbaar" level="1" type="L">
+    <property name="name" language="nl-NL">niet beoordeelbaar</property>
+  </item>
+</codelist>

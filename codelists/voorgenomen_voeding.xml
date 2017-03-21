@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="voorgenomen_voeding" oid="2.16.840.1.113883.2.4.11.228" shortName="voorgenomen_voeding" displayName="Voorgenomen voeding" status="draft">
+  <item code="169643005" codeSystem="2.16.840.1.113883.6.96" displayName="Feeding intention - breast (finding)" type="L">
+    <property name="name" language="nl-NL">borstvoeding</property>
+  </item>
+  <item code="169644004" codeSystem="2.16.840.1.113883.6.96" displayName="Feeding intention - bottle (finding)" type="L">
+    <property name="name" language="nl-NL">kunstvoeding</property>
+  </item>
+  <item code="169642000" codeSystem="2.16.840.1.113883.6.96" displayName="Feeding intention - unsure (finding)" type="L">
+    <property name="name" language="nl-NL">weet het nog niet</property>
+  </item>
+</codelist>

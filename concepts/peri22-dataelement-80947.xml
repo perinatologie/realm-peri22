@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80947" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80947" shortName="navelstreng_vaten" type="item" status="final" dataType="code">
+<concept id="peri22-dataelement-80947" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80947" shortName="navelstreng_vaten" type="item" status="final" dataType="code" codelist="navelstreng_vaten">
   <property name="name" language="nl-NL">Navelstreng vaten</property>
   <property name="description" language="nl-NL">Navelstreng vaten</property>
 </concept>
