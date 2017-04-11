@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <concept id="peri22-dataelement-70030" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.70030" shortName="substantie_voeding_kind" type="item" status="pending" dataType="code" codelist="SubstantieVoedingKind">
   <property name="name" language="nl-NL">Substantie voeding kind</property>
-  <property name="name" language="en-US">Substantance food child</property>
   <property name="description" language="nl-NL">Substantie voeding kind</property>
 </concept>

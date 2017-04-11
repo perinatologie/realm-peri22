@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="WijzeVanHechten22" oid="2.16.840.1.113883.2.4.11.233" shortName="WijzeVanHechten22" displayName="Wijze van hechten (2.2)" status="draft">
+  <item code="29701000146104" codeSystem="2.16.840.1.113883.6.96" displayName="Intracutaneous continuous suture of skin (procedure)" type="L">
+    <property name="name" language="nl-NL">Intracutaan voortlopend</property>
+  </item>
+  <item code="29731000146109" codeSystem="2.16.840.1.113883.6.96" displayName="Transcutaneous continuous suture of skin (procedure)" type="L">
+    <property name="name" language="nl-NL">Transcutaan voortlopend</property>
+  </item>
+  <item code="29711000146102" codeSystem="2.16.840.1.113883.6.96" displayName="Suture of skin with intracutaneous knots (procedure)" type="L">
+    <property name="name" language="nl-NL">Intracutaan geknoopt</property>
+  </item>
+  <item code="29721000146107" codeSystem="2.16.840.1.113883.6.96" displayName="Suture of skin with transcutaneous knots (procedure)" type="L">
+    <property name="name" language="nl-NL">Transcutaan geknoopt</property>
+  </item>
+  <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
+    <property name="name" language="nl-NL">Onbekend</property>
+  </item>
+</codelist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="Indaling23" oid="2.16.840.1.113883.2.4.11.239" shortName="Indaling23" displayName="Indaling (2.3)" status="draft">
+  <item code="275969005" codeSystem="2.16.840.1.113883.6.96" displayName="On examination - presenting part engaged (finding)" type="L">
+    <property name="name" language="nl-NL">vibi</property>
+  </item>
+  <item code="163532003" codeSystem="2.16.840.1.113883.6.96" displayName="On examination - partial engagement - 2/5 (finding)" type="L">
+    <property name="name" language="nl-NL">bibi</property>
+  </item>
+  <item code="275968002" codeSystem="2.16.840.1.113883.6.96" displayName="On examination - PP free - not engaged (finding)" type="L">
+    <property name="name" language="nl-NL">bbbi</property>
+  </item>
+</codelist>

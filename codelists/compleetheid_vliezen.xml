@@ -6,6 +6,9 @@
   <item code="249182002" codeSystem="2.16.840.1.113883.6.96" displayName="Membranes incomplete (finding)" type="L">
     <property name="name" language="nl-NL">Niet compleet</property>
   </item>
+  <item code="29751000146103" codeSystem="2.16.840.1.113883.6.96" displayName="Completeness of membranes debatable (finding)" type="L">
+    <property name="name" language="nl-NL">Dubieus</property>
+  </item>
   <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">
     <property name="name" language="nl-NL">Onbekend</property>
   </item>

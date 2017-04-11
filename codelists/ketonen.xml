@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="ketonen" oid="2.16.840.1.113883.2.4.11.237" shortName="ketonen" displayName="Ketonen" status="draft">
+  <item code="29781000146108" codeSystem="2.16.840.1.113883.6.96" displayName="No ketones present in urine (finding)" type="L">
+    <property name="name" language="nl-NL">-</property>
+  </item>
+  <item code="29791000146105" codeSystem="2.16.840.1.113883.6.96" displayName="Ketonuria + (finding)" type="L">
+    <property name="name" language="nl-NL">+</property>
+  </item>
+  <item code="29801000146109" codeSystem="2.16.840.1.113883.6.96" displayName="Ketonuria ++ (finding)" type="L">
+    <property name="name" language="nl-NL">++</property>
+  </item>
+  <item code="29811000146106" codeSystem="2.16.840.1.113883.6.96" displayName="Ketonuria +++ (finding)" type="L">
+    <property name="name" language="nl-NL">+++</property>
+  </item>
+</codelist>

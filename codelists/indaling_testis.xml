@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <codelist id="indaling_testis" oid="2.16.840.1.113883.2.4.11.232" shortName="indaling_testis" displayName="Indaling testis" status="draft">
-  <item code="249238004" codeSystem="2.16.840.1.113883.6.96" displayName="Testicles in scrotum (finding)" type="L">
+  <item code="29741000146101" codeSystem="2.16.840.1.113883.6.96" displayName="Testicle in scrotum (finding)" type="L">
     <property name="name" language="nl-NL">Ingedaald</property>
   </item>
   <item code="204878001" codeSystem="2.16.840.1.113883.6.96" displayName="Undescended testicle (disorder)" type="L">

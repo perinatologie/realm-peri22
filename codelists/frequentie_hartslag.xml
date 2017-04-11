@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="frequentie_hartslag" oid="2.16.840.1.113883.2.4.11.235" shortName="frequentie_hartslag" displayName="Frequentie hartslag" status="draft">
+  <item code="421656001" codeSystem="2.16.840.1.113883.6.96" displayName="Bradycardia - baseline fetal heart rate (finding)" type="L">
+    <property name="name" language="nl-NL">Bradycardie</property>
+  </item>
+  <item code="278084002" codeSystem="2.16.840.1.113883.6.96" displayName="Normal baseline fetal heart rate (finding)" type="L">
+    <property name="name" language="nl-NL">Normaal</property>
+  </item>
+  <item code="421348006" codeSystem="2.16.840.1.113883.6.96" displayName="Tachycardia - baseline fetal heart rate (finding)" type="L">
+    <property name="name" language="nl-NL">Tachycardie</property>
+  </item>
+</codelist>

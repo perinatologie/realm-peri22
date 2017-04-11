@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80797" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80797" shortName="wijze_van_hechten" type="item" status="final" dataType="code">
+<concept id="peri22-dataelement-80797" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80797" shortName="wijze_van_hechten" type="item" status="final" dataType="code" codelist="WijzeVanHechten22">
   <property name="name" language="nl-NL">Wijze van hechten</property>
   <property name="description" language="nl-NL">Wijze van hechten</property>
 </concept>

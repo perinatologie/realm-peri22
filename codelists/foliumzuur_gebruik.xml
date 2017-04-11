@@ -3,10 +3,10 @@
   <item code="0" codeSystem="2.16.840.1.113883.2.4.4.13.63" displayName="Geen" type="L">
     <property name="name" language="nl-NL">Geen</property>
   </item>
-  <item code="1" codeSystem="2.16.840.1.113883.2.4.4.13.63" displayName="Preconceptioneel" type="L">
+  <item code="29761000146100" codeSystem="2.16.840.1.113883.6.96" displayName="Dietary intake of folate before conception (finding)" type="L">
     <property name="name" language="nl-NL">Preconceptioneel</property>
   </item>
-  <item code="2" codeSystem="2.16.840.1.113883.2.4.4.13.63" displayName="Vanaf vastgestelde zwangerschap" type="L">
+  <item code="29771000146106" codeSystem="2.16.840.1.113883.6.96" displayName="Dietary intake of folate since confirmed pregnancy (finding)" type="L">
     <property name="name" language="nl-NL">Vanaf vastgestelde zwangerschap</property>
   </item>
   <item code="UNK" codeSystem="2.16.840.1.113883.5.1008" displayName="Onbekend" type="L">

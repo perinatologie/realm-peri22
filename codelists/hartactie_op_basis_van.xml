@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="hartactie_op_basis_van" oid="2.16.840.1.113883.2.4.11.236" shortName="hartactie_op_basis_van" displayName="Hartactie op basis van" status="draft">
+  <item code="408806008" codeSystem="2.16.840.1.113883.6.96" displayName="Fetal heart monitoring using hand held doppler (regime/therapy)" type="L">
+    <property name="name" language="nl-NL">Doptone</property>
+  </item>
+  <item code="408808009" codeSystem="2.16.840.1.113883.6.96" displayName="Fetal heart monitoring using ultrasound transducer (regime/therapy)" type="L">
+    <property name="name" language="nl-NL">Echo</property>
+  </item>
+  <item code="408845003" codeSystem="2.16.840.1.113883.6.96" displayName="Fetal heart monitoring with Pinard stethoscope (regime/therapy)" type="L">
+    <property name="name" language="nl-NL">Toeter</property>
+  </item>
+  <item code="387672006" codeSystem="2.16.840.1.113883.6.96" displayName="Cardiotochogram (regime/therapy)" type="L">
+    <property name="name" language="nl-NL">CTG</property>
+  </item>
+</codelist>

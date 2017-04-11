@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<codelist id="regelmaat_hartslag" oid="2.16.840.1.113883.2.4.11.234" shortName="regelmaat_hartslag" displayName="Regelmaat hartslag" status="draft">
+  <item code="289443009" codeSystem="2.16.840.1.113883.6.96" displayName="Regular fetal heart rhythm (finding)" type="L">
+    <property name="name" language="nl-NL">Regelmatig</property>
+  </item>
+  <item code="289444003" codeSystem="2.16.840.1.113883.6.96" displayName="Irregular fetal heart rhythm (finding)" type="L">
+    <property name="name" language="nl-NL">Onregelmatig</property>
+  </item>
+</codelist>
