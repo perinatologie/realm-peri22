@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80744" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80744" shortName="indaling" type="item" status="final" dataType="code">
+<concept id="peri22-dataelement-80744" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80744" shortName="indaling" type="item" status="final" dataType="code" codelist="Indaling23">
   <property name="name" language="nl-NL">Indaling</property>
   <property name="description" language="nl-NL">Indaling geconstateerd bij uitwendig onderzoek.</property>
 </concept>
