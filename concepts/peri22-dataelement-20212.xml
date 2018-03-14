@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-20212" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20212" shortName="lengte_gemeten" type="item" status="pending" dataType="quantity">
+<concept id="peri22-dataelement-20212" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20212" shortName="lengte_gemeten" type="item" status="pending" dataType="quantity" unit="cm">
   <property name="name" language="nl-NL">Lengte (gemeten)</property>
   <property name="description" language="nl-NL">Lengte zwangere bij aanvang zwangerschap</property>
 </concept>

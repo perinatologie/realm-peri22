@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-10598" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10598" shortName="hoeveelheid_bloedverlies" type="item" status="pending" dataType="quantity">
+<concept id="peri22-dataelement-10598" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10598" shortName="hoeveelheid_bloedverlies" type="item" status="pending" dataType="quantity" unit="ml">
   <property name="name" language="nl-NL">Hoeveelheid bloedverlies</property>
   <property name="description" language="nl-NL">Hoeveelheid bloedverlies tijdens baring/nageboortetijdperk</property>
 </concept>

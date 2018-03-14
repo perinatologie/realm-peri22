@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-60101" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.60101" shortName="fl_percentiel" type="item" status="final" dataType="quantity">
+<concept id="peri22-dataelement-60101" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.60101" shortName="fl_percentiel" type="item" status="final" dataType="quantity" unit="%">
   <property name="name" language="nl-NL">FL percentiel</property>
   <property name="description" language="nl-NL">Percentiel van de femurlengte van de foetus o.b.v. echoscopie.</property>
 </concept>

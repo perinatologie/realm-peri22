@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-25810" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.25810" shortName="bepalingsresultaat_vrij_hcg_concentratie" type="item" status="cancelled" dataType="quantity">
+<concept id="peri22-dataelement-25810" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.25810" shortName="bepalingsresultaat_vrij_hcg_concentratie" type="item" status="cancelled" dataType="quantity" unit="ng/ml">
   <property name="name" language="nl-NL">Bepalingsresultaat: Vrij β-hCG concentratie</property>
   <property name="description" language="nl-NL">Bepalingsresultaat: Vrij β-hCG concentratie</property>
 </concept>

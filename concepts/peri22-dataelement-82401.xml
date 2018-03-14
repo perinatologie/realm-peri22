@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-82401" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82401" shortName="zwangerschapsduur" type="item" status="final" dataType="quantity">
+<concept id="peri22-dataelement-82401" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.82401" shortName="zwangerschapsduur" type="item" status="final" dataType="quantity" unit="d">
   <property name="name" language="nl-NL">Zwangerschapsduur</property>
   <property name="description" language="nl-NL">ZwangerschapsduurDe dataset definieert de zwangerschapsduur in dagen. Zorgverleners zien de zwangerschapsduur het liefste in weken/dagen. Dus bijvoorbeeld: 36w2d of 40+2.</property>
 </concept>

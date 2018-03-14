@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-80760" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80760" shortName="schedelomtrek" type="item" status="final" dataType="quantity">
+<concept id="peri22-dataelement-80760" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.80760" shortName="schedelomtrek" type="item" status="final" dataType="quantity" unit="cm">
   <property name="name" language="nl-NL">Schedelomtrek</property>
   <property name="description" language="nl-NL">Schedelomtrek kind bij geboorte</property>
 </concept>

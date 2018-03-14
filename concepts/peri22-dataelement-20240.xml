@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-20240" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20240" shortName="max_aantal_g_proteine_24_uurs" type="item" status="deprecated" dataType="quantity">
+<concept id="peri22-dataelement-20240" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.20240" shortName="max_aantal_g_proteine_24_uurs" type="item" status="deprecated" dataType="quantity" unit="g/24 uur">
   <property name="name" language="nl-NL">Max. aantal g proteïne, 24 uurs</property>
   <property name="description" language="nl-NL">Max. aantal g proteïne, 24 uurs</property>
 </concept>

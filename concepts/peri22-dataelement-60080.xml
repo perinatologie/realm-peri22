@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-60080" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.60080" shortName="ac" type="item" status="final" dataType="quantity">
+<concept id="peri22-dataelement-60080" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.60080" shortName="ac" type="item" status="final" dataType="quantity" unit="mm">
   <property name="name" language="nl-NL">AC</property>
   <property name="description" language="nl-NL">Abdominal circumference (buikomtrek) van de foetus o.b.v. echoscopie.</property>
 </concept>

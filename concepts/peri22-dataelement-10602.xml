@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<concept id="peri22-dataelement-10602" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10602" shortName="duur_uitdrijving_vanaf_actief_meepersen" type="item" status="final" dataType="quantity">
+<concept id="peri22-dataelement-10602" oid="2.16.840.1.113883.2.4.3.11.60.90.77.2.5.10602" shortName="duur_uitdrijving_vanaf_actief_meepersen" type="item" status="final" dataType="quantity" unit="min">
   <property name="name" language="nl-NL">Duur uitdrijving vanaf actief meepersen</property>
   <property name="description" language="nl-NL">Duur uitdrijving in minuten.</property>
 </concept>
