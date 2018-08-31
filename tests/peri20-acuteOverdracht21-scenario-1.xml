@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test id="peri20-acuteOverdracht21-scenario-1">
+  <assertion concept="peri22-dataelement-80614" multiplicity="0" occurrence="1" value="@value='false'" description="Intra-uteriene vruchtdood? moet &quot;false&quot; zijn."/>
+  <assertion concept="peri22-dataelement-20365" multiplicity="1" occurrence="0" value="" description="Redenen van 'overdracht aan' moet 1 keer voorkomen."/>
+  <assertion concept="peri22-dataelement-20372" multiplicity="1" occurrence="0" value="" description="Categorie Reden (Acute Overdracht) moet 1 keer voorkomen."/>
+  <assertion concept="peri22-dataelement-20372" multiplicity="0" occurrence="1" value="@code='38341003'" description="Categorie Reden (Acute Overdracht) moet &quot;hypertensieve aandoeningen&quot; (code 38341003) zijn."/>
+  <assertion concept="peri22-dataelement-20373" multiplicity="0" occurrence="1" value="contains(upper-case(text(),'MEVROUW HEEFT HOOFDPIJN, MAAR GEEN ALBUMINURIE')" description="Toelichting Reden moet &quot;Mevrouw heeft hoofdpijn, maar geen albuminurie&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10030" multiplicity="1" occurrence="0" value="" description="Burgerservicenummer moet 1 keer voorkomen."/>
+  <assertion concept="peri22-dataelement-10030" multiplicity="0" occurrence="1" value="@extension='123456095'" description="Burgerservicenummer moet &quot;123456095&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10043" multiplicity="1" occurrence="0" value="" description="Achternamen moet 1 keer voorkomen."/>
+  <assertion concept="peri22-dataelement-10043" multiplicity="0" occurrence="1" value="text()='Janssen'" description="Achternaam moet &quot;Janssen&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10040" multiplicity="1" occurrence="0" value="" description="Geboortedatum moet 1 keer voorkomen."/>
+  <assertion concept="peri22-dataelement-10040" multiplicity="0" occurrence="1" value="@value='19900101'" description="Geboortedatum moet &quot;19900101&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10401" multiplicity="1" occurrence="0" value="" description="Taalvaardigheid vrouw Nederlandse taal moet 1 keer voorkomen."/>
+  <assertion concept="peri22-dataelement-10401" multiplicity="0" occurrence="1" value="@code='G'" description="Taalvaardigheid vrouw Nederlandse taal moet &quot;Spreekt goed Nederlands&quot; (code = G) zijn."/>
+  <assertion concept="peri22-dataelement-10401" multiplicity="0" occurrence="1" value="@code='G'" description=""/>
+  <assertion concept="peri22-dataelement-10610" multiplicity="0" occurrence="1" value="@value='false'" description="Ziekten en bijzonderheden vrouw in de algemene anamnese? moet &quot;false&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10710" multiplicity="0" occurrence="1" value="@value='true'" description="Bijzonderheden obstetrische anamnese? moet 'Ja' (true) zijn."/>
+  <assertion concept="peri22-dataelement-10711" multiplicity="0" occurrence="1" value="@code='3080'" description="Soort bijzonderheden obstetrische anamnese moet &quot;Sectio caesaria in anamnese (code 3080)&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10800" multiplicity="2" occurrence="0" value="" description="Relevante allergieën (acute fase) moet 2 keer voorkomen."/>
+  <assertion concept="peri22-dataelement-10800" multiplicity="0" occurrence="1" value="@code='294914009'" description="Relevante allergieën (acute fase) moet &quot;jodium (code 294914009)&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10800" multiplicity="0" occurrence="2" value="@nullFlavor='OTH'" description="Relevante allergieën (acute fase) moet &quot;overig (nullFlavor OTH)&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10801" multiplicity="0" occurrence="1" value="@value='true'" description="Actueel Medicatiegebruik? moet 'Ja' (true) zijn."/>
+  <assertion concept="peri22-dataelement-10802" multiplicity="0" occurrence="1" value=".='Contralum Ultra'" description="Soort actuele Medicatie moet &quot;Contralum Ultra&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10803" multiplicity="0" occurrence="1" value="@value='false'" description="Negatieve seksuele ervaringen? moet &quot;Nee&quot; (false) zijn."/>
+  <assertion concept="peri22-dataelement-10804" multiplicity="0" occurrence="1" value="@value='false'" description="MRSA besmetting aangetoond? moet &quot;Nee&quot; (false) zijn."/>
+  <assertion concept="peri22-dataelement-10805" multiplicity="0" occurrence="1" value="@value='false'" description="Bloedtransfusie? moet &quot;Nee&quot; (false) zijn."/>
+  <assertion concept="peri22-dataelement-10806" multiplicity="0" occurrence="1" value="format-number((round(10*@value) div 10),'#0.0')='30.3'" description="BMI vrouw moet &quot;30.3&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10808" multiplicity="0" occurrence="1" value="@value='160'" description="Actuele bloeddruk systolisch moet &quot;160&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10809" multiplicity="0" occurrence="1" value="@value='110'" description="Actuele bloeddruk diastolisch moet &quot;110&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10810" multiplicity="0" occurrence="1" value="@code='58460004'" description="Bloedgroep vrouw moet &quot;0&quot; (code 58460004) zijn."/>
+  <assertion concept="peri22-dataelement-10811" multiplicity="0" occurrence="1" value="@code='165747007'" description="Rhesus D Factor vrouw moet &quot;Positief&quot; (code 165747007) zijn."/>
+  <assertion concept="peri22-dataelement-10812" multiplicity="0" occurrence="1" value="@negationInd!='true'" description="Irregulaire antistoffen moet &quot;Ja&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10813" multiplicity="0" occurrence="1" value="@nullFlavor='OTH'" description="Welke irregulaire antistoffen vrouw aanwezig. moet &quot;Overig&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10816" multiplicity="0" occurrence="1" value="@code='rhcpos'" description="Rhesus c Factor moet &quot;Positief&quot; (code rhcpos) zijn."/>
+  <assertion concept="peri22-dataelement-10817" multiplicity="0" occurrence="1" value="@value='false'" description="Afwijkende infectieparameters HBsAg? moet &quot;Nee&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10590" multiplicity="0" occurrence="1" value="@value='479'" description="Identificatie van de zwangerschap moet &quot;479&quot; zijn."/>
+  <assertion concept="peri22-dataelement-80623" multiplicity="0" occurrence="1" value="@code='1'" description="Wijze einde zwangerschap moet &quot;Partus&quot; (code 1) zijn."/>
+  <assertion concept="peri22-dataelement-10598" multiplicity="0" occurrence="1" value="@value='400'" description="Hoeveelheid bloedverlies moet &quot;400&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10601" multiplicity="0" occurrence="1" value="@value='4'" description="Duur actieve ontsluitingsfase (Ontsluitingsduur) moet &quot;4 uur&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10602" multiplicity="0" occurrence="1" value="@value='0'" description="Duur uitdrijving vanaf actief meepersen moet &quot;0 minuten&quot; zijn."/>
+  <assertion concept="peri22-dataelement-80674" multiplicity="0" occurrence="1" value="@code='A'" description="Conditie perineum postpartum moet &quot;Gaaf&quot; (code A) zijn."/>
+  <assertion concept="peri22-dataelement-80624" multiplicity="0" occurrence="1" value="@code='200149009'" description="Type partus moet &quot;Sectio secundair&quot; (code 200149009) zijn."/>
+  <assertion concept="peri22-dataelement-10604" multiplicity="0" occurrence="1" value="@value='2845'" description="Geboortegewicht moet &quot;2845 g&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10605" multiplicity="0" occurrence="1" value="@code='3'" description="Percentiel geboortegewicht moet &quot;10≤P&lt;50&quot; (code = 3) zijn."/>
+  <assertion concept="peri22-dataelement-10606" multiplicity="0" occurrence="1" value="@value='7'" description=""/>
+  <assertion concept="peri22-dataelement-19" multiplicity="0" occurrence="1" value="hl7:procedure/hl7:inboundRelationship/hl7:procedure[hl7:code[(@code='KuVerl' and @codeSystem='2.16.840.1.113883.2.4.4.14')]]/@negationInd='true'" description="Vaginale kunstverlossing moet &quot;Nee&quot; zijn."/>
+  <assertion concept="peri22-dataelement-10607" multiplicity="0" occurrence="0" value="" description=""/>
+  <assertion concept="peri22-dataelement-80627" multiplicity="0" occurrence="1" value="@value='538'" description="Identificatie van de zwangerschap moet '538' zijn."/>
+  <assertion concept="peri22-dataelement-80625" multiplicity="0" occurrence="0" value="" description="Wijze einde zwangerschap mag niet voorkomen (ante partum)."/>
+  <assertion concept="peri22-dataelement-20010" multiplicity="0" occurrence="1" value="@value='2'" description="Graviditeit moet '2' zijn."/>
+  <assertion concept="peri22-dataelement-20150" multiplicity="0" occurrence="1" value="@value='1'" description="Pariteit moet '1' zijn."/>
+  <assertion concept="peri22-dataelement-80617" multiplicity="0" occurrence="1" value="@value='1'" description="Aantal levende kinderen moet '1' zijn."/>
+  <assertion concept="peri22-dataelement-20030" multiplicity="0" occurrence="1" value="@value='20110510'" description="A terme datum moet 10 mei 2011 zijn."/>
+  <assertion concept="peri22-dataelement-80672" multiplicity="0" occurrence="0" value="" description="Bevalplan mag niet voorkomen."/>
+  <assertion concept="peri22-dataelement-6" multiplicity="0" occurrence="0" value="" description="Bevalling mag niet voorkomen."/>
+  <assertion concept="peri22-dataelement-141" multiplicity="2" occurrence="0" value="" description=""/>
+  <assertion concept="peri22-dataelement-141" multiplicity="0" occurrence="0" value="hl7:effectiveTime/@value='20101025'" description="Datum onderzoek bij zwangerschapsduur 11w6d (83 dagen) moet 25 oktober 2010 zijn."/>
+  <assertion concept="peri22-dataelement-141" multiplicity="0" occurrence="0" value="hl7:component/hl7:observation[hl7:code[(@code='445872007' and @codeSystem='2.16.840.1.113883.6.96')]]/hl7:value/@value='83'" description="Zwangerschapsduur op datum onderzoek (25 oktober 2010) moet 11w6d (83 dagen) zijn."/>
+  <assertion concept="peri22-dataelement-60030" multiplicity="0" occurrence="0" value="@value='12.3'" description="BPD bij zwangerschapsduur 11w6d (83 dagen) moet 12.3 zijn."/>
+  <assertion concept="peri22-dataelement-60031" multiplicity="0" occurrence="0" value="" description="BPD percentiel bij zwangerschapsduur 11w6d (83 dagen) niet opnemen."/>
+  <assertion concept="peri22-dataelement-60060" multiplicity="0" occurrence="0" value="@value='24.0'" description="HC bij zwangerschapsduur 11w6d (83 dagen) moet 24.0 zijn."/>
+  <assertion concept="peri22-dataelement-60061" multiplicity="0" occurrence="0" value="" description="HC percentiel bij zwangerschapsduur 11w6d (83 dagen) niet opnemen."/>
+  <assertion concept="peri22-dataelement-60080" multiplicity="0" occurrence="0" value="" description="AC bij zwangerschapsduur 11w6d (83 dagen) niet opnemen."/>
+  <assertion concept="peri22-dataelement-60081" multiplicity="0" occurrence="0" value="" description="AC percentiel bij zwangerschapsduur 11w6d (83 dagen) niet opnemen."/>
+  <assertion concept="peri22-dataelement-60100" multiplicity="0" occurrence="0" value="" description="FL bij zwangerschapsduur 11w6d (83 dagen) niet opnemen."/>
+  <assertion concept="peri22-dataelement-60101" multiplicity="0" occurrence="0" value="" description="FL percentiel bij zwangerschapsduur 11w6d (83 dagen) niet opnemen."/>
+  <assertion concept="peri22-dataelement-60102" multiplicity="0" occurrence="0" value="" description="Echoparameters BPD, HC, AC, FL bij zwangerschapsduur 11w6d (83 dagen) niet opnemen."/>
+  <assertion concept="peri22-dataelement-141" multiplicity="0" occurrence="0" value="hl7:effectiveTime/@value='20101220'" description="Datum onderzoek bij zwangerschapsduur 19w6d (139 dagen) moet 20 december 2010 zijn."/>
+  <assertion concept="peri22-dataelement-141" multiplicity="0" occurrence="0" value="hl7:component/hl7:observation[hl7:code[(@code='445872007' and @codeSystem='2.16.840.1.113883.6.96')]]/hl7:value/@value='139'" description="Zwangerschapsduur op datum onderzoek (20 december 2010) moet 19w6d (139 dagen) zijn."/>
+  <assertion concept="peri22-dataelement-60030" multiplicity="0" occurrence="0" value="" description="BPD bij zwangerschapsduur 19w6d (139 dagen) niet opnemen."/>
+  <assertion concept="peri22-dataelement-60031" multiplicity="0" occurrence="0" value="" description="BPD percentiel bij zwangerschapsduur 19w6d (139 dagen) niet opnemen."/>
+  <assertion concept="peri22-dataelement-60060" multiplicity="0" occurrence="0" value="@value='172.1'" description="HC bij zwangerschapsduur 19w6d (139 dagen) moet 172.1 mm zijn."/>
+  <assertion concept="peri22-dataelement-60061" multiplicity="1" occurrence="0" value="" description="HC percentiel bij zwangerschapsduur 19w6d (139 dagen) moet opgenomen worden (zelf afleiden)."/>
+  <assertion concept="peri22-dataelement-60080" multiplicity="0" occurrence="0" value="@value='143.7'" description="AC bij zwangerschapsduur 19w6d (139 dagen) moet 143.7 zijn."/>
+  <assertion concept="peri22-dataelement-60081" multiplicity="1" occurrence="0" value="" description="AC percentiel bij zwangerschapsduur 19w6d (139 dagen) moet opgenomen worden (zelf afleiden)."/>
+  <assertion concept="peri22-dataelement-60100" multiplicity="0" occurrence="0" value="@value='32.9'" description="FL bij zwangerschapsduur 19w6d (139 dagen) moet 32.9 zijn."/>
+  <assertion concept="peri22-dataelement-60101" multiplicity="1" occurrence="0" value="" description="FL percentiel bij zwangerschapsduur 19w6d (139 dagen) moet opgenomen worden (zelf afleiden)."/>
+  <assertion concept="peri22-dataelement-60102" multiplicity="1" occurrence="0" value="" description="Echoparameters BPD, HC, AC, FL bij zwangerschapsduur 19w6d (139 dagen) moet opgenomen worden."/>
+  <assertion concept="peri22-dataelement-142" multiplicity="1" occurrence="0" value="" description=""/>
+  <assertion concept="peri22-dataelement-142" multiplicity="0" occurrence="0" value="hl7:component/hl7:observation[hl7:code[(@code='59260-0' and @codeSystem='2.16.840.1.113883.6.1')]]/hl7:effectiveTime/@value='20110315'" description="Datum onderzoek bij zwangerschapsduur 32w0d (224 dagen) moet 15 maart 2011 zijn."/>
+  <assertion concept="peri22-dataelement-142" multiplicity="0" occurrence="0" value="hl7:component/hl7:observation[hl7:code[(@code='59260-0' and @codeSystem='2.16.840.1.113883.6.1')]]/hl7:inboundRelationship/hl7:observation[hl7:code/@code='445872007' and hl7:code/@codeSystem='2.16.840.1.113883.6.96']/hl7:value/@value='224'" description="Zwangerschapsduur op datum onderzoek (15 maart 2011) moet 32w0d (224 dagen) zijn."/>
+  <assertion concept="peri22-dataelement-10814" multiplicity="0" occurrence="1" value="@value='6.8'" description="Hb bij zwangerschapsduur 32w0d (234 dagen) moet 6.8 mmol/L zijn."/>
+</test>
